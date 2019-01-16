@@ -82,7 +82,7 @@ While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht�
     <id>https://beta.okfn.de/en/projekte/2030-watch/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>2030Watch monitors the implementation of the Sustainable Development Goals (SDGs) in Germany. The SDGs were set by the United Nations in September 2015 to be implemented by 2030. All members of the United Nations have committed to realizing these 17 goals and 169 targets. The goals include the eradication of poverty and inequality between and within countries as well as action against climate change. 2030Watch primarily uses data from the OECD, the World Bank and other international organizations.</summary>
+    <summary>2030Watch monitors the implementation of the Sustainable Development Goals (SDGs) in Germany. The SDGs were set by the United Nations in September 2015 and will be implemented by 2030. All members of the United Nations have committed to realizing these 17 goals and 169 targets. The goals include the eradication of poverty and inequality between and within countries as well as action against climate change. 2030Watch primarily uses data from the OECD, the World Bank and other international organizations.</summary>
   </entry>
   
   <entry>
@@ -91,7 +91,7 @@ While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht�
     <id>https://beta.okfn.de/en/projekte/appsandthecity/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>&amp;lsquo;Apps and the City&amp;rsquo; was a hackday on local traffic organized by OKF DE together with the local transport provider VBB, the Berlin government and the FH Potsdam. The VBB released GTFS data, opened up their API and provided some geo datasets about entrances to stations. During the event, coders, software experts, and designers used open transport data to create applications intended to non-commercially improve public transport.</summary>
+    <summary>&amp;lsquo;Apps and the City&amp;rsquo; was a hackday on local traffic organized by OKF DE together with the local transport provider VBB, the Berlin government and the FH Potsdam. The VBB released GTFS data, opened up their API and provided some geo datasets about entrances to stations. During the event, coders, software experts, and designers used open transport data to create applications intended to improve public transport non-commercially.</summary>
   </entry>
   
   <entry>
@@ -100,7 +100,7 @@ While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht�
     <id>https://beta.okfn.de/en/projekte/appsforeurope/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Apps for Europe was a program intended to showcase the impact of open data in terms of its economic potential. Neelie Kroes, former Vice President of the European Commission and a strong supporter of Apps for Europe, quantifies the value of open data several billion Euros. The Consortium behind Apps for Europe wants to facilitate the exploration of the value of open data by helping entrepreneurs to transform their ideas into successful businesses, that can gain foothold all over Europe.</summary>
+    <summary>Apps for Europe was a program intended to showcase the impact of open data in terms of its economic potential. Neelie Kroes, former Vice President of the European Commission and a strong supporter of Apps for Europe, quantifies the value of open data at several billion Euros. The Consortium behind Apps for Europe wants to facilitate the exploration of the value of open data by helping entrepreneurs to transform their ideas into successful businesses, that can gain foothold all over Europe.</summary>
   </entry>
   
   <entry>
@@ -127,7 +127,7 @@ While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht�
     <id>https://beta.okfn.de/en/projekte/codingdavinci/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Coding da Vinci is the first cultural data hackathon in Germany bringing together cultural heritage institutions and the hacker/designer community to develop ideas and prototypes for the cultural sector and the public. More and more galleries, libraries, archives and museums (GLAMs) are digitalizing their collections to make them accessible online and to preserve our heritage for future generations. Only when cultural data is made openly available (according to the Open Definition) can it serve as the creative basis for innovative new applications and projects.</summary>
+    <summary>Coding da Vinci is the first cultural data hackathon in Germany that brings together cultural heritage institutions and the hacker/designer community to develop ideas and prototypes for the cultural sector and the public. More and more galleries, libraries, archives and museums (GLAMs) are digitalizing their collections to make them accessible online and to preserve our heritage for future generations. Only when cultural data is made openly available (according to the Open Definition) can it serve as the creative basis for innovative new applications and projects.</summary>
   </entry>
   
   <entry>
