@@ -4,6 +4,16 @@
   
   <url>
     <loc>https://beta.okfn.de/finanzierung/entwicklung/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/finanzierung/entwicklung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/finanzierung/entwicklung/"
+                />
   </url>
   
   <url>
@@ -78,6 +88,16 @@
   
   <url>
     <loc>https://beta.okfn.de/finanzierung/einnahmen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/finanzierung/einnahmen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/finanzierung/einnahmen/"
+                />
   </url>
   
   <url>
@@ -96,6 +116,16 @@
   
   <url>
     <loc>https://beta.okfn.de/finanzierung/ausgaben/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/finanzierung/ausgaben/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/finanzierung/ausgaben/"
+                />
   </url>
   
   <url>

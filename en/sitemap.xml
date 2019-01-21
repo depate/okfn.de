@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://beta.okfn.de/en/finanzierung/entwicklung/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/finanzierung/entwicklung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/finanzierung/entwicklung/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/en/profil/potential/</loc>
     <xhtml:link
                 rel="alternate"
@@ -59,6 +73,20 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/en/finanzierung/einnahmen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/finanzierung/einnahmen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/finanzierung/einnahmen/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/en/profil/wissen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -69,6 +97,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://beta.okfn.de/en/profil/wissen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/en/finanzierung/ausgaben/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/finanzierung/ausgaben/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/finanzierung/ausgaben/"
                 />
   </url>
   
