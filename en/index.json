@@ -45,7 +45,7 @@
        
        "img": "/okf/themen/opendata.png",
        
-       "content": ["Something","with","open","data"]
+       "content": []
      }
  
  
@@ -81,7 +81,7 @@
        
        "img": "/okf/themen/civictech.png",
        
-       "content": ["Something","with","Civic","Tech"]
+       "content": []
      }
  
  
@@ -149,7 +149,7 @@
        
        "img": "/okf/themen/opengov.png",
        
-       "content": ["Something","with","Open","Gov"]
+       "content": []
      }
  
  
@@ -221,7 +221,7 @@
        
        "img": "/okf/themen/education.png",
        
-       "content": ["Something","with","open","education"]
+       "content": []
      }
  
  
@@ -330,22 +330,6 @@
        "img": "projects/zuganggestalten.jpg",
        
        "content": ["Museums,","archives,","libraries","and","momuments","are","operated","and","maintained","with","public","funds.","The","international","conference","\u0026lsquo;Zugang","gestalten\u0026rsquo;","asks","the","question","whether","this","is","adequately","reflected","in","the","level","of","access","to","the","cultural","treasures","that","these","institutions","possess","and","maintain.","The","conference","invites","key","figures","in","culture,","science,","civic","society","and","politics","to","publicly","explore","different","ways","of","accessing","digital","cultural","heritage","in","Germany.","\u0026lsquo;Zugang","gestalten\u0026rsquo;","stands","under","the","auspices","of","the","German","UNESCO","commission","and","is","a","collaboartive","project","of","the","Open","Knowledge","Foundation","Deutschland,","Stiftung","Historische","Museen","Hamburg,","Servicestelle","Digitalisierung","Berlin,","Deutschen","Digitalen","Bibliothek,","Internet","\u0026amp;","Gesellschaft","Collaboratory","e.V.,","Institut","Français","Deutschland,","iRights.info,","Jüdischen","Museum","Berlin,","Stiftung","Haus","der","Geschichte","der","Bundesrepublik","Deutschland,","Stiftung","Preußischer","Kulturbesitz","and","Wikimedia","Deutschland."]
-     }
- 
- 
- 
- 
- 
- 
- 
-   ,
-     {
-       "url": "https://beta.okfn.de/en/categories/",
-       "title": "",
-       "section": "categories",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "content": []
      }
  
  

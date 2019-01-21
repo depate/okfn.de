@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informationsfreiheit on OKF</title>
+    <link>https://beta.okfn.de/categories/informationsfreiheit/</link>
+    <description>Recent content in Informationsfreiheit on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://beta.okfn.de/categories/informationsfreiheit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FragDenStaat</title>
+      <link>https://beta.okfn.de/projekte/fragdenstaat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/fragdenstaat/</guid>
+      <description>In einer Demokratie ist es notwendig, dass sich Bürgerinnen frei über Regierungshandeln informieren können. Mit dem Informationsfreiheitsgesetz hat jede Person unabhängig von Alter oder Herkunft das Recht, Dokumente bei Behörden anzufragen. Mit der Online-Plattform FragDenStaat unterstützen wir Bürgerinnen dabei, ihr Recht auf Zugang zu Informationen von deutschen Behörden wahrzunehmen. Bürgerinnen müssen sich nicht mehr durch den Gesetzesdschungel der Bundesländer und dem Bund arbeiten, um eine Anfrage zu stellen. Anfragen und Antworten erscheinen transparent online.</description>
+    </item>
+    
+    <item>
+      <title>Transparenzranking</title>
+      <link>https://beta.okfn.de/projekte/transparenzranking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/transparenzranking/</guid>
+      <description>Gemäß Artikel 5 Grundgesetz hat jede Person das Recht, sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Das hört sich erst einmal vielversprechend an. Doch lange Zeit mangelte es an allgemein zugänglichen Quellen. Erst um die Jahrtausendwende wagten viele deutsche Bundesländer einen großen Schritt: Informationsfreiheit war das Gebot der Stunde. Durch Informationsfreiheitsgesetze verpflichteten in Berlin und Brandenburg die ersten Landtage kommunale Verwaltungen und Landesbehörden zur Abkehr vom bislang geltenden Amtsgeheimnis.</description>
+    </item>
+    
+  </channel>
+</rss>

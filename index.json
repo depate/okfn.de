@@ -21,7 +21,7 @@
    ,
      {
        "url": "https://beta.okfn.de/themen/open_data/",
-       "title": "Open Data",
+       "title": "Offene Daten (Open Data)",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
@@ -7734,22 +7734,6 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/categories/",
-       "title": "",
-       "section": "categories",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "content": []
-     }
- 
- 
- 
- 
- 
- 
- 
-   ,
-     {
        "url": "https://beta.okfn.de/blog/1/01/000000-fragdenstaat-enth%C3%BCllt-kunstedition-zur-informationsfreiheit/",
        "title": "#000000 - FragDenStaat enthüllt Kunstedition zur Informationsfreiheit",
        "section": "blog",
@@ -8024,8 +8008,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/civic-tech/",
@@ -8035,6 +8017,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
@@ -8098,8 +8082,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/community/",
@@ -8109,6 +8091,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
@@ -8568,6 +8552,22 @@
  
  
  
+   ,
+     {
+       "url": "https://beta.okfn.de/categories/informationsfreiheit/",
+       "title": "Informationsfreiheit",
+       "section": "categories",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "content": []
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -8982,8 +8982,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/open-data/",
@@ -9037,6 +9035,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
