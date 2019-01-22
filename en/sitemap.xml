@@ -652,6 +652,21 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/en/categories/informationsfreiheit/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/categories/informationsfreiheit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/categories/informationsfreiheit/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/en/jobs/</loc>
     <xhtml:link
                 rel="alternate"

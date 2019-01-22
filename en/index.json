@@ -115,7 +115,7 @@
        
        "img": "[/okf/profil/03.jpg]",
        
-       "content": ["In","a","democratic","state,","open","knowledge","is","a","prerequisite","for","participation.","We","strive","for","a","world","in","which","knowledge","is","freely","available","both","online","and","offline.","We","give","talks,","run","initiatives,","and","research","the","effects","of","open","data.","Our","projects","and","campaigns","actively","demonstrate","how","open","knowledge","strengthens","democracy."]
+       "content": ["In","a","democratic","state,","open","knowledge","is","a","prerequisite","for","participation.","We","strive","for","a","world","in","which","knowledge","is","freely","available","both","online","and","offline.","We","give","talks,","run","initiatives,","and","research","the","effects","of","open","data..","Our","projects","and","campaigns","actively","demonstrate","how","open","knowledge","strengthens","democracy."]
      }
  
  
@@ -718,12 +718,28 @@
  
    ,
      {
+       "url": "https://beta.okfn.de/en/categories/informationsfreiheit/",
+       "title": "Informationsfreiheit",
+       "section": "categories",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "content": []
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
        "url": "https://beta.okfn.de/en/jobs/",
        "title": "Jobs",
        "section": "jobs",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["jobs!"]
+       "content": ["Our","vacancies","change","regularly,","but","we","are","always","looking","for","enthusiastic","people","to","bring","new","ideas","and","perspectives","to","our","team.","Subscribe","to","our","newsletter","to","stay","informed","about","current","job","offers."]
      }
  
  
