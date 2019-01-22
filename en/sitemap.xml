@@ -17,20 +17,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/en/profil/potential/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/profil/potential/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/profil/potential/"
-                />
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/en/themen/open_data/</loc>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +41,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://beta.okfn.de/en/projekte/ogp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/en/profil/potential/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/profil/potential/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/profil/potential/"
                 />
   </url>
   

@@ -20,24 +20,6 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/profil/potential/",
-       "title": "Exploring the democratic potential of technology",
-       "section": "profil",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "[/okf/profil/01.jpg /okf/profil/02.jpg]",
-       
-       "content": ["Digitally","networked","technologies","bring","new","opportunities","for","civil","society:","Citizens","can","exercise","their","rights","more","easily","and","obtain","better","information","about","what","the","government","is","doing.","We","promote","fact-based","political","discourse.","We","develop","software,","provide","infrastructure","and","promote","open","source","projects.","We","experiment","and","offer","a","field","of","experimentation","for","others."]
-     }
- 
- 
- 
- 
- 
- 
- 
-   ,
-     {
        "url": "https://beta.okfn.de/en/themen/open_data/",
        "title": "Open Data",
        "section": "themen",
@@ -64,6 +46,24 @@
        "img": "projects/OGP_Projektuebersicht_smallTile.png",
        
        "content": ["As","part","of","the","Open","Government","Network,","we","support","Germany\u0026rsquo;s","active","participation","in","the","Open","Government","Partnership","(OGP)","and","the","interests","of","German","civil","society","in","this","process","and","coordinate","the","civil","society","network.","The","network","is","an","association","of","civil","society","organisations","and","individuals","that","has","been","working","since","2011","to","promote","open","government","and","administrative","action","as","a","holistic","approach","to","strengthening","democracy.","In","particular,","the","focus","is","on","the","exchange","with","the","Federal","Government","and","the","development","of","national","action","plans.","The","network","enables","citizens","to","participate","in","the","development","and","implementation","of","ambitious","Open","Government","reforms","and","to","expand","the","dialogue.","In","doing","so,","we","combine","the","expertise","of","our","members","and","strengthen","capacity","building","in","civil","society.","We","share","the","conviction","that","active","participation","by","the","Federal","Republic","of","Germany","in","the","Open","Government","Partnership","promotes","a","cultural","change","towards","greater","transparency,","participation","and","accountability","and","thus","stimulates","and","strengthens","democracy","and","the","quality","of","government","action."]
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
+       "url": "https://beta.okfn.de/en/profil/potential/",
+       "title": "We explore the democratic potential of technology",
+       "section": "profil",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "[/okf/profil/01.jpg /okf/profil/02.jpg]",
+       
+       "content": ["Digitally","networked","technologies","bring","new","opportunities","for","civil","society:","Citizens","can","exercise","their","rights","more","easily","and","obtain","better","information","about","what","the","government","is","doing.","We","promote","fact-based","political","discourse.","We","develop","software,","provide","infrastructure","and","promote","open","source","projects.","We","experiment","and","offer","a","field","of","experimentation","for","others."]
      }
  
  
