@@ -9,7 +9,7 @@
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Der","Großteil","(\u0026gt;85%)","unserer","Einnahmen","sind","Gelder","aus","öffentlicher","Hand,","die","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten","erhalten.","Unsere","Einzelspenden","entsprechen","ca.","1%","unserer","Einnahmen.","Akteure","der","Privatwirtschaft","steuern","aktuell","unter","4.74%","unserer","Gelder","bei.","Diese","heterogene","Förderung","mit","geringem","privatwirtschaftlichen","Anteil","wollen","wir","auch","weiterhin","beibehalten."]
+       "content": []
      }
  
  
@@ -115,7 +115,7 @@
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Der","Großteil","(\u0026gt;85%)","unserer","Einnahmen","sind","Gelder","aus","öffentlicher","Hand,","die","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten","erhalten.","Unsere","Einzelspenden","entsprechen","ca.","1%","unserer","Einnahmen.","Akteure","der","Privatwirtschaft","steuern","aktuell","unter","4.74%","unserer","Gelder","bei.","Diese","heterogene","Förderung","mit","geringem","privatwirtschaftlichen","Anteil","wollen","wir","auch","weiterhin","beibehalten.","Übersicht","Öffentliche","Geldgeber","Unternehmen","Eigenerwirtschaftete","Gelder","Spenden","Durch","Einzelspenden","finanzierte","oder","auf","ehrenamtlicher","Arbeit","beruhende","Projekte","Unsere","Projekte","entstehen","aus","einer","lösungsorientierten","und","idealistischen","Haltung","und","werden","oft","durch","ehrenamtliche","Tätigkeit","initiiert.","Einzelspenden","ermöglichen","die","Verstetigung","und","inhaltliche","Unabhängigkeit","dieser","gemeinnützigen","Werkzeuge.","Unterstütze","uns","deshalb","noch","heute","mit","einer","Spende!"]
+       "content": ["Der","Großteil","(\u0026gt;85%)","unserer","Einnahmen","sind","Gelder","aus","öffentlicher","Hand,","die","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten","erhalten.","Unsere","Einzelspenden","entsprechen","ca.","1%","unserer","Einnahmen.","Akteure","der","Privatwirtschaft","steuern","aktuell","unter","4.74%","unserer","Gelder","bei.","Übersicht","Öffentliche","Geldgeber","Unternehmen","Eigenerwirtschaftete","Gelder","Spenden","Durch","Einzelspenden","finanzierte","oder","auf","ehrenamtlicher","Arbeit","beruhende","Projekte","Unsere","Projekte","entstehen","aus","einer","lösungsorientierten","und","idealistischen","Haltung","und","werden","oft","durch","ehrenamtliche","Tätigkeit","initiiert.","Einzelspenden","ermöglichen","die","Verstetigung","und","inhaltliche","Unabhängigkeit","dieser","gemeinnützigen","Werkzeuge.","Unterstütze","uns","deshalb","noch","heute","mit","einer","Spende!"]
      }
  
  
@@ -8008,8 +8008,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/civic-tech/",
@@ -8019,6 +8017,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
@@ -8082,8 +8082,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/community/",
@@ -8093,6 +8091,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
@@ -8552,8 +8552,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/informationsfreiheit/",
@@ -8563,6 +8561,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
@@ -8964,8 +8964,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/open-data/",
@@ -9019,6 +9017,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
