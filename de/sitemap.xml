@@ -4137,20 +4137,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/projekte/offeneentwicklungshilfe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/projekte/offeneentwicklungshilfe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/projekte/offeneentwicklungshilfe/"
-                />
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/tags/offene-entwicklungszusammenarbeit/</loc>
     <lastmod>2013-02-06T09:47:37+00:00</lastmod>
     <priority>0</priority>

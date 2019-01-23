@@ -9,7 +9,7 @@
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Der","Großteil","(\u0026gt;70%)","unserer","Einnahmen","besteht","aus","Geldern","aus","öffentlicher","Hand.","Diese","beziehen","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten.","Einzelspenden","entsprechen","ca.","20%","unserer","Einnahmen.","Akteure","der","Privatwirtschaft","stellen","aktuell","7%","unserer","Gelder","bereit.","Wir","sind","bestrebt,","eine","heterogene","Förderung","mit","geringem","Privatwirtschaftlichen","Anteil","beizubehalten,","um","die","Unabhängigkeit","unserer","Arbeit","zu","gewährleisten."]
+       "content": ["Der","Großteil","(\u0026gt;85%)","unserer","Einnahmen","sind","Gelder","aus","öffentlicher","Hand,","die","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten","erhalten.","Unsere","Einzelspenden","entsprechen","ca.","1%","unserer","Einnahmen.","Akteure","der","Privatwirtschaft","steuern","aktuell","unter","4.74%","unserer","Gelder","bei.","Diese","heterogene","Förderung","mit","geringem","privatwirtschaftlichen","Anteil","wollen","wir","auch","weiterhin","beibehalten."]
      }
  
  
@@ -21,7 +21,7 @@
    ,
      {
        "url": "https://beta.okfn.de/themen/open_data/",
-       "title": "Offene Daten (Open Data)",
+       "title": "Offene Daten",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
@@ -115,7 +115,7 @@
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Der","Großteil","(\u0026gt;70%)","unserer","Einnahmen","besteht","aus","Geldern","aus","öffentlicher","Hand.","Diese","beziehen","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten.","Einzelspenden","entsprechen","ca.","20%","unserer","Einnahmen.","Akteure","der","Privatwirtschaft","stellen","aktuell","7%","unserer","Gelder","bereit.","Wir","sind","bestrebt,","eine","heterogene","Förderung","mit","geringem","Privatwirtschaftlichen","Anteil","beizubehalten,","um","die","Unabhängigkeit","unserer","Arbeit","zu","gewährleisten.","Übersicht","Öffentliche","Geldgeber","Unternehmen","Eigenerwirtschaftete","Gelder","Spenden","Durch","Einzelspenden","finanzierte","oder","auf","ehrenamtlicher","Arbeit","beruhende","Projekte","Wir","sowie","unsere","Community","entwickelt","digitale","Bürgerbeteiligungs-Werkzeuge","auf","der","Basis","Offener","Daten,","um","den","öffentlichen","Sektor","gegenüber","der","Zivilgesellschaft","zu","öffnen.","Diese","Projekte","entstehen","aus","einer","lösungsorientierten","und","idealistischen","Haltung","und","werden","oft","durch","ehrenamtliche","Tätigkeit","initiiert.","Einzelspenden","ermöglichen","die","Verstetigung","und","inhaltliche","Unabhängigkeit","dieser","gemeinnützigen","Werkzeuge.","Unterstützen","Sie","uns","deshalb","noch","heute","durch","eine","Spende!"]
+       "content": ["Der","Großteil","(\u0026gt;85%)","unserer","Einnahmen","sind","Gelder","aus","öffentlicher","Hand,","die","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten","erhalten.","Unsere","Einzelspenden","entsprechen","ca.","1%","unserer","Einnahmen.","Akteure","der","Privatwirtschaft","steuern","aktuell","unter","4.74%","unserer","Gelder","bei.","Diese","heterogene","Förderung","mit","geringem","privatwirtschaftlichen","Anteil","wollen","wir","auch","weiterhin","beibehalten.","Übersicht","Öffentliche","Geldgeber","Unternehmen","Eigenerwirtschaftete","Gelder","Spenden","Durch","Einzelspenden","finanzierte","oder","auf","ehrenamtlicher","Arbeit","beruhende","Projekte","Unsere","Projekte","entstehen","aus","einer","lösungsorientierten","und","idealistischen","Haltung","und","werden","oft","durch","ehrenamtliche","Tätigkeit","initiiert.","Einzelspenden","ermöglichen","die","Verstetigung","und","inhaltliche","Unabhängigkeit","dieser","gemeinnützigen","Werkzeuge.","Unterstütze","uns","deshalb","noch","heute","mit","einer","Spende!"]
      }
  
  
@@ -149,7 +149,7 @@
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Der","größte","Teil","der","finanziellen","Zuwendungen","und","Umsätze","ist","Zweckgebunden","für","die","Durchführung","von","Projekten","und","die","Organisation","von","Veranstaltungen.","Neben","den","projektgebundenen","Ausgaben","versuchen","wir","die","Fixkosten","relativ","niedrig","zu","halten.","Derzeit","bestehen","diese","aus","der","Miete","und","Unterhalt","für","das","Berliner","Büro","sowie","Serverkosten.","Der","größte","Posten","bei","den","Ausgaben","waren","Aufwendungen","für","die","Organisation","und","Durchführung","von","Projekten","und","Veranstaltungen","sowie","Gehälter","und","Honorare.","Wir","beschäftigen","zur","Zeit","Personen","im","Umfang","von","ca.","18,5","Vollzeitäquivalenten."]
+       "content": ["Der","größte","Teil","der","finanziellen","Zuwendungen","und","Umsätze","ist","an","die","Durchführung","von","konkreten","Projekten","und","an","die","Organisation","von","Veranstaltungen","gebunden.","Neben","den","projektgebundenen","Ausgaben","versuchen","wir,","die","Fixkosten","gering","zu","halten.","Derzeit","setzen","sie","sich","zusammen","aus","Miete","und","Nebenkosten","für","das","Berliner","Büro,","die","Ausgaben","für","unsere","Buchhaltung,","die","Leitung","unserer","Organisation","sowie","Serverkosten.","Der","größte","Posten","bei","den","Ausgaben","sind","materielle","Aufwendungen","für","die","Planung","und","Durchführung","von","Projekten","und","Veranstaltungen","sowie","unsere","Gehälter.","Die","Anzahl","unserer","Beschäftigten","entspricht","derzeit","ca.","18,5","Vollzeitäquivalenten."]
      }
  
  
@@ -8375,7 +8375,7 @@
        
        "img": "projects/familienlabore.jpg",
        
-       "content": ["Die","Gestaltung","von","Familienleben","in","Deutschland","hat","sich","in","den","letzten","Jahrzehnten","enorm","gewandelt.","Patchwork-Familien,","Mehr-Generationen-Häuser","und","Haushalte","von","Alleinerziehenden","bringen","ganz","unterschiedliche","Anforderungen","mit","sich.","Eine","der","größten","Herausforderungen","ist","und","bleibt","die","Vereinbarkeit","von","Familie","und","Beruf.","Oder","anders","gefragt:","Ist","es","wirklich","notwendig,","jedes","Mal","drei","Stunden","im","Wartezimmer","eines","Arztes","sitzen","zu","müssen?","Wir","denken:","Das","geht","besser.","Die","Gestaltung","von","Familienleben","in","Deutschland","hat","sich","in","den","letzten","Jahrzehnten","enorm","gewandelt.","Patchwork-Familien,","Mehr-Generationen-Häuser","und","Haushalte","von","Alleinerziehenden","bringen","ganz","unterschiedliche","Anforderungen","mit","sich.","Eine","der","größten","Herausforderungen","ist","und","bleibt","die","Vereinbarkeit","von","Familie","und","Beruf.","Oder","anders","gefragt:","Ist","es","wirklich","notwendig,","jedes","Mal","drei","Stunden","im","Wartezimmer","eines","Arztes","sitzen","zu","müssen?","Wir","denken:","Das","geht","besser.","Die","Familienlabore","sind","ein","gemeinnütziges","Workshopformat,","um","gemeinsam","mit","Familienmitgliedern,","kommunalen","InteressenvertreterInnen","und","TechnologieexpertInnen","über","die","bessere","Vereinbarkeit","von","Familie","und","Beruf","nachzudenken","und","konkrete,","prototypische","Lösungen","zu","entwickeln.","Das","kann","die","Wartezimmerapp","sein.","Oder","die","Zugänglichmachung","von","Regionaldaten","zu","Bildungs-","und","Freizeitangeboten","für","nicht","technikaffine","Menschen.","Oder","eine","Austauschplattform,","um","Wahlomas","und","-opas","zu","finden.","Oder","ein","digitales","Open","Source-Werkzeug","für","die","bessere","Einkaufskoordination","innerhalb","der","Familien.","Eben","all","das,","was","den","Teilnehmenden","der","Familienlabore","unter","den","Nägeln","brennt,","und","für","das","es","technische","Lösungen","gibt.","In","Form","von","verrückten","Workshopformaten","mit","Comics,","Mini-Robotern,","Klick/Papierprototypen","und","Fotolovestories","wird","alles","möglich!"]
+       "content": ["Die","Gestaltung","von","Familienleben","in","Deutschland","hat","sich","in","den","letzten","Jahrzehnten","enorm","gewandelt.","Patchwork-Familien,","Mehr-Generationen-Häuser","und","Haushalte","von","Alleinerziehenden","bringen","ganz","unterschiedliche","Anforderungen","mit","sich.","Eine","der","größten","Herausforderungen","ist","und","bleibt","die","Vereinbarkeit","von","Familie","und","Beruf.","Oder","anders","gefragt:","Ist","es","wirklich","notwendig,","jedes","Mal","drei","Stunden","im","Wartezimmer","eines","Arztes","sitzen","zu","müssen?","Wir","denken:","Das","geht","besser.","Die","Familienlabore","sind","ein","Workshopformat,","um","gemeinsam","mit","Familienmitgliedern,","kommunalen","Interessenvertreter*innen","und","Technologieexpert*innen","über","die","bessere","Vereinbarkeit","von","Familie","und","Beruf","nachzudenken","und","konkrete,","prototypische","Lösungen","zu","entwickeln.","Das","kann","die","Wartezimmerapp","sein.","Oder","die","Zugänglichmachung","von","Regionaldaten","zu","Bildungs-","und","Freizeitangeboten","für","nicht","technikaffine","Menschen.","Oder","ein","digitales","Open","Source-Werkzeug","für","die","bessere","Einkaufskoordination","innerhalb","der","Familien.","Eben","all","das,","was","den","Teilnehmenden","der","Familienlabore","unter","den","Nägeln","brennt,","und","für","das","es","technische","Lösungen","gibt.","In","Form","von","verrückten","Workshopformaten","mit","Comics,","Mini-Robotern,","Klick/Papierprototypen","und","Fotolovestories","wird","alles","möglich!"]
      }
  
  
@@ -8415,7 +8415,7 @@
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Seit","unserer","Gründung","im","Jahr","2011","werden","wir","durch","Stiftungen,","Ministerien","und","einzelner","Geber","finanziert.","Im","Geschäftsjahr","2017","standen","uns","1,12","Millionen","Euro","für","unsere","Arbeit","zur","Verfügung.","Insgesamt","unterstützten","23","Geldgeber","aus","dem","öffentlichen","Sektor","und","der","Wirtschaft","unsere","Arbeit."]
+       "content": ["Seit","unserer","Gründung","im","Jahr","2011","werden","wir","durch","Stiftungen,","Ministerien,","Forschungsaufträge","sowie","einzelne","private","und","wirtschaftliche","Gebern","finanziert.","Im","Geschäftsjahr","2017","standen","uns","2","Millionen","Euro","für","unsere","Arbeit","zur","Verfügung."]
      }
  
  
@@ -8839,24 +8839,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
-   ,
-     {
-       "url": "https://beta.okfn.de/projekte/offeneentwicklungshilfe/",
-       "title": "Offene Entwicklungshilfe",
-       "section": "projekte",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "projects/offeneentwicklungshilfe.jpg",
-       
-       "content": ["Offene-Entwicklungshilfe.de","ist","eine","Webseite,","die","alle","Aktivitäten","der","staatlichen","deutschen","Entwicklungszusammenarbeit","der","letzten","10","Jahre","im","Detail","darstellt.","Ihr","Kern","ist","eine","graphische","Darstellung","von","den","Ausgaben","der","Entwicklungshilfe","nach","Ländern","und","Schwerpunkten","bis","hinunter","auf","Projektebene.","Das","Projekt","ist","im","Beta-Stadium","und","wird","fortwährend","weiterentwickelt.","Anregungen,","Vorschläge","und","Spenden","sind","jederzeit","willkommen."]
-     }
  
  
  

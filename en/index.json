@@ -5,11 +5,11 @@
    
      {
        "url": "https://beta.okfn.de/en/finanzierung/entwicklung/",
-       "title": "Entwicklung der Gesamteinnahmen",
+       "title": "Development of total revenue",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Der","Großteil","(\u0026gt;70%)","unserer","Einnahmen","besteht","aus","Geldern","aus","öffentlicher","Hand.","Diese","beziehen","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten.","Einzelspenden","entsprechen","ca.","20%","unserer","Einnahmen.","Akteure","der","Privatwirtschaft","stellen","aktuell","7%","unserer","Gelder","bereit.","Wir","sind","bestrebt,","eine","heterogene","Förderung","mit","geringem","Privatwirtschaftlichen","Anteil","beizubehalten,","um","die","Unabhängigkeit","unserer","Arbeit","zu","gewährleisten.","{{",".Params.subtitle}}"]
+       "content": ["The","majority","(\u0026gt;85%)","of","our","income","comes","from","public","funds.","We","obtain","these","funds","through","public","tenders,","funding","programmes","and","research","work.","Individual","donations","correspond","to","approximately","1%","of","our","income.","The","private","sector","currently","provides","4,74%","of","our","funds.","We","strive","our","to","maintain","diverse","funding","streams","with","a","small","private","sector","share."]
      }
  
  
@@ -93,11 +93,11 @@
    ,
      {
        "url": "https://beta.okfn.de/en/finanzierung/einnahmen/",
-       "title": "Einnahmen 2017",
+       "title": "Revenues 2017",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Der","Großteil","(\u0026gt;70%)","unserer","Einnahmen","besteht","aus","Geldern","aus","öffentlicher","Hand.","Diese","beziehen","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten.","Einzelspenden","entsprechen","ca.","20%","unserer","Einnahmen.","Akteure","der","Privatwirtschaft","stellen","aktuell","7%","unserer","Gelder","bereit.","Wir","sind","bestrebt,","eine","heterogene","Förderung","mit","geringem","Privatwirtschaftlichen","Anteil","beizubehalten,","um","die","Unabhängigkeit","unserer","Arbeit","zu","gewährleisten.","Übersicht","Öffentliche","Geldgeber","Unternehmen","Eigenerwirtschaftete","Gelder","Spenden","Durch","Einzelspenden","finanzierte","oder","auf","ehrenamtlicher","Arbeit","beruhende","Projekte","Wir","sowie","unsere","Community","entwickelt","digitale","Bürgerbeteiligungs-Werkzeuge","auf","der","Basis","Offener","Daten,","um","den","öffentlichen","Sektor","gegenüber","der","Zivilgesellschaft","zu","öffnen.","Diese","Projekte","entstehen","aus","einer","lösungsorientierten","und","idealistischen","Haltung","und","werden","oft","durch","ehrenamtliche","Tätigkeit","initiiert.","Einzelspenden","ermöglichen","die","Verstetigung","und","inhaltliche","Unabhängigkeit","dieser","gemeinnützigen","Werkzeuge.","Unterstützen","Sie","uns","deshalb","noch","heute","durch","eine","Spende!"]
+       "content": ["The","majority","(\u0026gt;85%)","of","our","income","comes","from","public","funds.","We","obtain","these","funds","through","public","tenders,","funding","programmes","and","research","work.","Individual","donations","correspond","to","approximately","1%","of","our","income.","The","private","sector","currently","provides","4,74%","of","our","funds.","We","strive","our","to","maintain","diverse","funding","streams","with","a","small","private","sector","share.","Übersicht","Öffentliche","Geldgeber","Unternehmen","Eigenerwirtschaftete","Gelder","Spenden","Projects","financed","by","individual","donations","or","based","on","voluntary","work","Our","projects","are","often","initiated","by","voluntary","work","and","driven","by","passionate","individuals.","Individual","donations","make","the","continuity","and","independence","of","these","tools","for","the","public","good","possible.","Help","us","by","donating","today!"]
      }
  
  
@@ -127,11 +127,11 @@
    ,
      {
        "url": "https://beta.okfn.de/en/finanzierung/ausgaben/",
-       "title": "Ausgaben 2017",
+       "title": "Expenses 2017",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Der","größte","Teil","der","finanziellen","Zuwendungen","und","Umsätze","ist","Zweckgebunden","für","die","Durchführung","von","Projekten","und","die","Organisation","von","Veranstaltungen.","Neben","den","projektgebundenen","Ausgaben","versuchen","wir","die","Fixkosten","relativ","niedrig","zu","halten.","Derzeit","bestehen","diese","aus","der","Miete","und","Unterhalt","für","das","Berliner","Büro","sowie","Serverkosten.","Der","größte","Posten","bei","den","Ausgaben","waren","Aufwendungen","für","die","Organisation","und","Durchführung","von","Projekten","und","Veranstaltungen","sowie","Gehälter","und","Honorare.","Wir","beschäftigen","zur","Zeit","Personen","im","Umfang","von","ca.","18,5","Vollzeitäquivalenten."]
+       "content": ["Most","costs","are","linked","to","the","implementation","of","projects","and","the","organization","of","events.","We","try","to","keep","fixed","costs","(non","project-related","expenditure)","low.","Rent,","ancillary","costs","for","the","Berlin","office","and","server","expenses","represent","the","majority","of","such","costs.","We","currently","employ","around","18.5","full-time","equivalent","staff."]
      }
  
  
@@ -330,6 +330,22 @@
        "img": "projects/zuganggestalten.jpg",
        
        "content": ["Museums,","archives,","libraries","and","momuments","are","operated","and","maintained","with","public","funds.","The","international","conference","\u0026lsquo;Zugang","gestalten\u0026rsquo;","asks","the","question","whether","this","is","adequately","reflected","in","the","level","of","access","to","the","cultural","treasures","that","these","institutions","possess","and","maintain.","The","conference","invites","key","figures","in","culture,","science,","civic","society","and","politics","to","publicly","explore","different","ways","of","accessing","digital","cultural","heritage","in","Germany.","\u0026lsquo;Zugang","gestalten\u0026rsquo;","stands","under","the","auspices","of","the","German","UNESCO","commission","and","is","a","collaboartive","project","of","the","Open","Knowledge","Foundation","Deutschland,","Stiftung","Historische","Museen","Hamburg,","Servicestelle","Digitalisierung","Berlin,","Deutschen","Digitalen","Bibliothek,","Internet","\u0026amp;","Gesellschaft","Collaboratory","e.V.,","Institut","Français","Deutschland,","iRights.info,","Jüdischen","Museum","Berlin,","Stiftung","Haus","der","Geschichte","der","Bundesrepublik","Deutschland,","Stiftung","Preußischer","Kulturbesitz","and","Wikimedia","Deutschland."]
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
+       "url": "https://beta.okfn.de/en/categories/",
+       "title": "",
+       "section": "categories",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "content": []
      }
  
  
@@ -655,7 +671,7 @@
        
        "img": "projects/familienlabore.jpg",
        
-       "content": ["The","shaping","of","family","life","in","Germany","has","changed","enormously","in","recent","decades.","Patchwork","families,","multi-generation","houses","and","households","of","single","parents","bring","completely","different","requirements","with","them.","One","of","the","biggest","challenges","is","the","compatibility","of","family","and","career.","Or","to","put","it","another","way:","Is","it","really","necessary","to","have","to","sit","in","a","doctor\u0026rsquo;s","waiting","room","for","three","hours","each","time?","We","think:","this","works","better.","The","shaping","of","family","life","in","Germany","has","changed","enormously","in","recent","decades.","Patchwork","families,","multi-generation","houses","and","households","of","single","parents","bring","completely","different","requirements","with","them.","One","of","the","biggest","challenges","is","and","remains","the","compatibility","of","family","and","career.","Or","to","put","it","another","way:","Is","it","really","necessary","to","have","to","sit","in","a","doctor\u0026rsquo;s","waiting","room","for","three","hours","each","time?","We","think:","this","could","work","better.","The","family","labs","are","a","non-profit","workshop","format","to","think","about","the","compatibility","of","family","and","career","together","with","family","members,","local","interest","representatives","and","technology","experts","and","to","develop","concrete,","prototypical","solutions.","This","can","be","the","waiting","room","app.","Or","making","regional","data","on","education","and","leisure","opportunities","accessible","to","people","who","are","not","interested","in","technology.","Or","an","exchange","platform","to","find","Wahlomas","and","Wahlopas.","Or","a","digital","open","source","tool","for","better","shopping","coordination","within","families.","Everything","that","burns","under","the","nails","of","the","participants","in","the","family","labs","and","for","which","there","are","technical","solutions.","In","the","form","of","crazy","workshop","formats","with","comics,","mini","robots,","click/paper","prototypes","and","photo","novestories","everything","becomes","possible!"]
+       "content": ["The","shaping","of","family","life","in","Germany","has","changed","enormously","in","recent","decades.","Patchwork","families,","multi-generation","houses","and","households","of","single","parents","bring","completely","different","requirements","with","them.","One","of","the","biggest","challenges","is","the","compatibility","of","family","and","career.","Or","to","put","it","another","way:","Is","it","really","necessary","to","have","to","sit","in","a","doctor\u0026rsquo;s","waiting","room","for","three","hours","each","time?","We","think:","this","works","better.","The","family","labs","are","a","non-profit","workshop","format","to","think","about","the","compatibility","of","family","and","career","together","with","family","members,","local","interest","representatives","and","technology","experts","and","to","develop","concrete,","prototypical","solutions.","This","can","be","the","waiting","room","app.","Or","making","regional","data","on","education","and","leisure","opportunities","accessible","to","people","who","are","not","interested","in","technology.","Or","a","digital","open","source","tool","for","better","shopping","coordination","within","families.","Everything","that","burns","under","the","nails","of","the","participants","in","the","family","labs","and","for","which","there","are","technical","solutions.","In","the","form","of","crazy","workshop","formats","with","comics,","mini","robots,","click/paper","prototypes","and","photo","novestories","everything","becomes","possible!"]
      }
  
  
@@ -689,7 +705,7 @@
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "content": ["Some","text"]
+       "content": ["Since","our","launch","in","2011,","we","have","been","financed","by","foundations,","ministries,","research","contracts","and","individual","private","and","economic","donors.","In","the","financial","year","2017,","we","raised","a","total","of","2","million","Euros","for","our","work."]
      }
  
  
@@ -794,24 +810,6 @@
        "img": "projects/offenedaten.jpg",
        
        "content": ["The","goal","of","Offene","Daten","was","to","create","the","prototype","of","a","data","portal","for","openly","accessible","administrative","data","that","had","not","been","available","in","Germany","before.","Offenedaten.de","was","used","as","a","data","catalogue","for","the","Apps","4","Germany","competition,","which","took","place","in","2011.","In","the","programming","competition,","77","innovative","applications","for","citizens","were","programmed","from","320","data","sets","and","112","ideas.","From","2014,","the","beta","version","of","the","portal","will","also","contain","the","total","metadata","of","the","Open","Data","Monitor","project.","The","aim","was","to","record","the","offers","of","open","data","in","the","public","sector","in","Germany","as","comprehensively","as","possible,","to","process","them","according","to","subject","areas","and","to","make","them","searchable","in","a","user-friendly","and","geographical","manner","with","reasonable","effort.","(=","11,191","municipalities,","several","dozen","state","authorities","per","federal","state,","federal","authorities","and","public","enterprises","at","all","three","levels).","The","main","addressees","were","students,","scientists","and","journalists","as","well","as","app","developers","who","want","to","know","which","local","authorities","offer","open","data","on","a","specific","topic.","The","main","result","of","the","project","for","OffeneDaten.de","was","to","link","the","data","with","site-specific","organisations","that","do","not","always","publish","data","directly","(e.g.","sorting","out","data","by","municipality","in","govdata.de","or","displaying","a","data","result","from","a","domain-specific","search","on","Google).","The","data","are","thus","for","the","first","time","on","OffeneDaten.de","mapped.","The","portal","serves","as","an","opportunity","to","compare","the","data","offered","by","different","sites,","including","data","that","is","catalogued","but","not","(yet)","open","(vs.","govdata.de,","which","only","lists","open","data","in","the","narrow","sense)."]
-     }
- 
- 
- 
- 
- 
- 
- 
-   ,
-     {
-       "url": "https://beta.okfn.de/en/projekte/offeneentwicklungshilfe/",
-       "title": "Offene Entwicklungshilfe",
-       "section": "projekte",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "projects/offeneentwicklungshilfe.jpg",
-       
-       "content": ["Offene-Entwicklungshilfe.de","is","a","website","that","displays","the","activity","of","the","German","development","cooperation","over","more","than","the","past","10","years."]
      }
  
  
