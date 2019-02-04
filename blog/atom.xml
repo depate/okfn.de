@@ -1,13 +1,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on OKF</title>
   <link rel="self" href="https://beta.okfn.de/blog/"/>
-  <updated>2018-12-24T00:00:00+0000</updated>
+  <updated>2019-01-23T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>https://beta.okfn.de/blog/</id>
+  
+  <entry>
+    <title>Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)</title>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2019/01/stellenausschreibung-regionale-koordinatorin-w-m-d-f%C3%BCr-jugend-hackt-labregion-in-ulm-20h/"/>
+    <id>https://beta.okfn.de/blog/2019/01/stellenausschreibung-regionale-koordinatorin-w-m-d-f%C3%BCr-jugend-hackt-labregion-in-ulm-20h/</id>
+    <published>2019-01-23T00:00:00+0000</published>
+    <updated>2019-01-23T00:00:00+0000</updated>
+    <summary>Wer wir sind Jugend hackt ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit “Code die Welt verbessern” wollen. Jugend hackt ist ein gemeinsames Programm des Open Knowledge Foundation Deutschland e.V. und mediale pfade.org - Verein für Medienbildung e.V. Für die Labregion Ulm kooperieren die beiden Vereine mit der Stadt Ulm und dem Verschwörhaus.
+Die Jugend hackt Labs erweitern das bisher bestehende Angebot an Formaten durch ein ganzjähriges Angebot.</summary>
+  </entry>
+  
+  <entry>
+    <title>Pot Secret - Freeing thousands of Food Safety Reports</title>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2019/01/pot-secret-freeing-thousands-of-food-safety-reports/"/>
+    <id>https://beta.okfn.de/blog/2019/01/pot-secret-freeing-thousands-of-food-safety-reports/</id>
+    <published>2019-01-15T00:00:00+0000</published>
+    <updated>2019-01-15T00:00:00+0000</updated>
+    <summary>Yesterday we launched &amp;ldquo;Pot Secret&amp;rdquo; (&amp;ldquo;Topf Secret&amp;rdquo; in German) - a platform against secrecy at food authorities. Consumers can use this platform to obtain the results of food safety inspections in restaurants, bakeries, supermarkets and other food-processing businesses.
+Together with our partner foodwatch, we created a platform that enables all people to quickly and easily send pre-formulated freedom of information requests about businesses to the relevant authorities.
+&amp;ldquo;Pot Secret&amp;rdquo; is based on a map that displays all food-related businesses that can be found in OpenStreetMap.</summary>
+  </entry>
+  
+  <entry>
+    <title>Jetzt mitmachen: Topf Secret!</title>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2019/01/jetzt-mitmachen-topf-secret/"/>
+    <id>https://beta.okfn.de/blog/2019/01/jetzt-mitmachen-topf-secret/</id>
+    <published>2019-01-14T00:00:00+0000</published>
+    <updated>2019-01-14T00:00:00+0000</updated>
+    <summary>Heute launchen wir gemeinsam mit foodwatch „Topf Secret“ – eine Plattform gegen Geheimniskrämerei bei Lebensmittelbehörden. Auf ihr können Verbraucher*innen Ergebnisse von Hygienekontrollen in Restaurants, Bäckereien, Supermärkten &amp;amp; Co. abfragen.
+Zur Plattform: Hier entlang →
+Die Plattform ermöglicht es allen Menschen, einfach und schnell vorformulierte Anfragen zur Hygiene von Lebensmittelbetrieben an die zuständigen Behörden zu schicken. Die halten bisher die allermeisten Ergebnisse von Hygienekontrollen geheim.
+Seit Jahren wird jeder vierte kontrollierte Betrieb beanstandet, größtenteils wegen Hygienemängeln.</summary>
+  </entry>
   
   <entry>
     <title>OffeneGesetze: Opening Germany&#39;s Law Gazette (Update)</title>
@@ -130,34 +163,6 @@ Wie im Vorjahr fand die Veranstaltung im Kontext des Forschungsprojekts WindNODE
     <published>2018-10-04T00:00:00+0000</published>
     <updated>2018-10-04T00:00:00+0000</updated>
     <summary>Seit 2013 wird Jugend hackt vom Open Knowledge Foundation Deutschland e.V. (OKF) und mediale pfade.org - Verein für Medienbildung e.V. veranstaltet. Jugend hackt ist ein Programm zur Förderung des Programmiernachwuchses im deutschsprachigen Raum mit gesellschaftspolitischen Fokus. Damit begegnet Jugend hackt zwei Herausforderungen: Erstens der sozialen Benachteiligung im Sinne einer Vereinzelung von Jugendlichen mit hohem Technikinteresse. Denn gerade die hohe Technikbegeisterung und die Zeit vor dem Computer verschiebt die engsten sozialen Kontakte häufig weg von der nächsten Umgebung hin zu ebenfalls technikaffinen Jugendlichen, die im ländlichen Raum seltener anzutreffen sind und deswegen Online stattfinden.</summary>
-  </entry>
-  
-  <entry>
-    <title>OParl 1.1: Neue Version des Standards - und viel Aktivität</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/09/oparl-1.1-neue-version-des-standards-und-viel-aktivit%C3%A4t/"/>
-    <id>https://beta.okfn.de/blog/2018/09/oparl-1.1-neue-version-des-standards-und-viel-aktivit%C3%A4t/</id>
-    <published>2018-09-17T00:00:00+0000</published>
-    <updated>2018-09-17T00:00:00+0000</updated>
-    <summary>Vor zwei Jahren haben wir mit der offenen Schnittstelle OParl 1.0 den ersten großen Schritt zur Transparenz kommunaler Beschlüsse gemacht. Seitdem ist viel passiert: * Die vier größten Ratsinformationssystem-Hersteller haben ein OParl-Modul für ihre Software entwickelt, sodass Kommunen OParl ganz einfach in ihre bestehende Software integrieren können. * Ca. 30 Kommunen haben eine offizielle OParl-Schnittstelle, in etlichen weiteren Kommunen ist das OParl-Modul zur Zeit in Einrichtung. Zuletzt dazugekommen sind Aachen und der Kreis Viersen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Rückblick: Open Government Global Summit 2018</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/08/r%C3%BCckblick-open-government-global-summit-2018/"/>
-    <id>https://beta.okfn.de/blog/2018/08/r%C3%BCckblick-open-government-global-summit-2018/</id>
-    <published>2018-08-07T00:00:00+0000</published>
-    <updated>2018-08-07T00:00:00+0000</updated>
-    <summary>Beim „5. Open Government Global Summit 2018“ der Open Government Partnership (OGP) in Tiflis tauschten sich vom 17. bis 19. Juli etwa 2000 Teilnehmer aus Regierung, Verwaltung und Zivilgesellschaft aus über 75 Ländern aus.
-Die Schwerpunkte der diesjährigen Konferenz lagen auf Korruptionsbekämpfung, bürgerlichem Engagement und der Bereitstellung öffentlicher Dienstleistungen. Die dreitägige Konferenz bot am ersten Tag getrennte Veranstaltungen für die Zivilgesellschaft und Regierungsvertreterinnen, darauf folgten zwei Tage gemeinsamer Summit.</summary>
-  </entry>
-  
-  <entry>
-    <title>Policy advocacy with a twist</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/07/policy-advocacy-with-a-twist/"/>
-    <id>https://beta.okfn.de/blog/2018/07/policy-advocacy-with-a-twist/</id>
-    <published>2018-07-17T00:00:00+0000</published>
-    <updated>2018-07-17T00:00:00+0000</updated>
-    <summary>At the Open Knowledge Foundation Deutschland we’ve been advocating for rules and regulation that open up closed systems and processes in areas such as data governance, financial transparency and algorithmic accountability. However, as a small organization that largely runs on project grants and individual donations, we don’t have the resources to run large-scale advocacy campaigns. The key to success for us has been to rely on a combination of law, tech and crowd to address some of the most important policy issues in our field.</summary>
   </entry>
   
 </feed>

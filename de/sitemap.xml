@@ -255,6 +255,21 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/blog/2019/01/stellenausschreibung-regionale-koordinatorin-w-m-d-f%C3%BCr-jugend-hackt-labregion-in-ulm-20h/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/blog/2019/01/pot-secret-freeing-thousands-of-food-safety-reports/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/blog/2019/01/jetzt-mitmachen-topf-secret/</loc>
+    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/blog/2018/12/offenegesetze-opening-germanys-law-gazette-update/</loc>
     <lastmod>2018-12-24T00:00:00+00:00</lastmod>
   </url>
@@ -2721,7 +2736,7 @@
   
   <url>
     <loc>https://beta.okfn.de/tags/ausschreibung/</loc>
-    <lastmod>2018-10-31T16:00:00+00:00</lastmod>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2803,7 +2818,7 @@
   
   <url>
     <loc>https://beta.okfn.de/blog/</loc>
-    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2920,12 +2935,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/civic-tech/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/civic-tech/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -2938,6 +2947,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/civic-tech/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/civic-tech/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3026,12 +3041,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/community/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/community/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3044,6 +3053,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/community/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/community/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3342,7 +3357,7 @@
   
   <url>
     <loc>https://beta.okfn.de/tags/english/</loc>
-    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3692,12 +3707,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/informationsfreiheit/</loc>
-    <lastmod>2017-03-02T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/informationsfreiheit/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3710,6 +3719,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/informationsfreiheit/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/informationsfreiheit/</loc>
+    <lastmod>2017-03-02T14:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3756,7 +3771,7 @@
   
   <url>
     <loc>https://beta.okfn.de/tags/jobs/</loc>
-    <lastmod>2018-10-31T16:00:00+00:00</lastmod>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4045,7 +4060,7 @@
   
   <url>
     <loc>https://beta.okfn.de/</loc>
-    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4329,12 +4344,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/open-data/</loc>
-    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/open-data/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4347,6 +4356,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/open-data/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/open-data/</loc>
+    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -4430,12 +4445,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/open-government/</loc>
-    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/open-government/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4448,6 +4457,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/open-government/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/open-government/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -5042,6 +5057,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/themen/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/topfsecret/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
