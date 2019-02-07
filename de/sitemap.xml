@@ -255,6 +255,16 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/blog/2019/02/das-handelsregister-endlich-offene-daten/</loc>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/blog/2019/02/finally-open-company-data/</loc>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/blog/2019/01/stellenausschreibung-regionale-koordinatorin-w-m-d-f%C3%BCr-jugend-hackt-labregion-in-ulm-20h/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -2818,7 +2828,7 @@
   
   <url>
     <loc>https://beta.okfn.de/blog/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3357,7 +3367,7 @@
   
   <url>
     <loc>https://beta.okfn.de/tags/english/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3659,6 +3669,12 @@
   <url>
     <loc>https://beta.okfn.de/tags/hamburg/</loc>
     <lastmod>2017-02-08T13:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/handelsregister/</loc>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4060,7 +4076,7 @@
   
   <url>
     <loc>https://beta.okfn.de/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

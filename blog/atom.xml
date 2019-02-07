@@ -1,13 +1,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on OKF</title>
   <link rel="self" href="https://beta.okfn.de/blog/"/>
-  <updated>2019-01-23T00:00:00+0000</updated>
+  <updated>2019-02-06T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>https://beta.okfn.de/blog/</id>
+  
+  <entry>
+    <title>Das Handelsregister: Endlich offene Daten!</title>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2019/02/das-handelsregister-endlich-offene-daten/"/>
+    <id>https://beta.okfn.de/blog/2019/02/das-handelsregister-endlich-offene-daten/</id>
+    <published>2019-02-06T00:00:00+0000</published>
+    <updated>2019-02-06T00:00:00+0000</updated>
+    <summary>Gemeinsam mit der Organisation OpenCorporates veröffentlichen wir heute auf OffeneRegister.de Informationen aus dem Handelsregister und den Handelsregisterbekanntmachungen als offene Daten. Damit sind Daten wie Sitz, Rechtsform und vertretungsberechtigte Personen von 5,1 Millionen deutschen Firmen, Stiftungen und Vereinen erstmals offen und frei im Internet verfügbar.
+Auf der Website können die Daten einfach zentral durchsucht, heruntergeladen sowie per Programmierschnittstelle (API) weiterverwendet werden. Abdrucke aus dem Handelsregister, für deren Offenlegung handelsregister.de Gebühren erhebt, sind nicht in den Daten enthalten.</summary>
+  </entry>
+  
+  <entry>
+    <title>Finally: Open Company Data!</title>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2019/02/finally-open-company-data/"/>
+    <id>https://beta.okfn.de/blog/2019/02/finally-open-company-data/</id>
+    <published>2019-02-06T00:00:00+0000</published>
+    <updated>2019-02-06T00:00:00+0000</updated>
+    <summary>Today, together with OpenCorporates, we make information from the German company register and its announcements accessible as open data on OffeneRegister.de. For the first time, data such as the registered office, legal form and authorised representatives of 5.1 million German companies, foundations and associations are openly and freely available on the Internet.
+On the website, the data can be searched centrally, downloaded and reused via the programming interface (API). Reprints from the commercial register, for which handelsregister.</summary>
+  </entry>
   
   <entry>
     <title>Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)</title>
@@ -142,27 +162,6 @@ In the last 10 months this project generated 100,000 individual data requests in
 Das wichtigste in Kürze Programm der Veranstaltung Übersichtsseite zu „Verbrauchergerechtes Scoring“ (Sachverständigenrat) Technische und rechtliche Betrachtungen algorithmischer Entscheidungsverfahren (Gesellschaft für Informatik e. V.)
 Handlungsempfehlungen Handlungsempfehlungen des Rats (S. 142-151)
  Scoring für den Verbraucher verständlich machen Scoring-Wissen und Kompetenz fördern Diskriminierung prüfen und offenlegen telematikfreie Option sicherstellen Score-Qualität gewährleisten Datenqualität sichern Aufsicht verbessern Super-Scores  Aus den Handlungsempfehlungen:</summary>
-  </entry>
-  
-  <entry>
-    <title>Rückblick Energyhack 2018: &#34; Energyhack^2 - Energie für eine effiziente Stadt &#34; !</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/10/r%C3%BCckblick-energyhack-2018-energyhack2-energie-f%C3%BCr-eine-effiziente-stadt/"/>
-    <id>https://beta.okfn.de/blog/2018/10/r%C3%BCckblick-energyhack-2018-energyhack2-energie-f%C3%BCr-eine-effiziente-stadt/</id>
-    <published>2018-10-18T06:00:00+0000</published>
-    <updated>2018-10-18T06:00:00+0000</updated>
-    <summary>Energie für eine effiziente Stadt! Am 12. und 13. Oktober fand der vierte Energyhack von Stromnetz Berlin und der Open Knowledge Foundation statt.
- Video: Lea Pfau
-Ziel des Hackdays war es, innerhalb von 24 Stunden mit offenen Daten aus dem Energiesektor kreative Projekte umzusetzen, um die Gesellschaft stärker für die Themen Strom-, Energienetze und Energiewende zu sensibilisieren und Anwendungen für diese Bereiche zu entwickeln.
-Wie im Vorjahr fand die Veranstaltung im Kontext des Forschungsprojekts WindNODE statt.</summary>
-  </entry>
-  
-  <entry>
-    <title>Ausschreibung Jugend hackt Labs – Wir suchen regionale Partner-Organisationen!</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/10/ausschreibung-jugend-hackt-labs-wir-suchen-regionale-partner-organisationen/"/>
-    <id>https://beta.okfn.de/blog/2018/10/ausschreibung-jugend-hackt-labs-wir-suchen-regionale-partner-organisationen/</id>
-    <published>2018-10-04T00:00:00+0000</published>
-    <updated>2018-10-04T00:00:00+0000</updated>
-    <summary>Seit 2013 wird Jugend hackt vom Open Knowledge Foundation Deutschland e.V. (OKF) und mediale pfade.org - Verein für Medienbildung e.V. veranstaltet. Jugend hackt ist ein Programm zur Förderung des Programmiernachwuchses im deutschsprachigen Raum mit gesellschaftspolitischen Fokus. Damit begegnet Jugend hackt zwei Herausforderungen: Erstens der sozialen Benachteiligung im Sinne einer Vereinzelung von Jugendlichen mit hohem Technikinteresse. Denn gerade die hohe Technikbegeisterung und die Zeit vor dem Computer verschiebt die engsten sozialen Kontakte häufig weg von der nächsten Umgebung hin zu ebenfalls technikaffinen Jugendlichen, die im ländlichen Raum seltener anzutreffen sind und deswegen Online stattfinden.</summary>
   </entry>
   
 </feed>
