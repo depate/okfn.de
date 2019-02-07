@@ -1,7 +1,6 @@
 # OKFDE reloaded
 
 
-
 Statische Seite mit Hugo!
 
 ## Technisches
