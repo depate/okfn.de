@@ -11,8 +11,8 @@
   
   <entry>
     <title>Das Handelsregister: Endlich offene Daten!</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2019/02/das-handelsregister-endlich-offene-daten/"/>
-    <id>https://beta.okfn.de/blog/2019/02/das-handelsregister-endlich-offene-daten/</id>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2019/02/handelsregister/"/>
+    <id>https://beta.okfn.de/blog/2019/02/handelsregister/</id>
     <published>2019-02-06T00:00:00+0000</published>
     <updated>2019-02-06T00:00:00+0000</updated>
     <summary>Gemeinsam mit der Organisation OpenCorporates veröffentlichen wir heute auf OffeneRegister.de Informationen aus dem Handelsregister und den Handelsregisterbekanntmachungen als offene Daten. Damit sind Daten wie Sitz, Rechtsform und vertretungsberechtigte Personen von 5,1 Millionen deutschen Firmen, Stiftungen und Vereinen erstmals offen und frei im Internet verfügbar.
@@ -31,8 +31,8 @@ On the website, the data can be searched centrally, downloaded and reused via th
   
   <entry>
     <title>Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2019/01/stellenausschreibung-regionale-koordinatorin-w-m-d-f%C3%BCr-jugend-hackt-labregion-in-ulm-20h/"/>
-    <id>https://beta.okfn.de/blog/2019/01/stellenausschreibung-regionale-koordinatorin-w-m-d-f%C3%BCr-jugend-hackt-labregion-in-ulm-20h/</id>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2019/01/stellenausschreibung-regionale-koordination-jugend-hackt-lab-ulm/"/>
+    <id>https://beta.okfn.de/blog/2019/01/stellenausschreibung-regionale-koordination-jugend-hackt-lab-ulm/</id>
     <published>2019-01-23T00:00:00+0000</published>
     <updated>2019-01-23T00:00:00+0000</updated>
     <summary>Wer wir sind Jugend hackt ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit “Code die Welt verbessern” wollen. Jugend hackt ist ein gemeinsames Programm des Open Knowledge Foundation Deutschland e.V. und mediale pfade.org - Verein für Medienbildung e.V. Für die Labregion Ulm kooperieren die beiden Vereine mit der Stadt Ulm und dem Verschwörhaus.
@@ -41,8 +41,8 @@ Die Jugend hackt Labs erweitern das bisher bestehende Angebot an Formaten durch 
   
   <entry>
     <title>Pot Secret - Freeing thousands of Food Safety Reports</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2019/01/pot-secret-freeing-thousands-of-food-safety-reports/"/>
-    <id>https://beta.okfn.de/blog/2019/01/pot-secret-freeing-thousands-of-food-safety-reports/</id>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2019/01/pot-secret/"/>
+    <id>https://beta.okfn.de/blog/2019/01/pot-secret/</id>
     <published>2019-01-15T00:00:00+0000</published>
     <updated>2019-01-15T00:00:00+0000</updated>
     <summary>Yesterday we launched &amp;ldquo;Pot Secret&amp;rdquo; (&amp;ldquo;Topf Secret&amp;rdquo; in German) - a platform against secrecy at food authorities. Consumers can use this platform to obtain the results of food safety inspections in restaurants, bakeries, supermarkets and other food-processing businesses.
@@ -52,8 +52,8 @@ Together with our partner foodwatch, we created a platform that enables all peop
   
   <entry>
     <title>Jetzt mitmachen: Topf Secret!</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2019/01/jetzt-mitmachen-topf-secret/"/>
-    <id>https://beta.okfn.de/blog/2019/01/jetzt-mitmachen-topf-secret/</id>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2019/01/topf-secret/"/>
+    <id>https://beta.okfn.de/blog/2019/01/topf-secret/</id>
     <published>2019-01-14T00:00:00+0000</published>
     <updated>2019-01-14T00:00:00+0000</updated>
     <summary>Heute launchen wir gemeinsam mit foodwatch „Topf Secret“ – eine Plattform gegen Geheimniskrämerei bei Lebensmittelbehörden. Auf ihr können Verbraucher*innen Ergebnisse von Hygienekontrollen in Restaurants, Bäckereien, Supermärkten &amp;amp; Co. abfragen.
@@ -64,9 +64,9 @@ Seit Jahren wird jeder vierte kontrollierte Betrieb beanstandet, größtenteils 
   
   <entry>
     <title>OffeneGesetze: Opening Germany&#39;s Law Gazette (Update)</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/12/offenegesetze-opening-germanys-law-gazette-update/"/>
-    <id>https://beta.okfn.de/blog/2018/12/offenegesetze-opening-germanys-law-gazette-update/</id>
-    <published>2018-12-24T00:00:00+0000</published>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2018/12/opening-laws-in-germany/"/>
+    <id>https://beta.okfn.de/blog/2018/12/opening-laws-in-germany/</id>
+    <published>2018-12-10T00:00:00+0000</published>
     <updated>2018-12-24T00:00:00+0000</updated>
     <summary>Update, 12/24/2018: In response to OffeneGesetze, the German Ministry of Justice has announced that it will create a digital legislative process in the coming years. The ministry is creating a platform on which federal law gazettes &amp;ldquo;can also be freely printed, searched and re-used&amp;rdquo;. There should be unrestricted access, the Justice Minister Katarina Barley said.
 The Federal Law Gazettes are the central documents of German democracy. To pass a law, it has to be published in the Law Gazette.</summary>
@@ -74,9 +74,9 @@ The Federal Law Gazettes are the central documents of German democracy. To pass 
   
   <entry>
     <title>OffeneGesetze: Zentrale Dokumente der Demokratie erstmals frei zugänglich (Update)</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/12/offenegesetze-zentrale-dokumente-der-demokratie-erstmals-frei-zug%C3%A4nglich-update/"/>
-    <id>https://beta.okfn.de/blog/2018/12/offenegesetze-zentrale-dokumente-der-demokratie-erstmals-frei-zug%C3%A4nglich-update/</id>
-    <published>2018-12-24T00:00:00+0000</published>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2018/12/offenegesetze/"/>
+    <id>https://beta.okfn.de/blog/2018/12/offenegesetze/</id>
+    <published>2018-12-10T00:00:00+0000</published>
     <updated>2018-12-24T00:00:00+0000</updated>
     <summary>Update, 24.12.2018: Das Justizministerium hat als Reaktion auf OffeneGesetze bekanntgegeben, künftig ein digitales Gesetzgebungsverfahren zu schaffen. Das Ministerium schaffe eine Plattform, auf der Bundesgesetzblätter &amp;ldquo;auch frei ausgedruckt, durchsucht und weiterverwendet werden können.&amp;rdquo; Es solle einen uneingeschränkten Zugang geben.
 Die Bundesgesetzblätter sind die zentralen Dokumente der deutschen Demokratie. Unter OffeneGesetze.de sind sie jetzt erstmals frei zugänglich. Auf unserem neuen Portal stellen wir die Dokumente kostenfrei und zur freien Weiterverwendung bereit.
@@ -96,8 +96,8 @@ Seit 2012 beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector Informat
   
   <entry>
     <title>Strengthening the Democratic Infrastructure</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/12/strengthening-the-democratic-infrastructure/"/>
-    <id>https://beta.okfn.de/blog/2018/12/strengthening-the-democratic-infrastructure/</id>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2018/12/fragdenstaat-in-2018/"/>
+    <id>https://beta.okfn.de/blog/2018/12/fragdenstaat-in-2018/</id>
     <published>2018-12-05T00:00:00+0000</published>
     <updated>2018-12-05T00:00:00+0000</updated>
     <summary>2018 proved, again, why we need to strengthen the infrastructure for democracy. This year, our freedom of information project FragDenStaat has revealed how the Ministry of Family Affairs cooperates with the Domestic Intelligence Service, we have published the Ministry of the Interior&#39;s Master Plan on Migration and documents on “concentration camp-like prisons”&amp;nbsp;in Libya.
@@ -106,8 +106,8 @@ Democracy is not only under fire in the USA or Brazil, but also in Germany. And 
   
   <entry>
     <title>Schufa gibt nach: Elektronische Auskünfte ab 2019</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/12/schufa-gibt-nach-elektronische-ausk%C3%BCnfte-ab-2019/"/>
-    <id>https://beta.okfn.de/blog/2018/12/schufa-gibt-nach-elektronische-ausk%C3%BCnfte-ab-2019/</id>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2018/12/schufa-elektronische-auskuenfte/"/>
+    <id>https://beta.okfn.de/blog/2018/12/schufa-elektronische-auskuenfte/</id>
     <published>2018-12-04T00:00:00+0000</published>
     <updated>2018-12-04T00:00:00+0000</updated>
     <summary>Nach Monaten des Widerstands hat die Schufa zugesagt, künftig auch Daten-Auskünfte von Privatpersonen elektronisch zu beantworten. Das bestätigte der Hessische Datenschutzbeauftragte gegenüber OpenSchufa, unserer gemeinsamen Initiative mit AlgorithmWatch. Nach Artikel 15 der Datenschutzgrundverordnung (DS-GVO) ist die Schufa seit Mai dazu verpflichtet, Auskünfte nicht mehr nur wie bisher postalisch, sondern auch elektronisch zugänglich zu machen.
@@ -116,9 +116,9 @@ Das Unternehmen wird auf Datenkopien, die es weiterhin in gedruckter Form auf de
   
   <entry>
     <title>OpenSchufa: Die Ergebnisse (Updates)</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/11/openschufa-die-ergebnisse-updates/"/>
-    <id>https://beta.okfn.de/blog/2018/11/openschufa-die-ergebnisse-updates/</id>
-    <published>2018-11-28T09:10:00+0000</published>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2018/11/openschufa-ergebnisse/"/>
+    <id>https://beta.okfn.de/blog/2018/11/openschufa-ergebnisse/</id>
+    <published>2018-11-28T00:00:00+0000</published>
     <updated>2018-11-28T09:10:00+0000</updated>
     <summary>Lange hat es gedauert, aber heute werden die ersten Analysen des OpenSchufa-Datensatzes veröffentlicht. Die Redaktionen vom SpiegelOnline und dem Bayerischen Rundfunk haben die anonymisierten Daten, die wir mithilfe von OpenSchufa im Frühjahr gesammelt haben, ausgewertet. Herzlichen Dank an alle Personen, die uns für das Projekt Geld, Zeit und Daten gespendet haben!
 Das sind die wichtigsten Erkenntnisse:  Schlechte Scores auch ohne Negativmerkmale  Viele Personen haben schlechte Schufa-Scores, obwohl sie keine negativen Merkmale haben.</summary>
@@ -126,8 +126,8 @@ Das sind die wichtigsten Erkenntnisse:  Schlechte Scores auch ohne Negativmerkma
   
   <entry>
     <title>OpenSchufa: The first results</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/11/openschufa-the-first-results/"/>
-    <id>https://beta.okfn.de/blog/2018/11/openschufa-the-first-results/</id>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2018/11/openschufa-first-results/"/>
+    <id>https://beta.okfn.de/blog/2018/11/openschufa-first-results/</id>
     <published>2018-11-28T00:00:00+0000</published>
     <updated>2018-11-28T00:00:00+0000</updated>
     <summary>Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline have evaluated the anonymous data that we have collected with the help of our &amp;ldquo;mydata&amp;rdquo; project OpenSchufa since this spring.
@@ -136,26 +136,26 @@ In the last 10 months this project generated 100,000 individual data requests in
   
   <entry>
     <title>Eine Chance für Open Hardware: das Recht auf Reparatur</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/11/eine-chance-f%C3%BCr-open-hardware-das-recht-auf-reparatur/"/>
-    <id>https://beta.okfn.de/blog/2018/11/eine-chance-f%C3%BCr-open-hardware-das-recht-auf-reparatur/</id>
-    <published>2018-11-06T16:00:00+0000</published>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2018/11/eine-chance-fuer-open-hardware-das-recht-auf-reparatur/"/>
+    <id>https://beta.okfn.de/blog/2018/11/eine-chance-fuer-open-hardware-das-recht-auf-reparatur/</id>
+    <published>2018-11-06T00:00:00+0000</published>
     <updated>2018-11-06T16:00:00+0000</updated>
     <summary>In einer Zeit, in der große Teile der technischen Apparate Daten verarbeiten, hat die Forderung nach transparenter Technik einen hohen Stellenwert: Wie erfasst das Smartphone seine Umgebung, welche Daten werden erhoben und wohin gelangen sie? Open Source, das Offenlegen des technischen Aufbaus und die Verwendung von freien Lizenzen, ist hier das bekannte Schlagwort. Während Open Source für den Bereich der Software ein verbreitetes Thema ist und freie Software weite Teile der Softwareentwicklung bereichert, steckt Open Source Hardware noch in den Kinderschuhen.</summary>
   </entry>
   
   <entry>
     <title>Der Prototype Fund sucht Verstärkung: Programmbetreuung mit technischem Schwerpunkt</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/10/der-prototype-fund-sucht-verst%C3%A4rkung-programmbetreuung-mit-technischem-schwerpunkt/"/>
-    <id>https://beta.okfn.de/blog/2018/10/der-prototype-fund-sucht-verst%C3%A4rkung-programmbetreuung-mit-technischem-schwerpunkt/</id>
-    <published>2018-10-31T16:00:00+0000</published>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2018/10/stellenausschreibung-programmmanagement-ptf/"/>
+    <id>https://beta.okfn.de/blog/2018/10/stellenausschreibung-programmmanagement-ptf/</id>
+    <published>2018-10-31T00:00:00+0000</published>
     <updated>2018-10-31T16:00:00+0000</updated>
     <summary>Der Prototype Fund ist ein Förderprogramm für Public Interest Tech, das als erstes in Deutschland selbstständige Softwareentwickler*innen, Hacker*innen und Kreative (auch als Teams) dabei unterstützt, ihre Open-Source-Ideen vom Konzept bis zur ersten Demo umzusetzen. Seit 2016 arbeiten wir (Adriana, Elisa, Fiona, Julia und Katharina) daran, bestehende Strukturen und Narrative im Bereich der Innovationsförderung aufzubrechen und mehr sinnvolle digitale Lösungen für die Gesellschaft möglich zu machen. Jetzt suchen wir dabei Verstärkung! Du arbeitest eigenständig und hast Lust, dich weiterzuentwickeln und Neues zu lernen?</summary>
   </entry>
   
   <entry>
     <title>OpenSCHUFA: Verbrauchergerechtes Scoring</title>
-    <link rel="alternate" href="https://beta.okfn.de/blog/2018/10/openschufa-verbrauchergerechtes-scoring/"/>
-    <id>https://beta.okfn.de/blog/2018/10/openschufa-verbrauchergerechtes-scoring/</id>
+    <link rel="alternate" href="https://beta.okfn.de/blog/2018/10/faires-scoring/"/>
+    <id>https://beta.okfn.de/blog/2018/10/faires-scoring/</id>
     <published>2018-10-31T00:00:00+0000</published>
     <updated>2018-10-31T00:00:00+0000</updated>
     <summary>Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. Thema: Faires Scoring. Wir berichten live vor Ort. #fairesscoring #openschufa
