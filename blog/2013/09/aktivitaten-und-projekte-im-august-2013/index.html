@@ -18,7 +18,7 @@
 <link rel="preload" href="/fonts/apercu-regular-pro.woff" as="font" type="font/woff" crossorigin>
 
 
-<link rel="stylesheet" href="/sass/main.min.36909c4fd22a65b5fd8e1e682b0b5acbf000931dcaf7d5838f16626133858745.css">
+<link rel="stylesheet" href="/sass/main.min.00cd65e94302334296634bb5aa23ed047eea143ce2111989b27fd890e8ed9002.css">
 <link rel="preload" href="/js/vendor/lunr.min.37574d69899ba2c6759c2d9f61b23ecb06fae2e3cc2c7ceaa74eb1a3d08438d4.js" as="script">
 <script src="/js/vendor/lunr.min.37574d69899ba2c6759c2d9f61b23ecb06fae2e3cc2c7ceaa74eb1a3d08438d4.js"></script>
 
@@ -26,8 +26,8 @@
 
 
 <link rel="preload" href="/js/site-search-index.json" as="fetch">
-<link rel="preload" href="/js/bundle.min.min.a8185ec00d9b7684532f34c08b40fcf6a36ef61e10392a17803bfccc2b4dbbc8.js" as="script">
-<script src="/js/bundle.min.min.a8185ec00d9b7684532f34c08b40fcf6a36ef61e10392a17803bfccc2b4dbbc8.js"></script>
+<link rel="preload" href="/js/bundle.min.min.99d37a6b4072eb6e1f2a337d3a63a32c3ec68d8b0d61eacec89d064e50979ec9.js" as="script">
+<script src="/js/bundle.min.min.99d37a6b4072eb6e1f2a337d3a63a32c3ec68d8b0d61eacec89d064e50979ec9.js"></script>
 
 
   
@@ -258,7 +258,7 @@
       
       <div class="l__topbar__toggle">
         <button type="button" id="js-topnav-toggle" tabindex="">
-          <svg width="19px" height="14px" viewBox="0 -1 19 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <span class="l__topbar__toggle--burger"><svg width="19px" height="14px" viewBox="0 -1 19 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Hamburger Icon</title>
     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
         <g transform="translate(-286.000000, -15.000000)" stroke="#000000" stroke-width="2">
@@ -270,7 +270,20 @@
         </g>
     </g>
 </svg>
-</button>
+</span>
+          <span class="l__topbar__toggle--close"><svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Close Icon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-923.000000, -189.000000)" stroke="#000000" stroke-width="3">
+            <g transform="translate(924.000000, 190.000000)">
+                <path d="M0.529411765,0.529411765 L17.5036442,17.5036442"></path>
+                <path d="M0.529411765,0.529411765 L17.5036442,17.5036442" transform="translate(9.000000, 9.000000) scale(-1, 1) translate(-9.000000, -9.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
+</span>
+        </button>
       </div>
       <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
         <li><a href="https://beta.okfn.de/profil/">Profil</a></li>
@@ -292,8 +305,10 @@
         </li>
         <li class="l__search__btn">
           <button class="" id="js-search-button">
-            <span class="sr-only">Suche öffnen</span>
-            <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+            <span class="sr-only invisible">Suche öffnen</span>
+            <span class="d-md-none fake-link">Suche</span>
+            <span class="d-none d-md-block">
+              <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
      width="475.084px" height="475.084px" viewBox="0 0 475.084 475.084" style="enable-background:new 0 0 475.084 475.084;"
      xml:space="preserve">
@@ -313,6 +328,7 @@
     </g>
 </svg>
 
+            </span>
           </button>
         </li>
         <li class="c__donate-btn"><a href="https://beta.okfn.de/spenden/">Spenden</a></li>
@@ -507,16 +523,17 @@ Selbst remixen könnt Ihr die<a href="http://publicdomainreview.org/animated-gif
   </span>
 </form>
 </section>
-      <nav class="col col-12 col-sm-10 col-md-7 col-lg-5 order-3"><ul class="c__nav-list--social">
+      <nav class="col col-12 col-sm-10 col-md-7 col-lg-6 order-3"><ul class="c__nav-list--social">
   <li><a href="https://beta.okfn.de/verein/">Verein</a></li>
   <li><a href="https://beta.okfn.de/vorstand/">Vorstand</a></li>
   <li><a href="https://beta.okfn.de/finanzierung/">Finanzierung</a></li>
+  <li><a href="https://beta.okfn.de/transparenz/">Transparenz</a></li>
   <li><a href="https://beta.okfn.de/jobs/">Jobs</a></li>
   <li><a href="https://beta.okfn.de/presse/">Presse</a></li>
   <li><a href="https://beta.okfn.de/impressum/">Impressum</a></li>
 </ul>
 </nav>
-      <div class="col order-4 col-8 col-sm-6 col-md-3 offset-md-2 offset-lg-4"><ul class="c__nav-list--social">
+      <div class="col order-4 col-8 col-sm-6 col-md-3 offset-md-2 offset-lg-3"><ul class="c__nav-list--social">
   <li><a href="https://twitter.com/okfde" title="OKF DE bei Twitter"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18 15" style="enable-background:new 0 0 18 15;" xml:space="preserve">
     <title>Twitter</title>
     <g>
