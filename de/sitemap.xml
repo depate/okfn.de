@@ -3017,6 +3017,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/tags/civic-tech/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/civic-tech/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3029,12 +3035,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/civic-tech/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/tags/civic-tech/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3119,6 +3119,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/tags/community/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/community/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3131,12 +3137,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/community/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/tags/community/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3767,6 +3767,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/tags/informationsfreiheit/</loc>
+    <lastmod>2017-03-02T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/informationsfreiheit/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3779,12 +3785,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/informationsfreiheit/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/tags/informationsfreiheit/</loc>
-    <lastmod>2017-03-02T14:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4380,6 +4380,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/tags/open-data/</loc>
+    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/open-data/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4392,12 +4398,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/open-data/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/tags/open-data/</loc>
-    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4481,6 +4481,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/tags/open-government/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/open-government/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4493,12 +4499,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/open-government/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/tags/open-government/</loc>
-    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
