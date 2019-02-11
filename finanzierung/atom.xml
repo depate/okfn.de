@@ -1,18 +1,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Finanzierung on OKF</title>
-  <link rel="self" href="https://beta.okfn.de/finanzierung/"/>
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="https://okfn.de/finanzierung/atom.xml"/>
   <updated>0001-01-01T00:00:00+0000</updated>
   <author>
-    <name>YOUR NAME HERE</name>
-    <email>YOUR EMAIL ADDRESS</email>
-    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
   </author>
-  <id>https://beta.okfn.de/finanzierung/</id>
+  <id>https://okfn.de</id>
   
   <entry>
     <title>Entwicklung der Gesamteinnahmen</title>
-    <link rel="alternate" href="https://beta.okfn.de/finanzierung/entwicklung/"/>
-    <id>https://beta.okfn.de/finanzierung/entwicklung/</id>
+    <link rel="alternate" href="https://okfn.de/finanzierung/entwicklung/"/>
+    <id>https://okfn.de/finanzierung/entwicklung/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary> </summary>
@@ -20,8 +20,8 @@
   
   <entry>
     <title>Einnahmen 2017</title>
-    <link rel="alternate" href="https://beta.okfn.de/finanzierung/einnahmen/"/>
-    <id>https://beta.okfn.de/finanzierung/einnahmen/</id>
+    <link rel="alternate" href="https://okfn.de/finanzierung/einnahmen/"/>
+    <id>https://okfn.de/finanzierung/einnahmen/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>Der Großteil (81%) unserer Einnahmen sind Gelder aus öffentlicher Hand, die wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten erhalten. Unsere Spenden entsprechen ca. 8% unserer Einnahmen. Über Dienstleistungen für meist Institutionen oder Vereine haben wir knapp 5% erwirtschaftet, Sponsoring trägt aktuell zu 4,6% unserer Gelder bei.
@@ -30,8 +30,8 @@
   
   <entry>
     <title>Ausgaben 2017</title>
-    <link rel="alternate" href="https://beta.okfn.de/finanzierung/ausgaben/"/>
-    <id>https://beta.okfn.de/finanzierung/ausgaben/</id>
+    <link rel="alternate" href="https://okfn.de/finanzierung/ausgaben/"/>
+    <id>https://okfn.de/finanzierung/ausgaben/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>Der größte Teil der finanziellen Zuwendungen und Umsätze ist an die Durchführung von konkreten Projekten und an die Organisation von Veranstaltungen gebunden. Neben den projektgebundenen Ausgaben versuchen wir, die Fixkosten gering zu halten. Derzeit setzen sie sich zusammen aus Miete und Nebenkosten für das Berliner Büro, die Ausgaben für unsere Buchhaltung, die Leitung unserer Organisation sowie Serverkosten.

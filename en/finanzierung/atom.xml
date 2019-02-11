@@ -1,18 +1,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Financing on OKF DE</title>
-  <link rel="self" href="https://beta.okfn.de/en/finanzierung/"/>
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="https://okfn.de/en/finanzierung/atom.xml"/>
   <updated>0001-01-01T00:00:00+0000</updated>
   <author>
-    <name>YOUR NAME HERE</name>
-    <email>YOUR EMAIL ADDRESS</email>
-    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
   </author>
-  <id>https://beta.okfn.de/en/finanzierung/</id>
+  <id>https://okfn.de</id>
   
   <entry>
     <title>Development of total revenue</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/finanzierung/entwicklung/"/>
-    <id>https://beta.okfn.de/en/finanzierung/entwicklung/</id>
+    <link rel="alternate" href="https://okfn.de/en/finanzierung/entwicklung/"/>
+    <id>https://okfn.de/en/finanzierung/entwicklung/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary> </summary>
@@ -20,8 +20,8 @@
   
   <entry>
     <title>Revenues 2017</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/finanzierung/einnahmen/"/>
-    <id>https://beta.okfn.de/en/finanzierung/einnahmen/</id>
+    <link rel="alternate" href="https://okfn.de/en/finanzierung/einnahmen/"/>
+    <id>https://okfn.de/en/finanzierung/einnahmen/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>The majority (&amp;gt;81%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. onations correspond to approximately 8% of our income. We generated almost 5% through services, sponsoring currently accounts for 4.6% of our funds.
@@ -30,8 +30,8 @@
   
   <entry>
     <title>Expenses 2017</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/finanzierung/ausgaben/"/>
-    <id>https://beta.okfn.de/en/finanzierung/ausgaben/</id>
+    <link rel="alternate" href="https://okfn.de/en/finanzierung/ausgaben/"/>
+    <id>https://okfn.de/en/finanzierung/ausgaben/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>Most costs are linked to the implementation of projects and the organization of events. We try to keep fixed costs (non project-related expenditure) low. Rent, ancillary costs for the Berlin office and server expenses represent the majority of such costs.

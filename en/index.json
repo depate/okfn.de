@@ -4,7 +4,7 @@
  
    
      {
-       "url": "https://beta.okfn.de/en/finanzierung/entwicklung/",
+       "url": "https://okfn.de/en/finanzierung/entwicklung/",
        "title": "Development of total revenue",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -20,7 +20,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/themen/open_data/",
+       "url": "https://okfn.de/en/themen/open_data/",
        "title": "Open Data",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -36,7 +36,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/ogp/",
+       "url": "https://okfn.de/en/projekte/ogp/",
        "title": "Open Gov Netzwerk",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -54,7 +54,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/profil/potential/",
+       "url": "https://okfn.de/en/profil/potential/",
        "title": "We explore the democratic potential of technology",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -70,7 +70,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/themen/civic_tech/",
+       "url": "https://okfn.de/en/themen/civic_tech/",
        "title": "Civic Tech",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -86,7 +86,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/finanzierung/einnahmen/",
+       "url": "https://okfn.de/en/finanzierung/einnahmen/",
        "title": "Revenues 2017",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -102,7 +102,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/profil/wissen/",
+       "url": "https://okfn.de/en/profil/wissen/",
        "title": "We promote open knowledge",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -118,7 +118,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/finanzierung/ausgaben/",
+       "url": "https://okfn.de/en/finanzierung/ausgaben/",
        "title": "Expenses 2017",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -134,7 +134,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/themen/offenes_regierungshandeln/",
+       "url": "https://okfn.de/en/themen/offenes_regierungshandeln/",
        "title": "Open Government",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -150,7 +150,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/profil/vernetzen/",
+       "url": "https://okfn.de/en/profil/vernetzen/",
        "title": "We connect people who work on projects for an open and just society",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -166,7 +166,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/codeforde/",
+       "url": "https://okfn.de/en/projekte/codeforde/",
        "title": "Code for Germany",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -184,7 +184,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/fragdenstaat/",
+       "url": "https://okfn.de/en/projekte/fragdenstaat/",
        "title": "FragDenStaat",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -202,7 +202,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/themen/bildung/",
+       "url": "https://okfn.de/en/themen/bildung/",
        "title": "Open Education",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -218,7 +218,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/prototypefund/",
+       "url": "https://okfn.de/en/projekte/prototypefund/",
        "title": "Prototype Fund",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -236,7 +236,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/demokratielabore/",
+       "url": "https://okfn.de/en/projekte/demokratielabore/",
        "title": "Demokratielabore",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -254,7 +254,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/themen/informationsfreiheit/",
+       "url": "https://okfn.de/en/themen/informationsfreiheit/",
        "title": "Freedom of Information",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -270,7 +270,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/profil/muendigkeit/",
+       "url": "https://okfn.de/en/profil/muendigkeit/",
        "title": "We strengthen digital literacy and the ethical use of technology",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -286,7 +286,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/jugendhackt/",
+       "url": "https://okfn.de/en/projekte/jugendhackt/",
        "title": "Jugend hackt",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -304,7 +304,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/zuganggestalten/",
+       "url": "https://okfn.de/en/projekte/zuganggestalten/",
        "title": "Zugang gestalten",
        "section": "projekte",
        "date": "1970-01-01 00:33:34 +0000 UTC",
@@ -322,7 +322,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/categories/",
+       "url": "https://okfn.de/en/categories/",
        "title": "",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -338,7 +338,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/2030-watch/",
+       "url": "https://okfn.de/en/projekte/2030-watch/",
        "title": "2030watch",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -356,7 +356,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/appsandthecity/",
+       "url": "https://okfn.de/en/projekte/appsandthecity/",
        "title": "Apps and the city",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -374,7 +374,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/appsforeurope/",
+       "url": "https://okfn.de/en/projekte/appsforeurope/",
        "title": "Apps for Europe",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -392,7 +392,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/big/",
+       "url": "https://okfn.de/en/projekte/big/",
        "title": "BIG",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -410,7 +410,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/bundesgit/",
+       "url": "https://okfn.de/en/projekte/bundesgit/",
        "title": "Bundesgit",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -428,7 +428,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/categories/",
+       "url": "https://okfn.de/en/categories/",
        "title": "Categories",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -444,7 +444,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/categories/civic-tech/",
+       "url": "https://okfn.de/en/categories/civic-tech/",
        "title": "Civic Tech",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -464,7 +464,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/codingdavinci/",
+       "url": "https://okfn.de/en/projekte/codingdavinci/",
        "title": "Coding da Vinci",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -482,7 +482,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/categories/community/",
+       "url": "https://okfn.de/en/categories/community/",
        "title": "Community",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -502,7 +502,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/eiti/",
+       "url": "https://okfn.de/en/projekte/eiti/",
        "title": "D-EITI",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -520,7 +520,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/dariah/",
+       "url": "https://okfn.de/en/projekte/dariah/",
        "title": "DARIAH-DE",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -538,7 +538,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/datenmachenschule/",
+       "url": "https://okfn.de/en/projekte/datenmachenschule/",
        "title": "Daten machen Schule",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -556,7 +556,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/datenschule/",
+       "url": "https://okfn.de/en/projekte/datenschule/",
        "title": "Datenschule",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -574,7 +574,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/digiwhist/",
+       "url": "https://okfn.de/en/projekte/digiwhist/",
        "title": "Digiwhist",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -590,7 +590,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/categories/education/",
+       "url": "https://okfn.de/en/categories/education/",
        "title": "Education",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -610,7 +610,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/energyhack/",
+       "url": "https://okfn.de/en/projekte/energyhack/",
        "title": "Energyhack",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -628,7 +628,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/europeanacloud/",
+       "url": "https://okfn.de/en/projekte/europeanacloud/",
        "title": "Europeana Cloud",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -646,7 +646,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/familienlabore/",
+       "url": "https://okfn.de/en/projekte/familienlabore/",
        "title": "Familienlabore",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -664,7 +664,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/farmsubsidy/",
+       "url": "https://okfn.de/en/projekte/farmsubsidy/",
        "title": "FarmSubsidy",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -682,7 +682,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/finanzierung/",
+       "url": "https://okfn.de/en/finanzierung/",
        "title": "Financing",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -698,7 +698,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/frankfurtgestalten/",
+       "url": "https://okfn.de/en/projekte/frankfurtgestalten/",
        "title": "Frankfurt gestalten",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -716,7 +716,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/categories/informationsfreiheit/",
+       "url": "https://okfn.de/en/categories/informationsfreiheit/",
        "title": "Informationsfreiheit",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -732,7 +732,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/jobs/",
+       "url": "https://okfn.de/en/jobs/",
        "title": "Jobs",
        "section": "jobs",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -748,7 +748,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/odine/",
+       "url": "https://okfn.de/en/projekte/odine/",
        "title": "ODINE",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -766,7 +766,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/oparl/",
+       "url": "https://okfn.de/en/projekte/oparl/",
        "title": "OParl",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -784,7 +784,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/offenedaten/",
+       "url": "https://okfn.de/en/projekte/offenedaten/",
        "title": "Offene Daten",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -802,7 +802,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/offenegesetze/",
+       "url": "https://okfn.de/en/projekte/offenegesetze/",
        "title": "OffeneGesetze.de",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -820,7 +820,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/offenerhaushalt/",
+       "url": "https://okfn.de/en/projekte/offenerhaushalt/",
        "title": "Offener Haushalt",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -838,7 +838,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/openbudgets/",
+       "url": "https://okfn.de/en/projekte/openbudgets/",
        "title": "Open Budgets",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -856,7 +856,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/categories/open-data/",
+       "url": "https://okfn.de/en/categories/open-data/",
        "title": "Open Data",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -876,7 +876,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/categories/open-government/",
+       "url": "https://okfn.de/en/categories/open-government/",
        "title": "Open Government",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -896,7 +896,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/openschufa/",
+       "url": "https://okfn.de/en/projekte/openschufa/",
        "title": "OpenSchufa",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -918,7 +918,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/politikbeiuns/",
+       "url": "https://okfn.de/en/projekte/politikbeiuns/",
        "title": "Politik Bei Uns",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -936,7 +936,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/profil/",
+       "url": "https://okfn.de/en/profil/",
        "title": "Profile",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -952,7 +952,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/",
+       "url": "https://okfn.de/en/projekte/",
        "title": "Projects",
        "section": "projekte",
        "date": "1970-01-01 00:33:34 +0000 UTC",
@@ -968,7 +968,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/refugeephrasebook/",
+       "url": "https://okfn.de/en/projekte/refugeephrasebook/",
        "title": "Refugeephrasebook",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -986,7 +986,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/stadtlandcode/",
+       "url": "https://okfn.de/en/projekte/stadtlandcode/",
        "title": "Stadt Land Code",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1006,7 +1006,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/team/",
+       "url": "https://okfn.de/en/team/",
        "title": "Team",
        "section": "team",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1022,7 +1022,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/themen/",
+       "url": "https://okfn.de/en/themen/",
        "title": "Topics",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1038,7 +1038,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/transparenzranking/",
+       "url": "https://okfn.de/en/projekte/transparenzranking/",
        "title": "Transparenzranking",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1056,7 +1056,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/turing-bus/",
+       "url": "https://okfn.de/en/projekte/turing-bus/",
        "title": "Turing-Bus",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1074,7 +1074,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/volksentscheid/",
+       "url": "https://okfn.de/en/projekte/volksentscheid/",
        "title": "Volksentscheid Transparenz Berlin",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1092,7 +1092,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/wahldatenhelfer/",
+       "url": "https://okfn.de/en/projekte/wahldatenhelfer/",
        "title": "Wahl.Daten.Helfer.",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1110,7 +1110,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/edulabs/",
+       "url": "https://okfn.de/en/projekte/edulabs/",
        "title": "edulabs",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1128,7 +1128,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/httpsjetzt/",
+       "url": "https://okfn.de/en/projekte/httpsjetzt/",
        "title": "https.jetzt",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1146,7 +1146,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/kleineanfragen/",
+       "url": "https://okfn.de/en/projekte/kleineanfragen/",
        "title": "kleineAnfragen",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -1164,7 +1164,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/en/projekte/sehrgutachten/",
+       "url": "https://okfn.de/en/projekte/sehrgutachten/",
        "title": "sehrGutachten",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",

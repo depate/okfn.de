@@ -4,7 +4,7 @@
  
    
      {
-       "url": "https://beta.okfn.de/finanzierung/entwicklung/",
+       "url": "https://okfn.de/finanzierung/entwicklung/",
        "title": "Entwicklung der Gesamteinnahmen",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -20,7 +20,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/themen/open_data/",
+       "url": "https://okfn.de/themen/open_data/",
        "title": "Offene Daten",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -36,7 +36,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/ogp/",
+       "url": "https://okfn.de/projekte/ogp/",
        "title": "Open Gov Netzwerk",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -54,7 +54,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/profil/potential/",
+       "url": "https://okfn.de/profil/potential/",
        "title": "Wir zeigen das demokratische Potenzial von Technologie",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -70,7 +70,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/themen/civic_tech/",
+       "url": "https://okfn.de/themen/civic_tech/",
        "title": "Civic Tech",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -86,7 +86,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/codeforde/",
+       "url": "https://okfn.de/projekte/codeforde/",
        "title": "Code for Germany",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -104,7 +104,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/finanzierung/einnahmen/",
+       "url": "https://okfn.de/finanzierung/einnahmen/",
        "title": "Einnahmen 2017",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -120,7 +120,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/profil/wissen/",
+       "url": "https://okfn.de/profil/wissen/",
        "title": "Wir setzen uns für offenes Wissen ein",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -136,7 +136,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/finanzierung/ausgaben/",
+       "url": "https://okfn.de/finanzierung/ausgaben/",
        "title": "Ausgaben 2017",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -152,7 +152,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/themen/offenes_regierungshandeln/",
+       "url": "https://okfn.de/themen/offenes_regierungshandeln/",
        "title": "Offenes Regierungshandeln",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -168,7 +168,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/profil/muendigkeit/",
+       "url": "https://okfn.de/profil/muendigkeit/",
        "title": "Wir stärken die digitale Mündigkeit und den ethischen Umgang mit Technologie",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -184,7 +184,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/fragdenstaat/",
+       "url": "https://okfn.de/projekte/fragdenstaat/",
        "title": "FragDenStaat",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -202,7 +202,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/themen/bildung/",
+       "url": "https://okfn.de/themen/bildung/",
        "title": "Offene Bildung",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -218,7 +218,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/prototypefund/",
+       "url": "https://okfn.de/projekte/prototypefund/",
        "title": "Prototype Fund",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -236,7 +236,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/demokratielabore/",
+       "url": "https://okfn.de/projekte/demokratielabore/",
        "title": "Demokratielabore",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -254,7 +254,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/themen/informationsfreiheit/",
+       "url": "https://okfn.de/themen/informationsfreiheit/",
        "title": "Informationsfreiheit",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -270,7 +270,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/profil/vernetzen/",
+       "url": "https://okfn.de/profil/vernetzen/",
        "title": "Wir vernetzen Menschen, die an Projekten für eine offene und gerechte Gesellschaft arbeiten",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -286,7 +286,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/jugendhackt/",
+       "url": "https://okfn.de/projekte/jugendhackt/",
        "title": "Jugend hackt",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -304,7 +304,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2019/02/handelsregister/",
+       "url": "https://okfn.de/blog/2019/02/handelsregister/",
        "title": "Das Handelsregister: Endlich offene Daten!",
        "section": "blog",
        "date": "2019-02-06 00:00:00 +0000 UTC",
@@ -320,7 +320,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2019/02/finally-open-company-data/",
+       "url": "https://okfn.de/blog/2019/02/finally-open-company-data/",
        "title": "Finally: Open Company Data!",
        "section": "blog",
        "date": "2019-02-06 00:00:00 +0000 UTC",
@@ -336,7 +336,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2019/01/stellenausschreibung-regionale-koordination-jugend-hackt-lab-ulm/",
+       "url": "https://okfn.de/blog/2019/01/stellenausschreibung-regionale-koordination-jugend-hackt-lab-ulm/",
        "title": "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)",
        "section": "blog",
        "date": "2019-01-23 00:00:00 +0000 UTC",
@@ -352,7 +352,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2019/01/pot-secret/",
+       "url": "https://okfn.de/blog/2019/01/pot-secret/",
        "title": "Pot Secret - Freeing thousands of Food Safety Reports",
        "section": "blog",
        "date": "2019-01-15 00:00:00 +0000 UTC",
@@ -368,7 +368,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2019/01/topf-secret/",
+       "url": "https://okfn.de/blog/2019/01/topf-secret/",
        "title": "Jetzt mitmachen: Topf Secret!",
        "section": "blog",
        "date": "2019-01-14 00:00:00 +0000 UTC",
@@ -384,7 +384,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/12/opening-laws-in-germany/",
+       "url": "https://okfn.de/blog/2018/12/opening-laws-in-germany/",
        "title": "OffeneGesetze: Opening Germany's Law Gazette (Update)",
        "section": "blog",
        "date": "2018-12-10 00:00:00 +0000 UTC",
@@ -400,7 +400,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/12/offenegesetze/",
+       "url": "https://okfn.de/blog/2018/12/offenegesetze/",
        "title": "OffeneGesetze: Zentrale Dokumente der Demokratie erstmals frei zugänglich (Update)",
        "section": "blog",
        "date": "2018-12-10 00:00:00 +0000 UTC",
@@ -416,7 +416,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/12/psi-public-sector-information/",
+       "url": "https://okfn.de/blog/2018/12/psi-public-sector-information/",
        "title": "PSI public sector information",
        "section": "blog",
        "date": "2018-12-10 00:00:00 +0000 UTC",
@@ -432,7 +432,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/12/fragdenstaat-in-2018/",
+       "url": "https://okfn.de/blog/2018/12/fragdenstaat-in-2018/",
        "title": "Strengthening the Democratic Infrastructure",
        "section": "blog",
        "date": "2018-12-05 00:00:00 +0000 UTC",
@@ -448,7 +448,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/12/schufa-elektronische-auskuenfte/",
+       "url": "https://okfn.de/blog/2018/12/schufa-elektronische-auskuenfte/",
        "title": "Schufa gibt nach: Elektronische Auskünfte ab 2019",
        "section": "blog",
        "date": "2018-12-04 00:00:00 +0000 UTC",
@@ -464,7 +464,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/11/openschufa-ergebnisse/",
+       "url": "https://okfn.de/blog/2018/11/openschufa-ergebnisse/",
        "title": "OpenSchufa: Die Ergebnisse (Updates)",
        "section": "blog",
        "date": "2018-11-28 00:00:00 +0000 UTC",
@@ -480,7 +480,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/11/openschufa-first-results/",
+       "url": "https://okfn.de/blog/2018/11/openschufa-first-results/",
        "title": "OpenSchufa: The first results",
        "section": "blog",
        "date": "2018-11-28 00:00:00 +0000 UTC",
@@ -496,7 +496,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/11/eine-chance-fuer-open-hardware-das-recht-auf-reparatur/",
+       "url": "https://okfn.de/blog/2018/11/eine-chance-fuer-open-hardware-das-recht-auf-reparatur/",
        "title": "Eine Chance für Open Hardware: das Recht auf Reparatur",
        "section": "blog",
        "date": "2018-11-06 00:00:00 +0000 UTC",
@@ -512,7 +512,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/10/stellenausschreibung-programmmanagement-ptf/",
+       "url": "https://okfn.de/blog/2018/10/stellenausschreibung-programmmanagement-ptf/",
        "title": "Der Prototype Fund sucht Verstärkung: Programmbetreuung mit technischem Schwerpunkt",
        "section": "blog",
        "date": "2018-10-31 00:00:00 +0000 UTC",
@@ -528,7 +528,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/10/faires-scoring/",
+       "url": "https://okfn.de/blog/2018/10/faires-scoring/",
        "title": "OpenSCHUFA: Verbrauchergerechtes Scoring",
        "section": "blog",
        "date": "2018-10-31 00:00:00 +0000 UTC",
@@ -544,7 +544,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/10/energyhack-2018/",
+       "url": "https://okfn.de/blog/2018/10/energyhack-2018/",
        "title": "Rückblick Energyhack 2018: \" Energyhack^2 - Energie für eine effiziente Stadt \" !",
        "section": "blog",
        "date": "2018-10-18 00:00:00 +0000 UTC",
@@ -560,7 +560,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/10/anmeldung-bits-und-baeume/",
+       "url": "https://okfn.de/blog/2018/10/anmeldung-bits-und-baeume/",
        "title": "Anmeldung gestartet: Bits \u0026 Bäume – Die Konferenz für Digitalisierung, Tech und Nachhaltigkeit",
        "section": "blog",
        "date": "2018-10-04 00:00:00 +0000 UTC",
@@ -576,7 +576,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/10/labausschreibung-jugend-hackt/",
+       "url": "https://okfn.de/blog/2018/10/labausschreibung-jugend-hackt/",
        "title": "Ausschreibung Jugend hackt Labs – Wir suchen regionale Partner-Organisationen!",
        "section": "blog",
        "date": "2018-10-04 00:00:00 +0000 UTC",
@@ -592,7 +592,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/09/oparl-1-1-politik-bei-uns/",
+       "url": "https://okfn.de/blog/2018/09/oparl-1-1-politik-bei-uns/",
        "title": "OParl 1.1: Neue Version des Standards - und viel Aktivität",
        "section": "blog",
        "date": "2018-09-15 00:00:00 +0000 UTC",
@@ -608,7 +608,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/08/ogp-georgia/",
+       "url": "https://okfn.de/blog/2018/08/ogp-georgia/",
        "title": "Rückblick: Open Government Global Summit 2018",
        "section": "blog",
        "date": "2018-08-08 00:00:00 +0000 UTC",
@@ -624,7 +624,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/07/policy-advocacy-with-a-twist/",
+       "url": "https://okfn.de/blog/2018/07/policy-advocacy-with-a-twist/",
        "title": "Policy advocacy with a twist",
        "section": "blog",
        "date": "2018-07-17 00:00:00 +0000 UTC",
@@ -640,7 +640,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/07/psi-directive-joint-effort/",
+       "url": "https://okfn.de/blog/2018/07/psi-directive-joint-effort/",
        "title": "PSI Directive - joint effort by OKF and friends",
        "section": "blog",
        "date": "2018-07-13 00:00:00 +0000 UTC",
@@ -656,7 +656,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/07/openschufa-zwischenbilanz/",
+       "url": "https://okfn.de/blog/2018/07/openschufa-zwischenbilanz/",
        "title": "OpenSCHUFA: Zwischenbilanz der Datenspende - noch immer gerne Daten spenden!",
        "section": "blog",
        "date": "2018-07-06 00:00:00 +0000 UTC",
@@ -672,7 +672,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/06/eiti-woche-in-berlin/",
+       "url": "https://okfn.de/blog/2018/06/eiti-woche-in-berlin/",
        "title": "EITI-Woche in Berlin",
        "section": "blog",
        "date": "2018-06-25 00:00:00 +0000 UTC",
@@ -688,7 +688,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/06/make-city-citylab-berlin/",
+       "url": "https://okfn.de/blog/2018/06/make-city-citylab-berlin/",
        "title": "make.city \u0026 citylab.berlin: Einladung zu Rundgang \u0026 Diskussion am 17. Juni",
        "section": "blog",
        "date": "2018-06-14 00:00:00 +0000 UTC",
@@ -704,7 +704,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/06/transparenz-register/",
+       "url": "https://okfn.de/blog/2018/06/transparenz-register/",
        "title": "Transparenzregister? Diesmal bitte transparent",
        "section": "blog",
        "date": "2018-06-12 00:00:00 +0000 UTC",
@@ -720,7 +720,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/06/neuer-vorstand/",
+       "url": "https://okfn.de/blog/2018/06/neuer-vorstand/",
        "title": "Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt",
        "section": "blog",
        "date": "2018-06-04 00:00:00 +0000 UTC",
@@ -736,7 +736,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/06/ohh-berlin/",
+       "url": "https://okfn.de/blog/2018/06/ohh-berlin/",
        "title": "Berlin Doppelhaushalt 2018/2019 im neuem Design und mit erweiterten Funktionen",
        "section": "blog",
        "date": "2018-06-01 00:00:00 +0000 UTC",
@@ -752,7 +752,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/05/okfde-beim-deutschen-stiftungstag-2018/",
+       "url": "https://okfn.de/blog/2018/05/okfde-beim-deutschen-stiftungstag-2018/",
        "title": "Open Knowledge Foundation beim Deutschen Stiftungstag 2018",
        "section": "blog",
        "date": "2018-05-22 00:00:00 +0000 UTC",
@@ -768,7 +768,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/05/ohh-gic/",
+       "url": "https://okfn.de/blog/2018/05/ohh-gic/",
        "title": "Stimme bei der Google Impact Challenge für Offener Haushalt ab!",
        "section": "blog",
        "date": "2018-05-18 00:00:00 +0000 UTC",
@@ -784,7 +784,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/05/openschufa-live-english/",
+       "url": "https://okfn.de/blog/2018/05/openschufa-live-english/",
        "title": "OpenSchufa is live!",
        "section": "blog",
        "date": "2018-05-16 00:00:00 +0000 UTC",
@@ -800,7 +800,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/05/openschufa-live/",
+       "url": "https://okfn.de/blog/2018/05/openschufa-live/",
        "title": "OpenSchufa.de ist live - jetzt Daten spenden!",
        "section": "blog",
        "date": "2018-05-16 00:00:00 +0000 UTC",
@@ -816,7 +816,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/05/jahresbericht-2017/",
+       "url": "https://okfn.de/blog/2018/05/jahresbericht-2017/",
        "title": "Der Jahresbericht 2017 der Open Knowledge Foundation Deutschland",
        "section": "blog",
        "date": "2018-05-15 00:00:00 +0000 UTC",
@@ -832,7 +832,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/05/ifg-meisterschaften/",
+       "url": "https://okfn.de/blog/2018/05/ifg-meisterschaften/",
        "title": "1. IFG-Meisterschaften: Wer wird Deutschlands Transparenzsieger?",
        "section": "blog",
        "date": "2018-05-04 00:00:00 +0000 UTC",
@@ -848,7 +848,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/04/projektstart-open-source-hardware-buchscanner/",
+       "url": "https://okfn.de/blog/2018/04/projektstart-open-source-hardware-buchscanner/",
        "title": "Open Hardware: Ein Buchscanner für mehr offenes Wissen",
        "section": "blog",
        "date": "2018-04-29 00:00:00 +0000 UTC",
@@ -864,7 +864,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/04/eu-vorschlag-zur-%C3%BCberarbeitung-der-psi-richtlinie/",
+       "url": "https://okfn.de/blog/2018/04/eu-vorschlag-zur-%C3%BCberarbeitung-der-psi-richtlinie/",
        "title": "EU-Vorschlag zur Überarbeitung der PSI-Richtlinie",
        "section": "blog",
        "date": "2018-04-26 00:00:00 +0000 UTC",
@@ -880,7 +880,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/04/republica18/",
+       "url": "https://okfn.de/blog/2018/04/republica18/",
        "title": "OKFDE auf der re:publica 18",
        "section": "blog",
        "date": "2018-04-26 00:00:00 +0000 UTC",
@@ -896,7 +896,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/04/save-the-date-forum-open-education/",
+       "url": "https://okfn.de/blog/2018/04/save-the-date-forum-open-education/",
        "title": "Am 6. Juni – Forum Open:Education",
        "section": "blog",
        "date": "2018-04-25 00:00:00 +0000 UTC",
@@ -912,7 +912,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/04/turing-bus-in-cottbus/",
+       "url": "https://okfn.de/blog/2018/04/turing-bus-in-cottbus/",
        "title": "Der Turing-Bus kommt nach Cottbus",
        "section": "blog",
        "date": "2018-04-24 00:00:00 +0000 UTC",
@@ -928,7 +928,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/04/rueckblick-open-data-day/",
+       "url": "https://okfn.de/blog/2018/04/rueckblick-open-data-day/",
        "title": "Rückblick auf unseren Open Data Day 2018",
        "section": "blog",
        "date": "2018-04-13 00:00:00 +0000 UTC",
@@ -944,7 +944,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/04/oeffentliche-daten-nicht-verhoekern-sondern-sinnvoll-nutzen/",
+       "url": "https://okfn.de/blog/2018/04/oeffentliche-daten-nicht-verhoekern-sondern-sinnvoll-nutzen/",
        "title": "Datenverkauf bei Kommunen: Öffentliche Daten nicht verhökern, sondern sinnvoll nutzen",
        "section": "blog",
        "date": "2018-04-12 00:00:00 +0000 UTC",
@@ -960,7 +960,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/04/bfd-okf/",
+       "url": "https://okfn.de/blog/2018/04/bfd-okf/",
        "title": "Mein Freiwilliges Jahr Beteiligung in der OKF",
        "section": "blog",
        "date": "2018-04-05 00:00:00 +0000 UTC",
@@ -976,7 +976,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/04/wanted-neue-bueroraeume/",
+       "url": "https://okfn.de/blog/2018/04/wanted-neue-bueroraeume/",
        "title": "Wanted: neue Büroräume",
        "section": "blog",
        "date": "2018-04-03 00:00:00 +0000 UTC",
@@ -992,7 +992,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/03/offene-daten-parlamente/",
+       "url": "https://okfn.de/blog/2018/03/offene-daten-parlamente/",
        "title": "Offene Daten im Parlament: Neue Broschüre für die Abgeordnete und MitarbeiterInnen",
        "section": "blog",
        "date": "2018-03-18 00:00:00 +0000 UTC",
@@ -1008,7 +1008,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/03/openschufa-endspurt/",
+       "url": "https://okfn.de/blog/2018/03/openschufa-endspurt/",
        "title": "Endspurt beim Crowdfunding: Noch drei Tage OpenSchufa unterstützen!",
        "section": "blog",
        "date": "2018-03-12 00:00:00 +0000 UTC",
@@ -1024,7 +1024,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/03/stellenausschreibung-ptf-kommunikation/",
+       "url": "https://okfn.de/blog/2018/03/stellenausschreibung-ptf-kommunikation/",
        "title": "Kommunikation und Projektmanagement (*/w/m) in Krankheitsvertretung",
        "section": "blog",
        "date": "2018-03-12 00:00:00 +0000 UTC",
@@ -1040,7 +1040,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/03/praktikum-linus-okf-demokratielabore/",
+       "url": "https://okfn.de/blog/2018/03/praktikum-linus-okf-demokratielabore/",
        "title": "Mein Praktikum bei den Demokratielaboren",
        "section": "blog",
        "date": "2018-03-08 00:00:00 +0000 UTC",
@@ -1056,7 +1056,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/03/open-gov-koalitionsvertrag/",
+       "url": "https://okfn.de/blog/2018/03/open-gov-koalitionsvertrag/",
        "title": "Open Government im Koalitionsvertrag",
        "section": "blog",
        "date": "2018-03-07 00:00:00 +0000 UTC",
@@ -1072,7 +1072,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/03/open-data-day/",
+       "url": "https://okfn.de/blog/2018/03/open-data-day/",
        "title": "Zieht am kommenden Samstag in eure Städte, denn es ist wieder Open Data Day!",
        "section": "blog",
        "date": "2018-03-01 00:00:00 +0000 UTC",
@@ -1088,7 +1088,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/02/einladung-workshops-jugendarbeit/",
+       "url": "https://okfn.de/blog/2018/02/einladung-workshops-jugendarbeit/",
        "title": "Einladung: Workshops, Data Expedition \u0026 Datenspaziergang für Fachkräfte in der Jugendarbeit",
        "section": "blog",
        "date": "2018-02-28 00:00:00 +0000 UTC",
@@ -1104,7 +1104,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/02/offener-brief-uploadfilter/",
+       "url": "https://okfn.de/blog/2018/02/offener-brief-uploadfilter/",
        "title": "Offener Brief an Europa-Abgeordnete - Europäische Upload-Filter müssen verhindert werden",
        "section": "blog",
        "date": "2018-02-28 00:00:00 +0000 UTC",
@@ -1120,7 +1120,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/02/zweiteopenpolitischeabend/",
+       "url": "https://okfn.de/blog/2018/02/zweiteopenpolitischeabend/",
        "title": "Der zweite openpolitische Abend: MyData in Berlin mit Antti \"Jogi\" Poikola und Nicola Jentzsch ",
        "section": "blog",
        "date": "2018-02-27 00:00:00 +0000 UTC",
@@ -1136,7 +1136,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/02/upload-filter/",
+       "url": "https://okfn.de/blog/2018/02/upload-filter/",
        "title": "Upload-Filter: Wir brauchen deine Hilfe",
        "section": "blog",
        "date": "2018-02-23 00:00:00 +0000 UTC",
@@ -1152,7 +1152,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/02/finanztransparenz/",
+       "url": "https://okfn.de/blog/2018/02/finanztransparenz/",
        "title": "Finanztransparenz: Informationsfreiheit bleibt ein Problem",
        "section": "blog",
        "date": "2018-02-22 00:00:00 +0000 UTC",
@@ -1168,7 +1168,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/02/1-week-openschufa/",
+       "url": "https://okfn.de/blog/2018/02/1-week-openschufa/",
        "title": "One week of OpenSchufa - we crack the Schufa!",
        "section": "blog",
        "date": "2018-02-22 00:00:00 +0000 UTC",
@@ -1184,7 +1184,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/02/openschufa/",
+       "url": "https://okfn.de/blog/2018/02/openschufa/",
        "title": "Jetzt mitmachen: Wir knacken die Schufa! (Update)",
        "section": "blog",
        "date": "2018-02-15 00:00:00 +0000 UTC",
@@ -1200,7 +1200,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/02/openschufa-english/",
+       "url": "https://okfn.de/blog/2018/02/openschufa-english/",
        "title": "Get involved: We crack the Schufa!",
        "section": "blog",
        "date": "2018-02-14 00:00:00 +0000 UTC",
@@ -1216,7 +1216,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/02/stellenausschreibung-2030-ds/",
+       "url": "https://okfn.de/blog/2018/02/stellenausschreibung-2030-ds/",
        "title": "Entwickler*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort) für 2030 Watch und Demokratielabore",
        "section": "blog",
        "date": "2018-02-05 00:00:00 +0000 UTC",
@@ -1232,7 +1232,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/open-budget-survey/",
+       "url": "https://okfn.de/blog/2018/01/open-budget-survey/",
        "title": "Open Budget Survey: Keine Verbesserungen auf Bundesebene",
        "section": "blog",
        "date": "2018-01-31 00:00:00 +0000 UTC",
@@ -1248,7 +1248,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/politk-bei-uns-2/",
+       "url": "https://okfn.de/blog/2018/01/politk-bei-uns-2/",
        "title": "Veröffentlichung des kommunalen Transparenz-Portals Politik bei uns 2",
        "section": "blog",
        "date": "2018-01-31 00:00:00 +0000 UTC",
@@ -1264,7 +1264,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/multimodale-reiseinformationsdienste/",
+       "url": "https://okfn.de/blog/2018/01/multimodale-reiseinformationsdienste/",
        "title": "Zentrale Bereitstellung EU-weiter multimodaler Reiseinformationsdienste",
        "section": "blog",
        "date": "2018-01-31 00:00:00 +0000 UTC",
@@ -1280,7 +1280,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/zivilgesellschaftliche-forderungen/",
+       "url": "https://okfn.de/blog/2018/01/zivilgesellschaftliche-forderungen/",
        "title": "Zivilgesellschaftliche Forderungen an die zukünftige Bundesregierung",
        "section": "blog",
        "date": "2018-01-31 00:00:00 +0000 UTC",
@@ -1296,7 +1296,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/stellenausschreibung-administration/",
+       "url": "https://okfn.de/blog/2018/01/stellenausschreibung-administration/",
        "title": "Administrator*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort)",
        "section": "blog",
        "date": "2018-01-30 00:00:00 +0000 UTC",
@@ -1312,7 +1312,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/big-data-with-local-impact/",
+       "url": "https://okfn.de/blog/2018/01/big-data-with-local-impact/",
        "title": "Live Launch in Brüssel: Opentender.eu geht online ",
        "section": "blog",
        "date": "2018-01-29 00:00:00 +0000 UTC",
@@ -1328,7 +1328,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/assistenz-der-buchhaltung/",
+       "url": "https://okfn.de/blog/2018/01/assistenz-der-buchhaltung/",
        "title": "Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hilfskraft, 10h, ab sofort)",
        "section": "blog",
        "date": "2018-01-25 00:00:00 +0000 UTC",
@@ -1344,7 +1344,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/psi-hearing/",
+       "url": "https://okfn.de/blog/2018/01/psi-hearing/",
        "title": "Live aus Brüssel: Anhörung zur neuen PSI-Richtlinie",
        "section": "blog",
        "date": "2018-01-19 00:00:00 +0000 UTC",
@@ -1360,7 +1360,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/mein-stadtarchiv/",
+       "url": "https://okfn.de/blog/2018/01/mein-stadtarchiv/",
        "title": "Kommunale Archive für alle: Start in Kerpen",
        "section": "blog",
        "date": "2018-01-17 00:00:00 +0000 UTC",
@@ -1376,7 +1376,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2018/01/34c3-rueckblick/",
+       "url": "https://okfn.de/blog/2018/01/34c3-rueckblick/",
        "title": "34C3: Unsere Highlights",
        "section": "blog",
        "date": "2018-01-08 00:00:00 +0000 UTC",
@@ -1392,7 +1392,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/12/steuern/",
+       "url": "https://okfn.de/blog/2017/12/steuern/",
        "title": "Steuern",
        "section": "blog",
        "date": "2017-12-29 00:00:00 +0000 UTC",
@@ -1408,7 +1408,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/12/offener-haushalt/",
+       "url": "https://okfn.de/blog/2017/12/offener-haushalt/",
        "title": "OffenerHaushalt.de erwacht aus dem Winterschlaf: Kommunale Finanzen auf einen Blick",
        "section": "blog",
        "date": "2017-12-19 00:00:00 +0000 UTC",
@@ -1424,7 +1424,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/11/abschlussworkshop-bedarfsanalyse-demokratielabore/",
+       "url": "https://okfn.de/blog/2017/11/abschlussworkshop-bedarfsanalyse-demokratielabore/",
        "title": "Einladung zu Workshop \u0026 Umfrage: Daten \u0026 digitale Tools in der Jugendarbeit",
        "section": "blog",
        "date": "2017-11-30 00:00:00 +0000 UTC",
@@ -1440,7 +1440,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/11/datenmachenschule/",
+       "url": "https://okfn.de/blog/2017/11/datenmachenschule/",
        "title": "Einladung zur Vorstellung von DatenmachenSchule in Moers",
        "section": "blog",
        "date": "2017-11-21 00:00:00 +0000 UTC",
@@ -1456,7 +1456,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/11/stellenausschreibung-projektmanagement-politische-jugendbildung/",
+       "url": "https://okfn.de/blog/2017/11/stellenausschreibung-projektmanagement-politische-jugendbildung/",
        "title": "Projektmanagement politische Jugendbildung im Projekt Demokratielabore gesucht (50%)",
        "section": "blog",
        "date": "2017-11-13 00:00:00 +0000 UTC",
@@ -1472,7 +1472,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/11/open-government-partnership/",
+       "url": "https://okfn.de/blog/2017/11/open-government-partnership/",
        "title": "Was macht eigentlich die Open Government Partnership",
        "section": "blog",
        "date": "2017-11-03 00:00:00 +0000 UTC",
@@ -1488,7 +1488,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/10/durchblick-beim-rohstoffabbau/",
+       "url": "https://okfn.de/blog/2017/10/durchblick-beim-rohstoffabbau/",
        "title": "Durchblick beim Rohstoffabbau",
        "section": "blog",
        "date": "2017-10-31 00:00:00 +0000 UTC",
@@ -1504,7 +1504,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/10/openpolitischer-abend/",
+       "url": "https://okfn.de/blog/2017/10/openpolitischer-abend/",
        "title": "Der erste openpolitische Abend: NSU, Verfassungsschutz und Transparenz",
        "section": "blog",
        "date": "2017-10-16 00:00:00 +0000 UTC",
@@ -1520,7 +1520,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/10/r%C3%BCckblick-energyhack-2017-du-hast-die-wahl/",
+       "url": "https://okfn.de/blog/2017/10/r%C3%BCckblick-energyhack-2017-du-hast-die-wahl/",
        "title": "Rückblick Energyhack 2017: Du hast die Wahl!",
        "section": "blog",
        "date": "2017-10-04 06:00:00 +0000 UTC",
@@ -1536,7 +1536,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/10/ds-offenes-parlament-relaunch/",
+       "url": "https://okfn.de/blog/2017/10/ds-offenes-parlament-relaunch/",
        "title": "OffenesParlament.de macht Plenarprotokolle durchsuchbar!",
        "section": "blog",
        "date": "2017-10-04 00:00:00 +0000 UTC",
@@ -1552,7 +1552,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/10/ausschreibung-codeforgermany/",
+       "url": "https://okfn.de/blog/2017/10/ausschreibung-codeforgermany/",
        "title": "Community Organizer für Code for Germany m/w (50%)",
        "section": "blog",
        "date": "2017-10-03 00:00:00 +0000 UTC",
@@ -1568,7 +1568,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/09/kunstedition/",
+       "url": "https://okfn.de/blog/2017/09/kunstedition/",
        "title": "Unsere neue Kunstedition: Jetzt für Fördermitglieder!",
        "section": "blog",
        "date": "2017-09-28 00:00:00 +0000 UTC",
@@ -1584,7 +1584,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/09/anmeldung-codingdavinci/",
+       "url": "https://okfn.de/blog/2017/09/anmeldung-codingdavinci/",
        "title": "Anmeldung für Coding da Vinci in Berlin geöffnet",
        "section": "blog",
        "date": "2017-09-27 00:00:00 +0000 UTC",
@@ -1600,7 +1600,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/09/zivilgesellschaftliche-forderungen/",
+       "url": "https://okfn.de/blog/2017/09/zivilgesellschaftliche-forderungen/",
        "title": "Zivilgesellschaftliche Forderungen an die zukünftige Bundesregierung",
        "section": "blog",
        "date": "2017-09-22 00:00:00 +0000 UTC",
@@ -1616,7 +1616,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/09/public-code/",
+       "url": "https://okfn.de/blog/2017/09/public-code/",
        "title": "Public Money? Public Code! Öffentlich finanzierte Software muss Open Source werden",
        "section": "blog",
        "date": "2017-09-13 00:00:00 +0000 UTC",
@@ -1632,7 +1632,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/09/erster-eiti-bericht-veroeffentlicht/",
+       "url": "https://okfn.de/blog/2017/09/erster-eiti-bericht-veroeffentlicht/",
        "title": "Erster deutscher EITI-Bericht veröffentlicht",
        "section": "blog",
        "date": "2017-09-06 00:00:00 +0000 UTC",
@@ -1648,7 +1648,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/08/digitalomat/",
+       "url": "https://okfn.de/blog/2017/08/digitalomat/",
        "title": "Digital-O-Mat geht online: Entscheidungshilfe zur Bundestagswahl",
        "section": "blog",
        "date": "2017-08-29 00:00:00 +0000 UTC",
@@ -1664,7 +1664,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/08/launch-demokratielabore/",
+       "url": "https://okfn.de/blog/2017/08/launch-demokratielabore/",
        "title": "Launch: Die Demokratielabore stellen sich vor!",
        "section": "blog",
        "date": "2017-08-24 00:00:00 +0000 UTC",
@@ -1680,7 +1680,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/08/erster-ogp-aktionsplan-verabschiedet/",
+       "url": "https://okfn.de/blog/2017/08/erster-ogp-aktionsplan-verabschiedet/",
        "title": "Erster OGP Aktionsplan verabschiedet",
        "section": "blog",
        "date": "2017-08-16 00:00:00 +0000 UTC",
@@ -1696,7 +1696,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/08/germany-finally-has-an-open-data-law/",
+       "url": "https://okfn.de/blog/2017/08/germany-finally-has-an-open-data-law/",
        "title": "Germany finally has an Open Data Law",
        "section": "blog",
        "date": "2017-08-02 00:00:00 +0000 UTC",
@@ -1712,7 +1712,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/08/interview-datenschule-bildungscent/",
+       "url": "https://okfn.de/blog/2017/08/interview-datenschule-bildungscent/",
        "title": "Interview der Datenschule mit BildungsCent: Über Schuldaten, Digitalisierung \u0026 die gemeisame Datenarbeit",
        "section": "blog",
        "date": "2017-08-01 00:00:00 +0000 UTC",
@@ -1728,7 +1728,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/07/familienlabore-ergebnisse/",
+       "url": "https://okfn.de/blog/2017/07/familienlabore-ergebnisse/",
        "title": "Ergebnisse des ersten FamilienLabores",
        "section": "blog",
        "date": "2017-07-31 00:00:00 +0000 UTC",
@@ -1744,7 +1744,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/07/wechsel-gf/",
+       "url": "https://okfn.de/blog/2017/07/wechsel-gf/",
        "title": "In eigener Sache: Wechsel der Geschäftsführung bei der Open Knowledge Foundation Deutschland",
        "section": "blog",
        "date": "2017-07-31 00:00:00 +0000 UTC",
@@ -1760,7 +1760,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/07/projektleitung-jugend-hackt/",
+       "url": "https://okfn.de/blog/2017/07/projektleitung-jugend-hackt/",
        "title": "Projektleitung Jugend hackt bei der OKF DE (30-40h, ab sofort)",
        "section": "blog",
        "date": "2017-07-21 00:00:00 +0000 UTC",
@@ -1776,7 +1776,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/07/offenheit/",
+       "url": "https://okfn.de/blog/2017/07/offenheit/",
        "title": "Wir müssen in die Zivilgesellschaft investieren",
        "section": "blog",
        "date": "2017-07-14 00:00:00 +0000 UTC",
@@ -1792,7 +1792,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/07/open-data-gesetz-tritt-in-kraft/",
+       "url": "https://okfn.de/blog/2017/07/open-data-gesetz-tritt-in-kraft/",
        "title": "Öffentliche Ankündigung: Das Open-Data-Gesetz ist in Kraft",
        "section": "blog",
        "date": "2017-07-13 00:00:00 +0000 UTC",
@@ -1808,7 +1808,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/07/stellenausschreibung-assistenz-der-gesch%C3%A4ftsf%C3%BChrung/",
+       "url": "https://okfn.de/blog/2017/07/stellenausschreibung-assistenz-der-gesch%C3%A4ftsf%C3%BChrung/",
        "title": "Assistenz der Geschäftsführung (60% Arbeitszeit)",
        "section": "blog",
        "date": "2017-07-05 00:00:00 +0000 UTC",
@@ -1824,7 +1824,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/07/germanys-open-data-law-english/",
+       "url": "https://okfn.de/blog/2017/07/germanys-open-data-law-english/",
        "title": "German Open Data Law in English",
        "section": "blog",
        "date": "2017-07-02 00:00:00 +0000 UTC",
@@ -1840,7 +1840,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/06/persoenliche-daten/",
+       "url": "https://okfn.de/blog/2017/06/persoenliche-daten/",
        "title": "Digitale Souveränität",
        "section": "blog",
        "date": "2017-06-28 00:00:00 +0000 UTC",
@@ -1856,7 +1856,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/06/erstes-familienlabor/",
+       "url": "https://okfn.de/blog/2017/06/erstes-familienlabor/",
        "title": "Roboter, Comics, Prototypen - Das erste FamilienLabor im FEZ-Berlin startet am 16. Juli",
        "section": "blog",
        "date": "2017-06-28 00:00:00 +0000 UTC",
@@ -1872,7 +1872,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/06/2030watch-ausschreibung/",
+       "url": "https://okfn.de/blog/2017/06/2030watch-ausschreibung/",
        "title": "Teilzeit-Entwickler/in bei 2030Watch gesucht",
        "section": "blog",
        "date": "2017-06-27 00:00:00 +0000 UTC",
@@ -1888,7 +1888,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/06/wahldaten-wikidata-hackathon/",
+       "url": "https://okfn.de/blog/2017/06/wahldaten-wikidata-hackathon/",
        "title": "Ulm Wikidata Hackathon",
        "section": "blog",
        "date": "2017-06-23 00:00:00 +0000 UTC",
@@ -1904,7 +1904,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/06/moderner-staat/",
+       "url": "https://okfn.de/blog/2017/06/moderner-staat/",
        "title": "Digitale Agenda Stellungnahme \u0026 Fachgespräch: Moderner Staat - Chancen durch Digitalisierung",
        "section": "blog",
        "date": "2017-06-22 00:00:00 +0000 UTC",
@@ -1920,7 +1920,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/06/der-prototype-fund-sucht-unterstuetzung/",
+       "url": "https://okfn.de/blog/2017/06/der-prototype-fund-sucht-unterstuetzung/",
        "title": "Der Prototype Fund sucht Unterstützung",
        "section": "blog",
        "date": "2017-06-09 00:00:00 +0000 UTC",
@@ -1936,7 +1936,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/05/erfolg-odgesetz/",
+       "url": "https://okfn.de/blog/2017/05/erfolg-odgesetz/",
        "title": "Änderungen im Bundestag: Open-Data-Gesetz wird besser",
        "section": "blog",
        "date": "2017-05-18 00:00:00 +0000 UTC",
@@ -1952,7 +1952,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/05/wikidata-f%C3%BCr-openglam/",
+       "url": "https://okfn.de/blog/2017/05/wikidata-f%C3%BCr-openglam/",
        "title": "A gentle introduction to Wikidata - für Kulturinstitutionen",
        "section": "blog",
        "date": "2017-05-17 00:00:00 +0000 UTC",
@@ -1968,7 +1968,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/05/edulabs-offene-bildung/",
+       "url": "https://okfn.de/blog/2017/05/edulabs-offene-bildung/",
        "title": "Projektstart Edulabs: Offene Bildung zusammen entwickeln",
        "section": "blog",
        "date": "2017-05-17 00:00:00 +0000 UTC",
@@ -1984,7 +1984,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/05/daswardatensummit/",
+       "url": "https://okfn.de/blog/2017/05/daswardatensummit/",
        "title": "Das war der Datensummit ‘17 – Das Community-Festival der OKF",
        "section": "blog",
        "date": "2017-05-11 00:00:00 +0000 UTC",
@@ -2000,7 +2000,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/05/berliner-transparenzgesetz/",
+       "url": "https://okfn.de/blog/2017/05/berliner-transparenzgesetz/",
        "title": "Neu: Unser Entwurf für ein Berliner Transparenzgesetz",
        "section": "blog",
        "date": "2017-05-08 00:00:00 +0000 UTC",
@@ -2016,7 +2016,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/05/republica/",
+       "url": "https://okfn.de/blog/2017/05/republica/",
        "title": "Love out Loud: Smart und Rebel Cities, State of the Open und Geld für Open Source",
        "section": "blog",
        "date": "2017-05-07 00:00:00 +0000 UTC",
@@ -2032,7 +2032,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/wahlsalons/",
+       "url": "https://okfn.de/blog/2017/04/wahlsalons/",
        "title": "Wahlsalons 2017",
        "section": "blog",
        "date": "2017-04-27 00:00:00 +0000 UTC",
@@ -2048,7 +2048,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/join-the-story-hunt/",
+       "url": "https://okfn.de/blog/2017/04/join-the-story-hunt/",
        "title": "Join The Story Hunt - Uncover the EU!",
        "section": "blog",
        "date": "2017-04-26 00:00:00 +0000 UTC",
@@ -2064,7 +2064,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/making-eu-data-open/",
+       "url": "https://okfn.de/blog/2017/04/making-eu-data-open/",
        "title": "Making European Subsidy Data Open",
        "section": "blog",
        "date": "2017-04-24 00:00:00 +0000 UTC",
@@ -2080,7 +2080,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/wettergesetz/",
+       "url": "https://okfn.de/blog/2017/04/wettergesetz/",
        "title": "Sonnig bis regnerisch: Unsere Stellungnahme zum Wetterdienst-Gesetz",
        "section": "blog",
        "date": "2017-04-24 00:00:00 +0000 UTC",
@@ -2096,7 +2096,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/die-okf-beim-personal-democracy-forum/",
+       "url": "https://okfn.de/blog/2017/04/die-okf-beim-personal-democracy-forum/",
        "title": "Die OKF beim Personal Democracy Forum in Danzig",
        "section": "blog",
        "date": "2017-04-18 00:00:00 +0000 UTC",
@@ -2112,7 +2112,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/update-offene-nahverkehrsdaten/",
+       "url": "https://okfn.de/blog/2017/04/update-offene-nahverkehrsdaten/",
        "title": "Und es bewegt sich doch: Beim öffentlichen Nahverkehr",
        "section": "blog",
        "date": "2017-04-17 00:00:00 +0000 UTC",
@@ -2128,7 +2128,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/digitalmat/",
+       "url": "https://okfn.de/blog/2017/04/digitalmat/",
        "title": "Digitale Politik in 8 Klicks!",
        "section": "blog",
        "date": "2017-04-12 00:00:00 +0000 UTC",
@@ -2144,7 +2144,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/deklaration-mf/",
+       "url": "https://okfn.de/blog/2017/04/deklaration-mf/",
        "title": "Für Meinungsfreiheit - gegen das NetzDG",
        "section": "blog",
        "date": "2017-04-12 00:00:00 +0000 UTC",
@@ -2160,7 +2160,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/open-data-aus-sicht/",
+       "url": "https://okfn.de/blog/2017/04/open-data-aus-sicht/",
        "title": "Open Data aus Sicht eines 14-Jährigen",
        "section": "blog",
        "date": "2017-04-05 00:00:00 +0000 UTC",
@@ -2176,7 +2176,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/04/esif-data-quality-index/",
+       "url": "https://okfn.de/blog/2017/04/esif-data-quality-index/",
        "title": "Slovenia Ranks Highest in ESIF Data Quality Index by OpenBudgets.eu.",
        "section": "blog",
        "date": "2017-04-05 00:00:00 +0000 UTC",
@@ -2192,7 +2192,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/03/datensummit2017/",
+       "url": "https://okfn.de/blog/2017/03/datensummit2017/",
        "title": "Datensummit 2017 - Das Programm ist da!",
        "section": "blog",
        "date": "2017-03-28 00:00:00 +0000 UTC",
@@ -2208,7 +2208,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/03/ogp-zivilgesellschaftlichen-ideen/",
+       "url": "https://okfn.de/blog/2017/03/ogp-zivilgesellschaftlichen-ideen/",
        "title": "Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan",
        "section": "blog",
        "date": "2017-03-28 00:00:00 +0000 UTC",
@@ -2224,7 +2224,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/03/jedeschule-launch/",
+       "url": "https://okfn.de/blog/2017/03/jedeschule-launch/",
        "title": "Datenschule und BildungsCent e.V. launchen JedeSchule.de",
        "section": "blog",
        "date": "2017-03-15 00:00:00 +0000 UTC",
@@ -2240,7 +2240,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/03/familienlabore-gestartet/",
+       "url": "https://okfn.de/blog/2017/03/familienlabore-gestartet/",
        "title": "Neu: FamilienLabore für bessere Vereinbarkeit von Familie und Beruf",
        "section": "blog",
        "date": "2017-03-08 00:00:00 +0000 UTC",
@@ -2256,7 +2256,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/03/subsidystories-launch/",
+       "url": "https://okfn.de/blog/2017/03/subsidystories-launch/",
        "title": "New site SubsidyStories.eu shows where nearly 300bn of EU subsidies go across Europe",
        "section": "blog",
        "date": "2017-03-08 00:00:00 +0000 UTC",
@@ -2272,7 +2272,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/03/rettedeinennahverkehr/",
+       "url": "https://okfn.de/blog/2017/03/rettedeinennahverkehr/",
        "title": "Rette deinen Nahverkehr: Hilf mit, Fahrplandaten zu befreien",
        "section": "blog",
        "date": "2017-03-08 00:00:00 +0000 UTC",
@@ -2288,7 +2288,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/03/ranking/",
+       "url": "https://okfn.de/blog/2017/03/ranking/",
        "title": "Erstes deutsches Transparenzranking: Bund schneidet schlecht ab",
        "section": "blog",
        "date": "2017-03-02 00:00:00 +0000 UTC",
@@ -2304,7 +2304,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/02/open-data-day/",
+       "url": "https://okfn.de/blog/2017/02/open-data-day/",
        "title": "International Open Data Day am 04. März",
        "section": "blog",
        "date": "2017-02-21 00:00:00 +0000 UTC",
@@ -2320,7 +2320,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/02/okf-sucht-neue-geschaeftsfuehrung/",
+       "url": "https://okfn.de/blog/2017/02/okf-sucht-neue-geschaeftsfuehrung/",
        "title": "OKF DE sucht neue/n Geschäftsführer/in!",
        "section": "blog",
        "date": "2017-02-21 00:00:00 +0000 UTC",
@@ -2336,7 +2336,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/02/akogp/",
+       "url": "https://okfn.de/blog/2017/02/akogp/",
        "title": "Wir sind dabei - Auftakt zum Aktionsplan für offenes Regierungs- und Verwaltungshandeln",
        "section": "blog",
        "date": "2017-02-20 00:00:00 +0000 UTC",
@@ -2352,7 +2352,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/02/analyse-odgesetz/",
+       "url": "https://okfn.de/blog/2017/02/analyse-odgesetz/",
        "title": "Analyse des Open-Data-Gesetzes: Transparenz fliegt raus",
        "section": "blog",
        "date": "2017-02-15 00:00:00 +0000 UTC",
@@ -2368,7 +2368,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/02/transparenzregister/",
+       "url": "https://okfn.de/blog/2017/02/transparenzregister/",
        "title": "Das Transparenzregister kommt - wird es wirklich transparent?",
        "section": "blog",
        "date": "2017-02-14 00:00:00 +0000 UTC",
@@ -2384,7 +2384,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/02/forum-offene-stadt-hamburg/",
+       "url": "https://okfn.de/blog/2017/02/forum-offene-stadt-hamburg/",
        "title": "Das OK Lab Hamburg lädt ein zum Forum Offene Stadt am 03. März",
        "section": "blog",
        "date": "2017-02-08 00:00:00 +0000 UTC",
@@ -2400,7 +2400,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/01/editathon/",
+       "url": "https://okfn.de/blog/2017/01/editathon/",
        "title": "Freies Wissen in der Wikipedia",
        "section": "blog",
        "date": "2017-01-30 00:00:00 +0000 UTC",
@@ -2416,7 +2416,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/01/odgesetz-pm/",
+       "url": "https://okfn.de/blog/2017/01/odgesetz-pm/",
        "title": "Neues Open-Data-Gesetz: Zu schwach, zu schwammig, zu spät",
        "section": "blog",
        "date": "2017-01-26 00:00:00 +0000 UTC",
@@ -2432,7 +2432,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/01/verstaerkung-2030watch/",
+       "url": "https://okfn.de/blog/2017/01/verstaerkung-2030watch/",
        "title": "2030Watch sucht Verstärkung!",
        "section": "blog",
        "date": "2017-01-23 00:00:00 +0000 UTC",
@@ -2448,7 +2448,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/01/ausschreibung-edulabs/",
+       "url": "https://okfn.de/blog/2017/01/ausschreibung-edulabs/",
        "title": "Projektassistenz für Edulabs (50%)",
        "section": "blog",
        "date": "2017-01-23 00:00:00 +0000 UTC",
@@ -2464,7 +2464,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/01/bmvi-wetterdaten/",
+       "url": "https://okfn.de/blog/2017/01/bmvi-wetterdaten/",
        "title": "Pressemitteilung statt Offenheit: Open Government ist mehr als nur Open Data",
        "section": "blog",
        "date": "2017-01-19 00:00:00 +0000 UTC",
@@ -2480,7 +2480,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/01/33c3-highlights/",
+       "url": "https://okfn.de/blog/2017/01/33c3-highlights/",
        "title": "33c3: Unsere Highlights",
        "section": "blog",
        "date": "2017-01-09 00:00:00 +0000 UTC",
@@ -2496,7 +2496,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2017/01/odgesetz-stellungnahme/",
+       "url": "https://okfn.de/blog/2017/01/odgesetz-stellungnahme/",
        "title": "Unsere Stellungnahme zum Entwurf fürs Open-Data-Gesetz",
        "section": "blog",
        "date": "2017-01-04 00:00:00 +0000 UTC",
@@ -2512,7 +2512,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/12/verfassungsbeschwerde/",
+       "url": "https://okfn.de/blog/2016/12/verfassungsbeschwerde/",
        "title": "Gegen die Lex FragDenStaat: Wir reichen Verfassungsbeschwerde gegen Transparenzgesetz Rheinland-Pfalz ein",
        "section": "blog",
        "date": "2016-12-20 00:00:00 +0000 UTC",
@@ -2528,7 +2528,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/12/odgesetz/",
+       "url": "https://okfn.de/blog/2016/12/odgesetz/",
        "title": "Entwurf des Open-Data-Gesetzes: Ergänzung des E-Government-Gesetzes geplant",
        "section": "blog",
        "date": "2016-12-16 00:00:00 +0000 UTC",
@@ -2544,7 +2544,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/12/https/",
+       "url": "https://okfn.de/blog/2016/12/https/",
        "title": "eGovernment und Sicherheit: eine schwierige Beziehung",
        "section": "blog",
        "date": "2016-12-14 00:00:00 +0000 UTC",
@@ -2560,7 +2560,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/12/transparenzregister-einfuehrung/",
+       "url": "https://okfn.de/blog/2016/12/transparenzregister-einfuehrung/",
        "title": "Geplantes Transparenzregister: Endlich wirksamer Kampf gegen Geldwäsche?",
        "section": "blog",
        "date": "2016-12-06 00:00:00 +0000 UTC",
@@ -2576,7 +2576,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/12/transparenzklagen/",
+       "url": "https://okfn.de/blog/2016/12/transparenzklagen/",
        "title": "Unsere neue Initiative Transparenzklagen.de setzt Informationsfreiheit durch",
        "section": "blog",
        "date": "2016-12-03 00:00:00 +0000 UTC",
@@ -2592,7 +2592,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/11/cfasummit/",
+       "url": "https://okfn.de/blog/2016/11/cfasummit/",
        "title": "Code for America Summit 2016: A Round-Up",
        "section": "blog",
        "date": "2016-11-09 00:00:00 +0000 UTC",
@@ -2608,7 +2608,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/11/ogp-paris/",
+       "url": "https://okfn.de/blog/2016/11/ogp-paris/",
        "title": "OGP Summit in Paris: Wir vertreten deutsche Zivilgesellschaft",
        "section": "blog",
        "date": "2016-11-01 00:00:00 +0000 UTC",
@@ -2624,7 +2624,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/10/sh-stellungnahme/",
+       "url": "https://okfn.de/blog/2016/10/sh-stellungnahme/",
        "title": "Stellungnahme: Informationszugangs\u0026shy;gesetz in Schleswig-Holstein sollte ambitionierter sein",
        "section": "blog",
        "date": "2016-10-31 00:00:00 +0000 UTC",
@@ -2640,7 +2640,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/10/opendata-gesetz/",
+       "url": "https://okfn.de/blog/2016/10/opendata-gesetz/",
        "title": "„Rohstoff der Zukunft“: Was bringt das Open-Data-Gesetz?",
        "section": "blog",
        "date": "2016-10-24 00:00:00 +0000 UTC",
@@ -2656,7 +2656,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/10/iodc-vielfalt-in-der-open-data-community/",
+       "url": "https://okfn.de/blog/2016/10/iodc-vielfalt-in-der-open-data-community/",
        "title": "IODC2016 – Vielfältigkeit in der Open Data Community",
        "section": "blog",
        "date": "2016-10-15 00:00:00 +0000 UTC",
@@ -2672,7 +2672,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/10/transparenzgesetz-berlin/",
+       "url": "https://okfn.de/blog/2016/10/transparenzgesetz-berlin/",
        "title": "7 Gründe, warum Berlin jetzt ein Transparenzgesetz braucht",
        "section": "blog",
        "date": "2016-10-10 00:00:00 +0000 UTC",
@@ -2688,7 +2688,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/10/ds-kick-off-schule-bildung/",
+       "url": "https://okfn.de/blog/2016/10/ds-kick-off-schule-bildung/",
        "title": "Datenschule - Kooperation mit BildungsCent e.V. zu den Themen Schule \u0026 Bildung",
        "section": "blog",
        "date": "2016-10-04 00:00:00 +0000 UTC",
@@ -2704,7 +2704,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/10/ds-codeweek-workshop-einladung/",
+       "url": "https://okfn.de/blog/2016/10/ds-codeweek-workshop-einladung/",
        "title": "Einladung zum Workshop: Analyse und Visualisierung von Schadstoffemissionen",
        "section": "blog",
        "date": "2016-10-04 00:00:00 +0000 UTC",
@@ -2720,7 +2720,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/09/tagderinformationsfreiheit/",
+       "url": "https://okfn.de/blog/2016/09/tagderinformationsfreiheit/",
        "title": "#000000 - FragDenStaat enthüllt Kunstedition zur Informationsfreiheit",
        "section": "blog",
        "date": "2016-09-28 00:00:00 +0000 UTC",
@@ -2736,7 +2736,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/09/5jahrefds/",
+       "url": "https://okfn.de/blog/2016/09/5jahrefds/",
        "title": "5 Jahre FragDenStaat, 10 Jahre IFG, 250 Jahre Informationsfreiheit",
        "section": "blog",
        "date": "2016-09-26 00:00:00 +0000 UTC",
@@ -2752,7 +2752,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/09/openbudgets-datenschule-at-ea-campus_event/",
+       "url": "https://okfn.de/blog/2016/09/openbudgets-datenschule-at-ea-campus_event/",
        "title": "OKF beim European Alternatives Campus Event 16",
        "section": "blog",
        "date": "2016-09-02 00:00:00 +0000 UTC",
@@ -2768,7 +2768,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/08/2030watch-datenschule-bmz/",
+       "url": "https://okfn.de/blog/2016/08/2030watch-datenschule-bmz/",
        "title": "Tag der offen Tür - Die OKF beim BMZ",
        "section": "blog",
        "date": "2016-08-31 00:00:00 +0000 UTC",
@@ -2784,7 +2784,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/08/datenschule-bmz/",
+       "url": "https://okfn.de/blog/2016/08/datenschule-bmz/",
        "title": "Offene Türen, offene Daten! - Die Datenschule \u0026 2030-Watch beim Tag der offenen Tür am BMZ",
        "section": "blog",
        "date": "2016-08-22 00:00:00 +0000 UTC",
@@ -2800,7 +2800,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/08/obs-studie/",
+       "url": "https://okfn.de/blog/2016/08/obs-studie/",
        "title": "Unsere neue Studie mit der Otto-Brenner-Stiftung: Informationsfreiheit für mehr Demokratie",
        "section": "blog",
        "date": "2016-08-18 00:00:00 +0000 UTC",
@@ -2816,7 +2816,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/08/datenschule-launch/",
+       "url": "https://okfn.de/blog/2016/08/datenschule-launch/",
        "title": "Datenschule - Lernen, wie man Daten und Technologien effektiv einsetzt!",
        "section": "blog",
        "date": "2016-08-08 00:00:00 +0000 UTC",
@@ -2832,7 +2832,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/08/okf-at-ogp/",
+       "url": "https://okfn.de/blog/2016/08/okf-at-ogp/",
        "title": "OKF at the OGP Summit - Have your say and vote for the sessions you want to see happening at the summit",
        "section": "blog",
        "date": "2016-08-08 00:00:00 +0000 UTC",
@@ -2848,7 +2848,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/08/stelle-kommunikation/",
+       "url": "https://okfn.de/blog/2016/08/stelle-kommunikation/",
        "title": "Studentische Aushilfe für die Unterstützung der Kommunikation und Pressearbeit gesucht",
        "section": "blog",
        "date": "2016-08-08 00:00:00 +0000 UTC",
@@ -2864,7 +2864,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/08/prototypefund-launch/",
+       "url": "https://okfn.de/blog/2016/08/prototypefund-launch/",
        "title": "Hello World! \u003cbr\u003e Hello Prototype Fund!",
        "section": "blog",
        "date": "2016-08-01 00:00:00 +0000 UTC",
@@ -2880,7 +2880,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/07/ogp/",
+       "url": "https://okfn.de/blog/2016/07/ogp/",
        "title": "Aufruf: Beteiligt Euch an der Erarbeitung eines Nationalen Arbeitsplans für Deutschlands Mitgliedschaft in der Open Government Partnership!",
        "section": "blog",
        "date": "2016-07-26 00:00:00 +0000 UTC",
@@ -2896,7 +2896,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/07/nachhaltigkeitsstrategie/",
+       "url": "https://okfn.de/blog/2016/07/nachhaltigkeitsstrategie/",
        "title": "Aus dem Schatten heraus - Entwurf der neuen deutschen Nachhaltigkeitsstrategie",
        "section": "blog",
        "date": "2016-07-18 00:00:00 +0000 UTC",
@@ -2912,7 +2912,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/07/from-publication-to-award/",
+       "url": "https://okfn.de/blog/2016/07/from-publication-to-award/",
        "title": "From Publication to Award - The story of the missing information in the tender cycle",
        "section": "blog",
        "date": "2016-07-15 00:00:00 +0000 UTC",
@@ -2928,7 +2928,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/07/oparl-v1/",
+       "url": "https://okfn.de/blog/2016/07/oparl-v1/",
        "title": "OParl 1.0 veröffentlicht",
        "section": "blog",
        "date": "2016-07-12 00:00:00 +0000 UTC",
@@ -2944,7 +2944,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/06/it-support/",
+       "url": "https://okfn.de/blog/2016/06/it-support/",
        "title": "Wir suchen IT Support für das Projekt 2030 Watch",
        "section": "blog",
        "date": "2016-06-03 00:00:00 +0000 UTC",
@@ -2960,7 +2960,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/06/who-has-won-the-contract/",
+       "url": "https://okfn.de/blog/2016/06/who-has-won-the-contract/",
        "title": "Who has won the contract? - Identifying the bidders of public procurement processes",
        "section": "blog",
        "date": "2016-06-01 00:00:00 +0000 UTC",
@@ -2976,7 +2976,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/05/wikicon/",
+       "url": "https://okfn.de/blog/2016/05/wikicon/",
        "title": "Einladung und Call for Papers zur WikiCon 2016",
        "section": "blog",
        "date": "2016-05-22 00:00:00 +0000 UTC",
@@ -2992,7 +2992,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/05/re-repubublica/",
+       "url": "https://okfn.de/blog/2016/05/re-repubublica/",
        "title": "Bericht von der re:publica 2016",
        "section": "blog",
        "date": "2016-05-11 00:00:00 +0000 UTC",
@@ -3008,7 +3008,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/04/stellenausschreibung-ds/",
+       "url": "https://okfn.de/blog/2016/04/stellenausschreibung-ds/",
        "title": "Teamverstärkung für die \"Datenschule\"",
        "section": "blog",
        "date": "2016-04-27 00:00:00 +0000 UTC",
@@ -3024,7 +3024,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/04/gastbeitrag-snv-open-data/",
+       "url": "https://okfn.de/blog/2016/04/gastbeitrag-snv-open-data/",
        "title": "Vieles fehlt, auch ein positives Bekenntnis zu Daten",
        "section": "blog",
        "date": "2016-04-20 00:00:00 +0000 UTC",
@@ -3040,7 +3040,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/04/kas-opendata/",
+       "url": "https://okfn.de/blog/2016/04/kas-opendata/",
        "title": "KAS: Open Data bringt Mehrwert von 43,1 Mrd. Euro im Jahr",
        "section": "blog",
        "date": "2016-04-19 00:00:00 +0000 UTC",
@@ -3056,7 +3056,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/04/bahnvermessung/",
+       "url": "https://okfn.de/blog/2016/04/bahnvermessung/",
        "title": "Feldversuch: Bahnhöfe und ihre Aufzüge für OpenStreetMap vermessen",
        "section": "blog",
        "date": "2016-04-06 00:00:00 +0000 UTC",
@@ -3072,7 +3072,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/03/public-procurement-digital-era/",
+       "url": "https://okfn.de/blog/2016/03/public-procurement-digital-era/",
        "title": "Public procurement in Europe needs to enter the digital era",
        "section": "blog",
        "date": "2016-03-31 00:00:00 +0000 UTC",
@@ -3088,7 +3088,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/03/stellenausschreibung-drl/",
+       "url": "https://okfn.de/blog/2016/03/stellenausschreibung-drl/",
        "title": "Projektassistenz für \u0026ldquo;Digital Refugee Labs\u0026rdquo;",
        "section": "blog",
        "date": "2016-03-16 00:00:00 +0000 UTC",
@@ -3104,7 +3104,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/03/sehrgutachten/",
+       "url": "https://okfn.de/blog/2016/03/sehrgutachten/",
        "title": "sehrgutachten: Neues OKF-Projekt mit 1.500 Bundestags-Gutachten, auch zum Nacktbaden",
        "section": "blog",
        "date": "2016-03-08 00:00:00 +0000 UTC",
@@ -3120,7 +3120,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/03/jugend-hackathons-fuer-alle/",
+       "url": "https://okfn.de/blog/2016/03/jugend-hackathons-fuer-alle/",
        "title": "Jugend-Hackathons für alle – unser Handbuch ist da",
        "section": "blog",
        "date": "2016-03-03 00:00:00 +0000 UTC",
@@ -3136,7 +3136,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/02/offene-fahrplandaten-von-der-bahn/",
+       "url": "https://okfn.de/blog/2016/02/offene-fahrplandaten-von-der-bahn/",
        "title": "Offene Fahrplandaten von der Bahn",
        "section": "blog",
        "date": "2016-02-28 00:00:00 +0000 UTC",
@@ -3152,7 +3152,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/02/oer-camp/",
+       "url": "https://okfn.de/blog/2016/02/oer-camp/",
        "title": "Für offene Lehr- und Lernmaterialien auf dem OER-Festival 2016 in Berlin",
        "section": "blog",
        "date": "2016-02-27 00:00:00 +0000 UTC",
@@ -3168,7 +3168,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/01/govdata-relaunch/",
+       "url": "https://okfn.de/blog/2016/01/govdata-relaunch/",
        "title": "GovData-Relaunch: Neues Design und Funktionalitäten statt neuer Daten",
        "section": "blog",
        "date": "2016-01-22 00:00:00 +0000 UTC",
@@ -3184,7 +3184,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2016/01/statements_open_data_vorsaetze/",
+       "url": "https://okfn.de/blog/2016/01/statements_open_data_vorsaetze/",
        "title": "Open Data 2016: Positionen der Bundestagsfraktionen",
        "section": "blog",
        "date": "2016-01-15 00:00:00 +0000 UTC",
@@ -3200,7 +3200,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/12/31c3/",
+       "url": "https://okfn.de/blog/2015/12/31c3/",
        "title": "Die OKF-Familie auf dem 32C3",
        "section": "blog",
        "date": "2015-12-31 00:00:00 +0000 UTC",
@@ -3216,7 +3216,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/12/aufzugschallenge/",
+       "url": "https://okfn.de/blog/2015/12/aufzugschallenge/",
        "title": "Aufzugschallenge: Mit offenen Daten arbeiten, BahnCard gewinnen",
        "section": "blog",
        "date": "2015-12-28 00:00:00 +0000 UTC",
@@ -3232,7 +3232,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/12/veroeffentlichung_opendataindex/",
+       "url": "https://okfn.de/blog/2015/12/veroeffentlichung_opendataindex/",
        "title": "Deutschland im weltweiten Open Data Index nur auf Platz 26",
        "section": "blog",
        "date": "2015-12-08 00:00:00 +0000 UTC",
@@ -3248,7 +3248,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/12/coworking-im-okf-buero/",
+       "url": "https://okfn.de/blog/2015/12/coworking-im-okf-buero/",
        "title": "Coworking im OKF DE Büro",
        "section": "blog",
        "date": "2015-12-03 00:00:00 +0000 UTC",
@@ -3264,7 +3264,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/12/kleineanfragen/",
+       "url": "https://okfn.de/blog/2015/12/kleineanfragen/",
        "title": "kleineAnfragen macht Anfragen aus den Parlamenten zugänglicher",
        "section": "blog",
        "date": "2015-12-01 00:00:00 +0000 UTC",
@@ -3280,7 +3280,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/11/2030-watch/",
+       "url": "https://okfn.de/blog/2015/11/2030-watch/",
        "title": "Klimaneutral und garantiert malariafrei: Das neue OKF DE Projekt 2030-Watch",
        "section": "blog",
        "date": "2015-11-17 00:00:00 +0000 UTC",
@@ -3296,7 +3296,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/11/oer-atlas/",
+       "url": "https://okfn.de/blog/2015/11/oer-atlas/",
        "title": "OER-Atlas 2016: Jetzt #OER-Projekte einreichen",
        "section": "blog",
        "date": "2015-11-16 00:00:00 +0000 UTC",
@@ -3312,7 +3312,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/11/blogpost-snb-energyhack-reloaded/",
+       "url": "https://okfn.de/blog/2015/11/blogpost-snb-energyhack-reloaded/",
        "title": "So war der Energyhack Reloaded!",
        "section": "blog",
        "date": "2015-11-16 00:00:00 +0000 UTC",
@@ -3328,7 +3328,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/11/openbudgets-press-release/",
+       "url": "https://okfn.de/blog/2015/11/openbudgets-press-release/",
        "title": "OpenBudgets - OKF DE will contribute to advance fiscal transparency in Europe",
        "section": "blog",
        "date": "2015-11-10 00:00:00 +0000 UTC",
@@ -3344,7 +3344,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/11/its-alive-daten.deutschebahn/",
+       "url": "https://okfn.de/blog/2015/11/its-alive-daten.deutschebahn/",
        "title": "It's alive… data.deutschebahn.com",
        "section": "blog",
        "date": "2015-11-05 00:00:00 +0000 UTC",
@@ -3360,7 +3360,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/11/ein-erster-blick-auf-aufzugsdaten/",
+       "url": "https://okfn.de/blog/2015/11/ein-erster-blick-auf-aufzugsdaten/",
        "title": "Ein erster Blick auf Aufzugsdaten: Erste Daten von der Bahn",
        "section": "blog",
        "date": "2015-11-02 00:00:00 +0000 UTC",
@@ -3376,7 +3376,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/",
+       "url": "https://okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/",
        "title": "Die Bahn kommt… auf Open Data!",
        "section": "blog",
        "date": "2015-10-23 00:00:00 +0000 UTC",
@@ -3392,7 +3392,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/10/open-budget-survey-bundeshaushalt/",
+       "url": "https://okfn.de/blog/2015/10/open-budget-survey-bundeshaushalt/",
        "title": "Open Budget Survey: Bundeshaushalt kann noch transparenter werden",
        "section": "blog",
        "date": "2015-10-18 00:00:00 +0000 UTC",
@@ -3408,7 +3408,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/10/einladung-auftaktworkshop-open-data-und-privacy/",
+       "url": "https://okfn.de/blog/2015/10/einladung-auftaktworkshop-open-data-und-privacy/",
        "title": "Einladung zum Workshop 'Offene Daten als Grundlage moderner Verwaltung' - Auftakt des Projekts „Open Data \u0026 Privacy“",
        "section": "blog",
        "date": "2015-10-15 00:00:00 +0000 UTC",
@@ -3424,7 +3424,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/10/pressekonferenz-politik-bei-uns/",
+       "url": "https://okfn.de/blog/2015/10/pressekonferenz-politik-bei-uns/",
        "title": "Einladung zur Pressekonferenz „Politik Bei Uns“",
        "section": "blog",
        "date": "2015-10-09 00:00:00 +0000 UTC",
@@ -3440,7 +3440,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/09/blogpost-snb-workshop/",
+       "url": "https://okfn.de/blog/2015/09/blogpost-snb-workshop/",
        "title": "Hackday zum Thema Energieversorgung und Blackout am 14. November 2015",
        "section": "blog",
        "date": "2015-09-30 00:00:00 +0000 UTC",
@@ -3456,7 +3456,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/09/transparenzgesetze/",
+       "url": "https://okfn.de/blog/2015/09/transparenzgesetze/",
        "title": "Tag der Informationsfreiheit: Bündnis fordert landesweite Transparenzgesetze",
        "section": "blog",
        "date": "2015-09-24 00:00:00 +0000 UTC",
@@ -3472,7 +3472,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/09/call-open-science-ag-september/",
+       "url": "https://okfn.de/blog/2015/09/call-open-science-ag-september/",
        "title": "Open Science Call 9/15: Suchmaschine für Open-Access Inhalte, Opening up Science in Hamburg, Rückblick Chaos Communication Camp und vieles mehr",
        "section": "blog",
        "date": "2015-09-16 00:00:00 +0000 UTC",
@@ -3488,7 +3488,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/09/ifg-podcast-1/",
+       "url": "https://okfn.de/blog/2015/09/ifg-podcast-1/",
        "title": "Es wäre toll, wenn ihr uns verklagt!",
        "section": "blog",
        "date": "2015-09-11 00:00:00 +0000 UTC",
@@ -3504,7 +3504,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/08/blogpost-smart/",
+       "url": "https://okfn.de/blog/2015/08/blogpost-smart/",
        "title": "Smarte Bürger - Diskussionsrunde im Abgeordnetenhaus zu Verbraucherschutz in der digitalen Welt",
        "section": "blog",
        "date": "2015-08-31 00:00:00 +0000 UTC",
@@ -3520,7 +3520,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/08/blogpost-zugang-gestalten/",
+       "url": "https://okfn.de/blog/2015/08/blogpost-zugang-gestalten/",
        "title": "Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe, 5.-6. Nov. 2015 in Hamburg",
        "section": "blog",
        "date": "2015-08-17 00:00:00 +0000 UTC",
@@ -3536,7 +3536,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/08/stellenausschreibung-digiwhist/",
+       "url": "https://okfn.de/blog/2015/08/stellenausschreibung-digiwhist/",
        "title": "Front-end Developer (w/m) für DIGIWHIST gesucht",
        "section": "blog",
        "date": "2015-08-13 00:00:00 +0000 UTC",
@@ -3552,7 +3552,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/07/code-und-ethik/",
+       "url": "https://okfn.de/blog/2015/07/code-und-ethik/",
        "title": "Code+Ethik=\u003c3",
        "section": "blog",
        "date": "2015-07-23 00:00:00 +0000 UTC",
@@ -3568,7 +3568,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/07/mit-daten-gutes-tun/",
+       "url": "https://okfn.de/blog/2015/07/mit-daten-gutes-tun/",
        "title": "Gastbeitrag - #openimpact: 10 Projekte, die mit Daten Gutes tun",
        "section": "blog",
        "date": "2015-07-22 00:00:00 +0000 UTC",
@@ -3584,7 +3584,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/07/stellenausschreibung-open-budgets/",
+       "url": "https://okfn.de/blog/2015/07/stellenausschreibung-open-budgets/",
        "title": "Junior Researcher/Journalist für OpenBudgets.EU gesucht",
        "section": "blog",
        "date": "2015-07-20 00:00:00 +0000 UTC",
@@ -3600,7 +3600,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/07/stadtgeschichten-codeforde/",
+       "url": "https://okfn.de/blog/2015/07/stadtgeschichten-codeforde/",
        "title": "Die neuen Stadtgeschichten bei Code for Germany",
        "section": "blog",
        "date": "2015-07-16 00:00:00 +0000 UTC",
@@ -3616,7 +3616,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/06/jugund-hackt-sued/",
+       "url": "https://okfn.de/blog/2015/06/jugund-hackt-sued/",
        "title": "Die Jugend im Süden hat gehackt!",
        "section": "blog",
        "date": "2015-06-23 00:00:00 +0000 UTC",
@@ -3632,7 +3632,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/06/jugund-hackt-ost/",
+       "url": "https://okfn.de/blog/2015/06/jugund-hackt-ost/",
        "title": "Schaukeln für Freifunk und Katzenbilder für Internetschönheit - Das war Hack your City meets Jugend hackt Ost",
        "section": "blog",
        "date": "2015-06-11 00:00:00 +0000 UTC",
@@ -3648,7 +3648,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/06/stellenausschreibung-entwicklungsbarometer/",
+       "url": "https://okfn.de/blog/2015/06/stellenausschreibung-entwicklungsbarometer/",
        "title": "Wir suchen eine/e studentische/r Mitarbeiter/in (Projektassistent/in) für unseren Entwicklungsbarometer",
        "section": "blog",
        "date": "2015-06-09 00:00:00 +0000 UTC",
@@ -3664,7 +3664,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/06/g7-summit-open-data-charter-deutschland/",
+       "url": "https://okfn.de/blog/2015/06/g7-summit-open-data-charter-deutschland/",
        "title": "Der G7 Gipfel und Open Government Data: Deutschland bremst die G8 Open Data Charta aus",
        "section": "blog",
        "date": "2015-06-05 00:00:00 +0000 UTC",
@@ -3680,7 +3680,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/06/stellenauschreibung-buchhaltung/",
+       "url": "https://okfn.de/blog/2015/06/stellenauschreibung-buchhaltung/",
        "title": "Aushilfe für unsere Buchhaltung auf 450-Euro-Basis gesucht",
        "section": "blog",
        "date": "2015-06-04 00:00:00 +0000 UTC",
@@ -3696,7 +3696,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/06/ifg-gebuehren/",
+       "url": "https://okfn.de/blog/2015/06/ifg-gebuehren/",
        "title": "500 Euro für PDFs: Ministerien gefährden mit Gebührenzwang Informationsfreiheit",
        "section": "blog",
        "date": "2015-06-03 00:00:00 +0000 UTC",
@@ -3712,7 +3712,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/05/klausurheberrecht/",
+       "url": "https://okfn.de/blog/2015/05/klausurheberrecht/",
        "title": "Klausurheberrecht: Bildungsmaterialien dürfen nicht veröffentlicht werden",
        "section": "blog",
        "date": "2015-05-27 00:00:00 +0000 UTC",
@@ -3728,7 +3728,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/05/event-open-data-g7-gipfel-charter/",
+       "url": "https://okfn.de/blog/2015/05/event-open-data-g7-gipfel-charter/",
        "title": "Podiumsdiskussion: Der G7 Gipfel und Open Government Data",
        "section": "blog",
        "date": "2015-05-25 00:00:00 +0000 UTC",
@@ -3744,7 +3744,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/05/event-open-data-fighting-corruption/",
+       "url": "https://okfn.de/blog/2015/05/event-open-data-fighting-corruption/",
        "title": "Event: How Open Data Tools Can be Used to Engage Citizens in Fighting Corruption",
        "section": "blog",
        "date": "2015-05-18 00:00:00 +0000 UTC",
@@ -3760,7 +3760,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/05/praktikum-bei-code-for-germany/",
+       "url": "https://okfn.de/blog/2015/05/praktikum-bei-code-for-germany/",
        "title": "Praktikum bei Code for Germany - Bewerbungsfrist verlängert",
        "section": "blog",
        "date": "2015-05-12 00:00:00 +0000 UTC",
@@ -3776,7 +3776,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/05/stellungnahme-iwg-bundestag-2015/",
+       "url": "https://okfn.de/blog/2015/05/stellungnahme-iwg-bundestag-2015/",
        "title": "Gesetz über die Weiterverwendung von Informationen öffentlicher Stellen (IWG): Eine weitere vertane Chance",
        "section": "blog",
        "date": "2015-05-07 00:00:00 +0000 UTC",
@@ -3792,7 +3792,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/04/call-open-science-ag-april/",
+       "url": "https://okfn.de/blog/2015/04/call-open-science-ag-april/",
        "title": "Rückblick: Monatlicher Open Science AG Call im April 2015",
        "section": "blog",
        "date": "2015-04-30 00:00:00 +0000 UTC",
@@ -3808,7 +3808,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/04/open-tech-summit/",
+       "url": "https://okfn.de/blog/2015/04/open-tech-summit/",
        "title": "Open Tech Summit in Berlin am 14. Mai",
        "section": "blog",
        "date": "2015-04-28 00:00:00 +0000 UTC",
@@ -3824,7 +3824,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/04/gespraechskreis-digitalisierung-open-data/",
+       "url": "https://okfn.de/blog/2015/04/gespraechskreis-digitalisierung-open-data/",
        "title": "Gesprächskreis Digitalisierung in Politik \u0026 Verwaltung: Open Data am 30.4.",
        "section": "blog",
        "date": "2015-04-21 00:00:00 +0000 UTC",
@@ -3840,7 +3840,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/04/dh-summit-video/",
+       "url": "https://okfn.de/blog/2015/04/dh-summit-video/",
        "title": "Digitale Geisteswissenschaften: Video zum DH Summit 2015",
        "section": "blog",
        "date": "2015-04-20 00:00:00 +0000 UTC",
@@ -3856,7 +3856,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/03/kurz-vor-dem-g7-summit-in-deutschland-report-kritisiert-deutsche-implementierung-von-g8-g7-open-data-charter/",
+       "url": "https://okfn.de/blog/2015/03/kurz-vor-dem-g7-summit-in-deutschland-report-kritisiert-deutsche-implementierung-von-g8-g7-open-data-charter/",
        "title": "Kurz vor dem G7 Summit in Deutschland: Report kritisiert deutsche Implementierung von G8 (G7) Open Data Charter",
        "section": "blog",
        "date": "2015-03-18 00:00:00 +0000 UTC",
@@ -3872,7 +3872,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/03/open-science-sum-up-februar-2/",
+       "url": "https://okfn.de/blog/2015/03/open-science-sum-up-februar-2/",
        "title": "Open Science Sum-Up Februar",
        "section": "blog",
        "date": "2015-03-18 00:00:00 +0000 UTC",
@@ -3888,7 +3888,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/03/den-open-government-data-aktionsplan-mitgestalten/",
+       "url": "https://okfn.de/blog/2015/03/den-open-government-data-aktionsplan-mitgestalten/",
        "title": "Den Open Government Data Aktionsplan mitgestalten!",
        "section": "blog",
        "date": "2015-03-17 00:00:00 +0000 UTC",
@@ -3904,7 +3904,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/03/review-dh-summit-2015-tagung-zu-digitalen-geisteswissenschaften-dh/",
+       "url": "https://okfn.de/blog/2015/03/review-dh-summit-2015-tagung-zu-digitalen-geisteswissenschaften-dh/",
        "title": "Review DH Summit 2015: Tagung zu Digitalen Geisteswissenschaften (DH)",
        "section": "blog",
        "date": "2015-03-06 00:00:00 +0000 UTC",
@@ -3920,7 +3920,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/03/umsetzung-der-extractive-industries-transparency-initiative-eiti-in-deutschland/",
+       "url": "https://okfn.de/blog/2015/03/umsetzung-der-extractive-industries-transparency-initiative-eiti-in-deutschland/",
        "title": "Umsetzung der Extractive Industries Transparency Initiative (EITI) in Deutschland",
        "section": "blog",
        "date": "2015-03-06 00:00:00 +0000 UTC",
@@ -3936,7 +3936,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/02/international-open-data-day-in-deutschland/",
+       "url": "https://okfn.de/blog/2015/02/international-open-data-day-in-deutschland/",
        "title": "International Open Data Day in Deutschland",
        "section": "blog",
        "date": "2015-02-26 00:00:00 +0000 UTC",
@@ -3952,7 +3952,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/02/open-science-sum-up-januar/",
+       "url": "https://okfn.de/blog/2015/02/open-science-sum-up-januar/",
        "title": "Open Science Sum-Up Januar",
        "section": "blog",
        "date": "2015-02-25 00:00:00 +0000 UTC",
@@ -3968,7 +3968,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/02/3-internationale-open-data-konferenz-2015/",
+       "url": "https://okfn.de/blog/2015/02/3-internationale-open-data-konferenz-2015/",
        "title": "3. Internationale Open Data Konferenz – 28. - 29. Mai 2015 in Ottawa, Kanada",
        "section": "blog",
        "date": "2015-02-18 00:00:00 +0000 UTC",
@@ -3984,7 +3984,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/02/gemeinsam-fuer-mehr-informationsfreiheit/",
+       "url": "https://okfn.de/blog/2015/02/gemeinsam-fuer-mehr-informationsfreiheit/",
        "title": "Gemeinsam für mehr Informationsfreiheit",
        "section": "blog",
        "date": "2015-02-18 00:00:00 +0000 UTC",
@@ -4000,7 +4000,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/02/international-open-data-day-am-21-februar/",
+       "url": "https://okfn.de/blog/2015/02/international-open-data-day-am-21-februar/",
        "title": "International Open Data Day am 21. Februar",
        "section": "blog",
        "date": "2015-02-18 00:00:00 +0000 UTC",
@@ -4016,7 +4016,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/02/dh-summit-2015-am-3-bis-4-maerz-2015-noch-wenige-plaetze-vorhanden/",
+       "url": "https://okfn.de/blog/2015/02/dh-summit-2015-am-3-bis-4-maerz-2015-noch-wenige-plaetze-vorhanden/",
        "title": "DH Summit 2015 am 3. bis 4. März 2015 – noch wenige Plätze vorhanden",
        "section": "blog",
        "date": "2015-02-16 00:00:00 +0000 UTC",
@@ -4032,7 +4032,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/02/kulturgut-digital-nutzbar-machen/",
+       "url": "https://okfn.de/blog/2015/02/kulturgut-digital-nutzbar-machen/",
        "title": "Kulturgut digital nutzbar machen",
        "section": "blog",
        "date": "2015-02-12 00:00:00 +0000 UTC",
@@ -4048,7 +4048,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/02/positionspapier-des-buendnis-freie-bildung-veroeffentlicht/",
+       "url": "https://okfn.de/blog/2015/02/positionspapier-des-buendnis-freie-bildung-veroeffentlicht/",
        "title": "Positionspapier des Bündnis freie Bildung veröffentlicht",
        "section": "blog",
        "date": "2015-02-10 00:00:00 +0000 UTC",
@@ -4064,7 +4064,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/01/code-for-muenchen-launcht-muenchen-transparent/",
+       "url": "https://okfn.de/blog/2015/01/code-for-muenchen-launcht-muenchen-transparent/",
        "title": "Code for München launcht „München Transparent\"",
        "section": "blog",
        "date": "2015-01-28 00:00:00 +0000 UTC",
@@ -4080,7 +4080,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing/",
+       "url": "https://okfn.de/blog/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing/",
        "title": "Open Knowledge Foundation Germany awarded H2020 project to improve transparency in public spending and support whistleblowing",
        "section": "blog",
        "date": "2015-01-27 00:00:00 +0000 UTC",
@@ -4096,7 +4096,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/01/wir-suchen-projektmanager-fuer-digiwhist-ein-projekt-mit-schwerpunkt-transparenz-korruptionsbekaempfung-und-whistleblowing/",
+       "url": "https://okfn.de/blog/2015/01/wir-suchen-projektmanager-fuer-digiwhist-ein-projekt-mit-schwerpunkt-transparenz-korruptionsbekaempfung-und-whistleblowing/",
        "title": "Wir suchen: Projektmanagerin (w/m) für DIGIWHIST - ein H2020 EU-Forschungsprojekt",
        "section": "blog",
        "date": "2015-01-27 00:00:00 +0000 UTC",
@@ -4112,7 +4112,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/01/open-science-sum-up-dezember/",
+       "url": "https://okfn.de/blog/2015/01/open-science-sum-up-dezember/",
        "title": "Open Science Sum-Up Dezember",
        "section": "blog",
        "date": "2015-01-23 00:00:00 +0000 UTC",
@@ -4128,7 +4128,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/01/offenes-ratsinformationssystem-2-0-macht-politik-vor-ort-transparenter/",
+       "url": "https://okfn.de/blog/2015/01/offenes-ratsinformationssystem-2-0-macht-politik-vor-ort-transparenter/",
        "title": "Offenes Ratsinformationssystem 2.0 macht Politik vor Ort transparenter",
        "section": "blog",
        "date": "2015-01-15 00:00:00 +0000 UTC",
@@ -4144,7 +4144,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2015/01/open-science-auf-dem-chaos-communication-congress-31c3/",
+       "url": "https://okfn.de/blog/2015/01/open-science-auf-dem-chaos-communication-congress-31c3/",
        "title": "Gastbeitrag - Open Science auf dem Chaos Communication Congress (31C3)",
        "section": "blog",
        "date": "2015-01-08 00:00:00 +0000 UTC",
@@ -4160,7 +4160,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/12/2014-das-jahr-in-12-ifg-anfragen/",
+       "url": "https://okfn.de/blog/2014/12/2014-das-jahr-in-12-ifg-anfragen/",
        "title": "2014: Das Jahr in 12 IFG-Anfragen",
        "section": "blog",
        "date": "2014-12-19 00:00:00 +0000 UTC",
@@ -4176,7 +4176,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/12/open-science-sum-up-november/",
+       "url": "https://okfn.de/blog/2014/12/open-science-sum-up-november/",
        "title": "Open Science Sum-Up November",
        "section": "blog",
        "date": "2014-12-14 00:00:00 +0000 UTC",
@@ -4192,7 +4192,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/12/lab-for-city/",
+       "url": "https://okfn.de/blog/2014/12/lab-for-city/",
        "title": "Lab for CITY",
        "section": "blog",
        "date": "2014-12-09 00:00:00 +0000 UTC",
@@ -4208,7 +4208,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/12/open-data-index-2014-veroeffentlicht-muehsam-ernaehrt-sich-das-eichhoernchen/",
+       "url": "https://okfn.de/blog/2014/12/open-data-index-2014-veroeffentlicht-muehsam-ernaehrt-sich-das-eichhoernchen/",
        "title": "Open Data Index 2014 veröffentlicht: Mühsam ernährt sich das Eichhörnchen",
        "section": "blog",
        "date": "2014-12-09 00:00:00 +0000 UTC",
@@ -4224,7 +4224,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/12/apps4europe-sucht-die-besten-opendata-apps/",
+       "url": "https://okfn.de/blog/2014/12/apps4europe-sucht-die-besten-opendata-apps/",
        "title": "Apps for Europe sucht die besten #opendata Apps",
        "section": "blog",
        "date": "2014-12-08 00:00:00 +0000 UTC",
@@ -4240,7 +4240,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/12/zugang-gestalten-wrap-up/",
+       "url": "https://okfn.de/blog/2014/12/zugang-gestalten-wrap-up/",
        "title": "Zugang gestalten! - Wrap-up",
        "section": "blog",
        "date": "2014-12-08 00:00:00 +0000 UTC",
@@ -4256,7 +4256,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/12/4313/",
+       "url": "https://okfn.de/blog/2014/12/4313/",
        "title": "Smarte Bürger - Verbraucherschutz in der digitalen Welt",
        "section": "blog",
        "date": "2014-12-05 00:00:00 +0000 UTC",
@@ -4272,7 +4272,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/12/winteraktion-ganz-deutschland-bei-fragdenstaat/",
+       "url": "https://okfn.de/blog/2014/12/winteraktion-ganz-deutschland-bei-fragdenstaat/",
        "title": "Winteraktion: Ganz Deutschland bei FragDenStaat",
        "section": "blog",
        "date": "2014-12-02 00:00:00 +0000 UTC",
@@ -4288,7 +4288,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/11/erster-transparenztag-in-hamburg/",
+       "url": "https://okfn.de/blog/2014/11/erster-transparenztag-in-hamburg/",
        "title": "Erster Transparenztag in Hamburg",
        "section": "blog",
        "date": "2014-11-17 00:00:00 +0000 UTC",
@@ -4304,7 +4304,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/11/open-science-sum-up-oktober/",
+       "url": "https://okfn.de/blog/2014/11/open-science-sum-up-oktober/",
        "title": "Open Science Sum-Up Oktober",
        "section": "blog",
        "date": "2014-11-17 00:00:00 +0000 UTC",
@@ -4320,7 +4320,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/11/sehr-geehrten-damen-und-herren-abgeordnete-tun-sie-endlich-etwas-fuer-open-data/",
+       "url": "https://okfn.de/blog/2014/11/sehr-geehrten-damen-und-herren-abgeordnete-tun-sie-endlich-etwas-fuer-open-data/",
        "title": "Sehr geehrte Damen und Herren Abgeordnete... tun Sie endlich etwas für Open Data!",
        "section": "blog",
        "date": "2014-11-06 00:00:00 +0000 UTC",
@@ -4336,7 +4336,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/11/labforcity/",
+       "url": "https://okfn.de/blog/2014/11/labforcity/",
        "title": "Lab for CITY (Civic Innovation and Technology) - 21. Nov. via Live Stream verfolgen",
        "section": "blog",
        "date": "2014-11-03 00:00:00 +0000 UTC",
@@ -4352,7 +4352,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/10/mission-statement-der-deutschsprachigen-open-science-ag-veroeffentlicht/",
+       "url": "https://okfn.de/blog/2014/10/mission-statement-der-deutschsprachigen-open-science-ag-veroeffentlicht/",
        "title": "Mission Statement der deutschsprachigen Open Science AG veröffentlicht",
        "section": "blog",
        "date": "2014-10-21 00:00:00 +0000 UTC",
@@ -4368,7 +4368,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/10/veroeffentlichung-open-definition-2-0-deutsche-uebersetzung/",
+       "url": "https://okfn.de/blog/2014/10/veroeffentlichung-open-definition-2-0-deutsche-uebersetzung/",
        "title": "Veröffentlichung Open Definition 2.0 \u0026 deutsche Übersetzung",
        "section": "blog",
        "date": "2014-10-21 00:00:00 +0000 UTC",
@@ -4384,7 +4384,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/10/open-science-sum-up-september/",
+       "url": "https://okfn.de/blog/2014/10/open-science-sum-up-september/",
        "title": "Open Science Sum-Up September",
        "section": "blog",
        "date": "2014-10-15 00:00:00 +0000 UTC",
@@ -4400,7 +4400,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/10/zugang-gestalten-am-13-14-nov-2014-im-hamburger-bahnhof-in-berlin/",
+       "url": "https://okfn.de/blog/2014/10/zugang-gestalten-am-13-14-nov-2014-im-hamburger-bahnhof-in-berlin/",
        "title": "Zugang gestalten! am 13./14. Nov. 2014 im Hamburger Bahnhof in Berlin",
        "section": "blog",
        "date": "2014-10-10 00:00:00 +0000 UTC",
@@ -4416,7 +4416,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/09/stellungnahme-zum-nationalen-aktionsplan-der-bundesregierung-zur-umsetzung-der-open-data-charter-der-g8-g7/",
+       "url": "https://okfn.de/blog/2014/09/stellungnahme-zum-nationalen-aktionsplan-der-bundesregierung-zur-umsetzung-der-open-data-charter-der-g8-g7/",
        "title": "Stellungnahme zum Nationalen Aktionsplan der Bundesregierung zur Umsetzung der Open Data Charter der G8 (G7)",
        "section": "blog",
        "date": "2014-09-24 00:00:00 +0000 UTC",
@@ -4432,7 +4432,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/09/erfolg-fuer-open-data-datenlizenz-deutschland-version-2-0-ist-eine-offene-lizenz/",
+       "url": "https://okfn.de/blog/2014/09/erfolg-fuer-open-data-datenlizenz-deutschland-version-2-0-ist-eine-offene-lizenz/",
        "title": "Erfolg für Open Data: Datenlizenz Deutschland Version 2.0 ist eine offene Lizenz  (Update)",
        "section": "blog",
        "date": "2014-09-22 00:00:00 +0000 UTC",
@@ -4448,7 +4448,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/09/kampagne-fuer-offene-parlamente-im-rahmen-der-global-legislative-openness-week/",
+       "url": "https://okfn.de/blog/2014/09/kampagne-fuer-offene-parlamente-im-rahmen-der-global-legislative-openness-week/",
        "title": "Kampagne für offene Parlamente im Rahmen der Global Legislative Openness Week",
        "section": "blog",
        "date": "2014-09-17 00:00:00 +0000 UTC",
@@ -4464,7 +4464,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/09/apps-for-europe-sucht-die-besten-opendata-apps/",
+       "url": "https://okfn.de/blog/2014/09/apps-for-europe-sucht-die-besten-opendata-apps/",
        "title": "Apps for Europe sucht die besten #opendata Apps",
        "section": "blog",
        "date": "2014-09-15 00:00:00 +0000 UTC",
@@ -4480,7 +4480,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/09/jugend-hackt-ein-wochenende-lang-hacken-basteln-und-programmieren-mit-120-jugendlichen/",
+       "url": "https://okfn.de/blog/2014/09/jugend-hackt-ein-wochenende-lang-hacken-basteln-und-programmieren-mit-120-jugendlichen/",
        "title": "Jugend hackt - ein Wochenende lang hacken, basteln und programmieren mit 120 Jugendlichen",
        "section": "blog",
        "date": "2014-09-15 00:00:00 +0000 UTC",
@@ -4496,7 +4496,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/09/open-science-sum-up-august/",
+       "url": "https://okfn.de/blog/2014/09/open-science-sum-up-august/",
        "title": "Open Science Sum-Up August",
        "section": "blog",
        "date": "2014-09-15 00:00:00 +0000 UTC",
@@ -4512,7 +4512,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/09/award-fuer-herausragende-projekte-in-den-digitalen-geistes-und-kulturwissenschaften/",
+       "url": "https://okfn.de/blog/2014/09/award-fuer-herausragende-projekte-in-den-digitalen-geistes-und-kulturwissenschaften/",
        "title": "Award für herausragende Projekte in den digitalen Geistes- und Kulturwissenschaften",
        "section": "blog",
        "date": "2014-09-11 00:00:00 +0000 UTC",
@@ -4528,7 +4528,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/09/jugend-hackt-yrs-festival-of-code/",
+       "url": "https://okfn.de/blog/2014/09/jugend-hackt-yrs-festival-of-code/",
        "title": "Jugend hackt-Teilnehmer feiern Erfolg beim Festival of Code",
        "section": "blog",
        "date": "2014-09-02 00:00:00 +0000 UTC",
@@ -4544,7 +4544,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/08/jetzt-anmelden-konferenz-zu-offenen-bildungsmaterialien-im-september-2014-in-berlin-oer14de/",
+       "url": "https://okfn.de/blog/2014/08/jetzt-anmelden-konferenz-zu-offenen-bildungsmaterialien-im-september-2014-in-berlin-oer14de/",
        "title": "Jetzt anmelden: Konferenz zu offenen Bildungsmaterialien im September 2014 in Berlin (#OER14de)",
        "section": "blog",
        "date": "2014-08-24 00:00:00 +0000 UTC",
@@ -4560,7 +4560,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/08/review-1-open-science-arbeitsgruppentreffen-im-juli-2014/",
+       "url": "https://okfn.de/blog/2014/08/review-1-open-science-arbeitsgruppentreffen-im-juli-2014/",
        "title": "Review: 1. Open Science Arbeitsgruppentreffen im Juli 2014",
        "section": "blog",
        "date": "2014-08-23 00:00:00 +0000 UTC",
@@ -4576,7 +4576,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/08/creative-commons-lizenztextlesung-auf-der-alle-fragen-rund-um-freie-lizenzen-gestellt-werden-koennen/",
+       "url": "https://okfn.de/blog/2014/08/creative-commons-lizenztextlesung-auf-der-alle-fragen-rund-um-freie-lizenzen-gestellt-werden-koennen/",
        "title": "Creative-Commons Lizenztextlesung auf der alle Fragen rund um freie Lizenzen gestellt werden können",
        "section": "blog",
        "date": "2014-08-19 00:00:00 +0000 UTC",
@@ -4592,7 +4592,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/08/an-alle-unterstuetzer-danke-dass-ihr-jugend-hackt-moeglich-macht/",
+       "url": "https://okfn.de/blog/2014/08/an-alle-unterstuetzer-danke-dass-ihr-jugend-hackt-moeglich-macht/",
        "title": "An alle Unterstützer: Danke, dass ihr Jugend hackt möglich macht!",
        "section": "blog",
        "date": "2014-08-13 00:00:00 +0000 UTC",
@@ -4608,7 +4608,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/08/ziel-verfehlt-digitale-agenda-bleibt-weit-hinter-dem-koalitonsvereinbarungen-zurueck/",
+       "url": "https://okfn.de/blog/2014/08/ziel-verfehlt-digitale-agenda-bleibt-weit-hinter-dem-koalitonsvereinbarungen-zurueck/",
        "title": "Ziel (bisher) verfehlt: Digitale Agenda bleibt weit hinter den Koalitonsvereinbarungen zurück",
        "section": "blog",
        "date": "2014-08-13 00:00:00 +0000 UTC",
@@ -4624,7 +4624,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/08/open-science-sum-up-juli/",
+       "url": "https://okfn.de/blog/2014/08/open-science-sum-up-juli/",
        "title": "Open Science Sum-Up Juli",
        "section": "blog",
        "date": "2014-08-12 00:00:00 +0000 UTC",
@@ -4640,7 +4640,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/07/fuenf-fellowships-fuer-digitale-geisteswissenschaftlerinnen-ausschreibung-laeuft-bis-zum-30-09-14/",
+       "url": "https://okfn.de/blog/2014/07/fuenf-fellowships-fuer-digitale-geisteswissenschaftlerinnen-ausschreibung-laeuft-bis-zum-30-09-14/",
        "title": "Fünf Fellowships für (digitale) GeisteswissenschaftlerInnen. Ausschreibung läuft bis zum 30.09.14!",
        "section": "blog",
        "date": "2014-07-30 00:00:00 +0000 UTC",
@@ -4656,7 +4656,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/07/openglam-workshop-review/",
+       "url": "https://okfn.de/blog/2014/07/openglam-workshop-review/",
        "title": "OpenGLAM Workshop Review",
        "section": "blog",
        "date": "2014-07-28 00:00:00 +0000 UTC",
@@ -4672,7 +4672,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/07/okfestival-2014-berliner-sommerluft-und-offenes-wissen/",
+       "url": "https://okfn.de/blog/2014/07/okfestival-2014-berliner-sommerluft-und-offenes-wissen/",
        "title": "OKFestival 2014: Berliner Sommerluft und offenes Wissen",
        "section": "blog",
        "date": "2014-07-25 00:00:00 +0000 UTC",
@@ -4688,7 +4688,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/07/offener-brief-aufruf-an-die-neue-fuehrung-der-europaeischen-union-die-rechte-und-den-schutz-des-einzelnen-zu-garantieren/",
+       "url": "https://okfn.de/blog/2014/07/offener-brief-aufruf-an-die-neue-fuehrung-der-europaeischen-union-die-rechte-und-den-schutz-des-einzelnen-zu-garantieren/",
        "title": "Offener Brief: Aufruf an die neue Führung der Europäischen Union die Rechte und den Schutz des Einzelnen zu garantieren",
        "section": "blog",
        "date": "2014-07-24 00:00:00 +0000 UTC",
@@ -4704,7 +4704,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/07/gemeinsame-stellungnahme-zum-entwurf-eines-gesetzes-ueber-die-weiterverwendung-von-informationen-oeffentlicher-stellen-iwg/",
+       "url": "https://okfn.de/blog/2014/07/gemeinsame-stellungnahme-zum-entwurf-eines-gesetzes-ueber-die-weiterverwendung-von-informationen-oeffentlicher-stellen-iwg/",
        "title": "Gemeinsame Stellungnahme zum Entwurf eines Gesetzes über die Weiterverwendung von Informationen öffentlicher Stellen (IWG)",
        "section": "blog",
        "date": "2014-07-21 00:00:00 +0000 UTC",
@@ -4720,7 +4720,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/07/open-science-sum-up-juni/",
+       "url": "https://okfn.de/blog/2014/07/open-science-sum-up-juni/",
        "title": "Open Science Sum-Up Juni",
        "section": "blog",
        "date": "2014-07-17 00:00:00 +0000 UTC",
@@ -4736,7 +4736,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/07/okfestival-2014-fringe-event-arbeitsgruppe-fuer-die-oeffnung-von-wissenschaft-und-forschung-open-science/",
+       "url": "https://okfn.de/blog/2014/07/okfestival-2014-fringe-event-arbeitsgruppe-fuer-die-oeffnung-von-wissenschaft-und-forschung-open-science/",
        "title": "OKFestival 2014 Fringe Event: Arbeitsgruppe für die Öffnung von Wissenschaft und Forschung (Open Science)",
        "section": "blog",
        "date": "2014-07-09 00:00:00 +0000 UTC",
@@ -4752,7 +4752,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/07/mein-schuelerpraktikum/",
+       "url": "https://okfn.de/blog/2014/07/mein-schuelerpraktikum/",
        "title": "Mein Schülerpraktikum",
        "section": "blog",
        "date": "2014-07-04 00:00:00 +0000 UTC",
@@ -4768,7 +4768,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/07/offene-lehr-und-lernmaterialien-fuer-digitale-geisteswissenschaften/",
+       "url": "https://okfn.de/blog/2014/07/offene-lehr-und-lernmaterialien-fuer-digitale-geisteswissenschaften/",
        "title": "Offene Lehr- und Lernmaterialien für digitale Geisteswissenschaften",
        "section": "blog",
        "date": "2014-07-03 00:00:00 +0000 UTC",
@@ -4784,7 +4784,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/06/4079/",
+       "url": "https://okfn.de/blog/2014/06/4079/",
        "title": "Aktivitäten und Projekte im Mai 2014",
        "section": "blog",
        "date": "2014-06-23 00:00:00 +0000 UTC",
@@ -4800,7 +4800,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/06/open-science-sum-up-mai/",
+       "url": "https://okfn.de/blog/2014/06/open-science-sum-up-mai/",
        "title": "Open Science Sum-Up Mai",
        "section": "blog",
        "date": "2014-06-20 00:00:00 +0000 UTC",
@@ -4816,7 +4816,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/06/ok-festival-2014-das-internationale-festival-fuer-offenes-wissen-kommt-nach-berlin/",
+       "url": "https://okfn.de/blog/2014/06/ok-festival-2014-das-internationale-festival-fuer-offenes-wissen-kommt-nach-berlin/",
        "title": "OK Festival 2014 – Das internationale Festival für offenes Wissen kommt nach Berlin",
        "section": "blog",
        "date": "2014-06-17 00:00:00 +0000 UTC",
@@ -4832,7 +4832,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/05/informationsfreiheit-open-data-und-fahrradunfaelle/",
+       "url": "https://okfn.de/blog/2014/05/informationsfreiheit-open-data-und-fahrradunfaelle/",
        "title": "Informationsfreiheit, Open Data und Fahrradunfälle",
        "section": "blog",
        "date": "2014-05-28 00:00:00 +0000 UTC",
@@ -4848,7 +4848,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/05/open-knowledge-foundation-deutschland-gewinnt-editors-lab-f-a-z-hackday/",
+       "url": "https://okfn.de/blog/2014/05/open-knowledge-foundation-deutschland-gewinnt-editors-lab-f-a-z-hackday/",
        "title": "Open Knowledge Foundation Deutschland gewinnt Editors Lab Hackday",
        "section": "blog",
        "date": "2014-05-20 00:00:00 +0000 UTC",
@@ -4864,7 +4864,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/05/okf-de-unterstuezt-digitale-buergerrechte-we-promise/",
+       "url": "https://okfn.de/blog/2014/05/okf-de-unterstuezt-digitale-buergerrechte-we-promise/",
        "title": "WePromise.eu: Wir unterstützen die Kampagne für digitale Bürgerrechte zur Europawahl",
        "section": "blog",
        "date": "2014-05-15 00:00:00 +0000 UTC",
@@ -4880,7 +4880,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/05/erfahrungen-city-census/",
+       "url": "https://okfn.de/blog/2014/05/erfahrungen-city-census/",
        "title": "Gastbeitrag: Erfahrungen zweier Kommunen mit dem City Census",
        "section": "blog",
        "date": "2014-05-13 00:00:00 +0000 UTC",
@@ -4896,7 +4896,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/05/open-science-sum-up-april/",
+       "url": "https://okfn.de/blog/2014/05/open-science-sum-up-april/",
        "title": "Open Science Sum-Up April",
        "section": "blog",
        "date": "2014-05-13 00:00:00 +0000 UTC",
@@ -4912,7 +4912,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/05/kultur-hackathon-erste-runde/",
+       "url": "https://okfn.de/blog/2014/05/kultur-hackathon-erste-runde/",
        "title": "Coding da Vinci - Kultur-Hackathon geht in die erste Runde",
        "section": "blog",
        "date": "2014-05-07 00:00:00 +0000 UTC",
@@ -4928,7 +4928,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/04/aktivitaeten-und-projekte-im-maerz-2014/",
+       "url": "https://okfn.de/blog/2014/04/aktivitaeten-und-projekte-im-maerz-2014/",
        "title": "Aktivitäten und Projekte im März 2014",
        "section": "blog",
        "date": "2014-04-20 00:00:00 +0000 UTC",
@@ -4944,7 +4944,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/04/open-science-sum-up-maerz/",
+       "url": "https://okfn.de/blog/2014/04/open-science-sum-up-maerz/",
        "title": "Open Science Sum-Up März",
        "section": "blog",
        "date": "2014-04-13 00:00:00 +0000 UTC",
@@ -4960,7 +4960,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/04/die-gewinner-von-apps-for-europe-2014/",
+       "url": "https://okfn.de/blog/2014/04/die-gewinner-von-apps-for-europe-2014/",
        "title": "Die Gewinner von Apps for Europe 2014",
        "section": "blog",
        "date": "2014-04-05 00:00:00 +0000 UTC",
@@ -4976,7 +4976,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/04/effizienter-staat-2014-offene-daten-und-transparentes-regierungshandeln-in-der-verwaltungsrealitaet/",
+       "url": "https://okfn.de/blog/2014/04/effizienter-staat-2014-offene-daten-und-transparentes-regierungshandeln-in-der-verwaltungsrealitaet/",
        "title": "Effizienter Staat 2014: Offene Daten und transparentes Regierungshandeln in der Verwaltungsrealität",
        "section": "blog",
        "date": "2014-04-04 00:00:00 +0000 UTC",
@@ -4992,7 +4992,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/03/coding-da-vinci/",
+       "url": "https://okfn.de/blog/2014/03/coding-da-vinci/",
        "title": "Coding da Vinci - Der Kultur-Hackathon",
        "section": "blog",
        "date": "2014-03-26 00:00:00 +0000 UTC",
@@ -5008,7 +5008,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/03/open-science-sum-up-februar/",
+       "url": "https://okfn.de/blog/2014/03/open-science-sum-up-februar/",
        "title": "Open Science Sum – Up Februar",
        "section": "blog",
        "date": "2014-03-21 00:00:00 +0000 UTC",
@@ -5024,7 +5024,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/03/konsultation-zur-bereitstellung-offener-daten-in-bremen/",
+       "url": "https://okfn.de/blog/2014/03/konsultation-zur-bereitstellung-offener-daten-in-bremen/",
        "title": "Konsultation zur Bereitstellung offener Daten in Bremen",
        "section": "blog",
        "date": "2014-03-10 00:00:00 +0000 UTC",
@@ -5040,7 +5040,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/03/softwareentwicklerin-gesucht/",
+       "url": "https://okfn.de/blog/2014/03/softwareentwicklerin-gesucht/",
        "title": "Softwareentwickler/in gesucht",
        "section": "blog",
        "date": "2014-03-10 00:00:00 +0000 UTC",
@@ -5056,7 +5056,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/03/der-open-data-day-startschuss-fuer-die-ok-labs/",
+       "url": "https://okfn.de/blog/2014/03/der-open-data-day-startschuss-fuer-die-ok-labs/",
        "title": "Der Open Data Day - Startschuss für die OK Labs!",
        "section": "blog",
        "date": "2014-03-05 00:00:00 +0000 UTC",
@@ -5072,7 +5072,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/02/hallo-code-for-germany/",
+       "url": "https://okfn.de/blog/2014/02/hallo-code-for-germany/",
        "title": "Hallo, Code for Germany",
        "section": "blog",
        "date": "2014-02-27 00:00:00 +0000 UTC",
@@ -5088,7 +5088,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/02/aktivitaten-und-projekte-im-januar-2014/",
+       "url": "https://okfn.de/blog/2014/02/aktivitaten-und-projekte-im-januar-2014/",
        "title": "Aktivitäten und Projekte im Januar 2014",
        "section": "blog",
        "date": "2014-02-12 00:00:00 +0000 UTC",
@@ -5104,7 +5104,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/01/der-erste-weltkrieg-in-digitalen-quellen/",
+       "url": "https://okfn.de/blog/2014/01/der-erste-weltkrieg-in-digitalen-quellen/",
        "title": "Der Erste Weltkrieg in digitalen Quellen",
        "section": "blog",
        "date": "2014-01-30 00:00:00 +0000 UTC",
@@ -5120,7 +5120,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/01/bundesrepublik-deutschland-mahnt-die-open-knowledge-foundation-ab/",
+       "url": "https://okfn.de/blog/2014/01/bundesrepublik-deutschland-mahnt-die-open-knowledge-foundation-ab/",
        "title": "Bundesrepublik Deutschland mahnt die Open Knowledge Foundation ab",
        "section": "blog",
        "date": "2014-01-22 00:00:00 +0000 UTC",
@@ -5136,7 +5136,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/01/aktivitaeten-und-projekte-im-dezember-2013/",
+       "url": "https://okfn.de/blog/2014/01/aktivitaeten-und-projekte-im-dezember-2013/",
        "title": "Aktivitäten und Projekte im Dezember 2013",
        "section": "blog",
        "date": "2014-01-13 00:00:00 +0000 UTC",
@@ -5152,7 +5152,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/",
+       "url": "https://okfn.de/blog/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/",
        "title": "Empfehlungen für den deutschen Aktionsplan zur Umsetzung der \"Open Data\"-Charta der G8",
        "section": "blog",
        "date": "2014-01-13 00:00:00 +0000 UTC",
@@ -5168,7 +5168,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2014/01/international-open-data-day-2014/",
+       "url": "https://okfn.de/blog/2014/01/international-open-data-day-2014/",
        "title": "International Open Data Day 2014",
        "section": "blog",
        "date": "2014-01-06 00:00:00 +0000 UTC",
@@ -5184,7 +5184,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/12/apps-for-europe-wettbewerb-mitmachen/",
+       "url": "https://okfn.de/blog/2013/12/apps-for-europe-wettbewerb-mitmachen/",
        "title": "Apps for Europe Wettbewerb - mitmachen!",
        "section": "blog",
        "date": "2013-12-13 00:00:00 +0000 UTC",
@@ -5200,7 +5200,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/12/zugang-gestalten-ein-rueckblick/",
+       "url": "https://okfn.de/blog/2013/12/zugang-gestalten-ein-rueckblick/",
        "title": "Zugang gestalten - Ein Rückblick",
        "section": "blog",
        "date": "2013-12-03 00:00:00 +0000 UTC",
@@ -5216,7 +5216,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/11/konferenz-zugang-gestalten-livestream/",
+       "url": "https://okfn.de/blog/2013/11/konferenz-zugang-gestalten-livestream/",
        "title": "Konferenz „Zugang gestalten\" Livestream",
        "section": "blog",
        "date": "2013-11-28 00:00:00 +0000 UTC",
@@ -5232,7 +5232,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/11/app-nach-litauen/",
+       "url": "https://okfn.de/blog/2013/11/app-nach-litauen/",
        "title": "App nach Litauen",
        "section": "blog",
        "date": "2013-11-13 00:00:00 +0000 UTC",
@@ -5248,7 +5248,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/11/open-knowledge-festival-2014-erstes-vorbereitungstreffen-am-21-november/",
+       "url": "https://okfn.de/blog/2013/11/open-knowledge-festival-2014-erstes-vorbereitungstreffen-am-21-november/",
        "title": "OKFestival 2014 - erstes Vorbereitungstreffen am 21. November",
        "section": "blog",
        "date": "2013-11-12 00:00:00 +0000 UTC",
@@ -5264,7 +5264,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/11/aktivitaten-und-projekte-im-oktober-2013/",
+       "url": "https://okfn.de/blog/2013/11/aktivitaten-und-projekte-im-oktober-2013/",
        "title": "Aktivitäten und Projekte im Oktober 2013",
        "section": "blog",
        "date": "2013-11-06 00:00:00 +0000 UTC",
@@ -5280,7 +5280,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/",
+       "url": "https://okfn.de/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/",
        "title": "Open Government Partnership Summit 2013: \"Wo ist eigentlich Deutschland?\"",
        "section": "blog",
        "date": "2013-11-04 00:00:00 +0000 UTC",
@@ -5296,7 +5296,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/open-data-index-2013/",
+       "url": "https://okfn.de/blog/2013/10/open-data-index-2013/",
        "title": "Open Data Index 2013 - Deutschland bleibt Open Data Entwicklungsland",
        "section": "blog",
        "date": "2013-10-30 00:00:00 +0000 UTC",
@@ -5312,7 +5312,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/einladung-zur-konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/",
+       "url": "https://okfn.de/blog/2013/10/einladung-zur-konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/",
        "title": "Einladung zur Konferenz \"Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe\"",
        "section": "blog",
        "date": "2013-10-29 00:00:00 +0000 UTC",
@@ -5328,7 +5328,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/drittes-barcamp-offene-kommunen-nrw-am-9-november/",
+       "url": "https://okfn.de/blog/2013/10/drittes-barcamp-offene-kommunen-nrw-am-9-november/",
        "title": "Drittes Barcamp Offene Kommunen.NRW am 9. November",
        "section": "blog",
        "date": "2013-10-28 00:00:00 +0000 UTC",
@@ -5344,7 +5344,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/open-development-camp-2013-7-8-november-amsterdam/",
+       "url": "https://okfn.de/blog/2013/10/open-development-camp-2013-7-8-november-amsterdam/",
        "title": "Open Development Camp 2013, 7-8 November, Amsterdam",
        "section": "blog",
        "date": "2013-10-24 00:00:00 +0000 UTC",
@@ -5360,7 +5360,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/praktikum-bei-der-open-knowledge-foundation-deutschland/",
+       "url": "https://okfn.de/blog/2013/10/praktikum-bei-der-open-knowledge-foundation-deutschland/",
        "title": "Praktikum bei der Open Knowledge Foundation Deutschland",
        "section": "blog",
        "date": "2013-10-12 00:00:00 +0000 UTC",
@@ -5376,7 +5376,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/govdata-in-der-evaluationsphase/",
+       "url": "https://okfn.de/blog/2013/10/govdata-in-der-evaluationsphase/",
        "title": "GovData in der Evaluationsphase",
        "section": "blog",
        "date": "2013-10-11 00:00:00 +0000 UTC",
@@ -5392,7 +5392,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/aktivitaten-und-projekte-im-september-2013/",
+       "url": "https://okfn.de/blog/2013/10/aktivitaten-und-projekte-im-september-2013/",
        "title": "Aktivitäten und Projekte im September 2013",
        "section": "blog",
        "date": "2013-10-09 00:00:00 +0000 UTC",
@@ -5408,7 +5408,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/deutschland-muss-der-open-government-partnership-beitreten/",
+       "url": "https://okfn.de/blog/2013/10/deutschland-muss-der-open-government-partnership-beitreten/",
        "title": "Deutschland muss endlich der Open Government Partnership beitreten",
        "section": "blog",
        "date": "2013-10-09 00:00:00 +0000 UTC",
@@ -5424,7 +5424,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/open-knowledge-conference-2013/",
+       "url": "https://okfn.de/blog/2013/10/open-knowledge-conference-2013/",
        "title": "Open Knowledge Conference 2013 - Rückblick",
        "section": "blog",
        "date": "2013-10-09 00:00:00 +0000 UTC",
@@ -5440,7 +5440,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/berliner-geodaten/",
+       "url": "https://okfn.de/blog/2013/10/berliner-geodaten/",
        "title": "Die Berliner Geodaten stehen ab sofort kostenfrei zur Verfügung",
        "section": "blog",
        "date": "2013-10-04 00:00:00 +0000 UTC",
@@ -5456,7 +5456,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/10/ruckblick-open-access-tage-2013-in-hamburg/",
+       "url": "https://okfn.de/blog/2013/10/ruckblick-open-access-tage-2013-in-hamburg/",
        "title": "Rückblick: Open Access Tage 2013 in Hamburg",
        "section": "blog",
        "date": "2013-10-04 00:00:00 +0000 UTC",
@@ -5472,7 +5472,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/09/art-hack-day-going-dark/",
+       "url": "https://okfn.de/blog/2013/09/art-hack-day-going-dark/",
        "title": "Art Hack Day - \"Going Dark\"",
        "section": "blog",
        "date": "2013-09-27 00:00:00 +0000 UTC",
@@ -5488,7 +5488,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/09/wahl-daten-helfer/",
+       "url": "https://okfn.de/blog/2013/09/wahl-daten-helfer/",
        "title": "Wahl.Daten.Helfer. – ein produktives Wahlwochenende",
        "section": "blog",
        "date": "2013-09-25 00:00:00 +0000 UTC",
@@ -5504,7 +5504,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/09/informationsfreiheit-und-die-bundestagswahl/",
+       "url": "https://okfn.de/blog/2013/09/informationsfreiheit-und-die-bundestagswahl/",
        "title": "Informationsfreiheit und die Bundestagswahl",
        "section": "blog",
        "date": "2013-09-20 00:00:00 +0000 UTC",
@@ -5520,7 +5520,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/09/jugend-hackt-erster-ruckblick/",
+       "url": "https://okfn.de/blog/2013/09/jugend-hackt-erster-ruckblick/",
        "title": "Jugend hackt - erster Rückblick",
        "section": "blog",
        "date": "2013-09-12 00:00:00 +0000 UTC",
@@ -5536,7 +5536,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/09/aktivitaten-und-projekte-im-august-2013/",
+       "url": "https://okfn.de/blog/2013/09/aktivitaten-und-projekte-im-august-2013/",
        "title": "Aktivitäten und Projekte im August 2013",
        "section": "blog",
        "date": "2013-09-11 00:00:00 +0000 UTC",
@@ -5552,7 +5552,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/09/berliner-appell-zum-erhalt-des-digitalen-kulturerbes/",
+       "url": "https://okfn.de/blog/2013/09/berliner-appell-zum-erhalt-des-digitalen-kulturerbes/",
        "title": "Berliner Appell zum Erhalt des digitalen Kulturerbes - mitzeichnen!",
        "section": "blog",
        "date": "2013-09-10 00:00:00 +0000 UTC",
@@ -5568,7 +5568,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/09/open-knowledge-conference-16-18-september-2013/",
+       "url": "https://okfn.de/blog/2013/09/open-knowledge-conference-16-18-september-2013/",
        "title": "Open Knowledge Conference, 16.-18. September 2013",
        "section": "blog",
        "date": "2013-09-09 00:00:00 +0000 UTC",
@@ -5584,7 +5584,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/08/aktivitaten-und-projekte-im-juli-2013/",
+       "url": "https://okfn.de/blog/2013/08/aktivitaten-und-projekte-im-juli-2013/",
        "title": "Aktivitäten und Projekte im Juli 2013",
        "section": "blog",
        "date": "2013-08-05 00:00:00 +0000 UTC",
@@ -5600,7 +5600,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/08/open-knowledge-foundation-deutschland-meets-code-for-america/",
+       "url": "https://okfn.de/blog/2013/08/open-knowledge-foundation-deutschland-meets-code-for-america/",
        "title": "Code for All – Open Knowledge Foundation Deutschland meets Code for America",
        "section": "blog",
        "date": "2013-08-05 00:00:00 +0000 UTC",
@@ -5616,7 +5616,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/07/big-data-kann-mehr/",
+       "url": "https://okfn.de/blog/2013/07/big-data-kann-mehr/",
        "title": "Big Data Kann Mehr",
        "section": "blog",
        "date": "2013-07-23 00:00:00 +0000 UTC",
@@ -5632,7 +5632,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/07/jugend-hackt-neuigkeiten/",
+       "url": "https://okfn.de/blog/2013/07/jugend-hackt-neuigkeiten/",
        "title": "Jugend hackt - Neuigkeiten",
        "section": "blog",
        "date": "2013-07-19 00:00:00 +0000 UTC",
@@ -5648,7 +5648,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/07/die-energy-hack-netztour-eine-tour-in-das-gehirn-des-stromnetzes/",
+       "url": "https://okfn.de/blog/2013/07/die-energy-hack-netztour-eine-tour-in-das-gehirn-des-stromnetzes/",
        "title": "Die \"Energy Hack\" Netztour – Eine Tour in das Gehirn des Stromnetzes",
        "section": "blog",
        "date": "2013-07-17 00:00:00 +0000 UTC",
@@ -5664,7 +5664,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/",
+       "url": "https://okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/",
        "title": "Aktivitäten und Projekte im Juni 2013",
        "section": "blog",
        "date": "2013-07-08 00:00:00 +0000 UTC",
@@ -5680,7 +5680,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/06/apps-the-city-cologne/",
+       "url": "https://okfn.de/blog/2013/06/apps-the-city-cologne/",
        "title": "Apps \u0026 the City Cologne",
        "section": "blog",
        "date": "2013-06-24 00:00:00 +0000 UTC",
@@ -5696,7 +5696,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/06/initiative-openruhr/",
+       "url": "https://okfn.de/blog/2013/06/initiative-openruhr/",
        "title": "Initiative OpenRuhr veröffentlicht alternatives Ratsinformationssystem für Bochum und Moers",
        "section": "blog",
        "date": "2013-06-21 00:00:00 +0000 UTC",
@@ -5712,7 +5712,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/",
+       "url": "https://okfn.de/blog/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/",
        "title": "\"Open is the new normal\": G8-Mitglieder zeichnen Open Data Charter",
        "section": "blog",
        "date": "2013-06-19 00:00:00 +0000 UTC",
@@ -5728,7 +5728,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/06/pressemitteilung-zu-den-ergebnissen-des-globalen-open-data-census/",
+       "url": "https://okfn.de/blog/2013/06/pressemitteilung-zu-den-ergebnissen-des-globalen-open-data-census/",
        "title": "Die G8-Länder müssen hart arbeiten, um wichtige Daten zu öffnen",
        "section": "blog",
        "date": "2013-06-18 00:00:00 +0000 UTC",
@@ -5744,7 +5744,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/06/review-energy-hack-kreative-hacks-fur-die-energie-der-zukunft/",
+       "url": "https://okfn.de/blog/2013/06/review-energy-hack-kreative-hacks-fur-die-energie-der-zukunft/",
        "title": "Review Energy Hack – Kreative Hacks für die Energie der Zukunft",
        "section": "blog",
        "date": "2013-06-18 00:00:00 +0000 UTC",
@@ -5760,7 +5760,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/06/interactive-cologne-apps-the-city/",
+       "url": "https://okfn.de/blog/2013/06/interactive-cologne-apps-the-city/",
        "title": "Interactive Cologne: Apps \u0026 the City in Köln",
        "section": "blog",
        "date": "2013-06-10 00:00:00 +0000 UTC",
@@ -5776,7 +5776,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/06/newsletter-mai-2013/",
+       "url": "https://okfn.de/blog/2013/06/newsletter-mai-2013/",
        "title": "Aktivitäten und Projekte im Mai 2013",
        "section": "blog",
        "date": "2013-06-07 00:00:00 +0000 UTC",
@@ -5792,7 +5792,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/06/die-erzwungene-oeffnung-der-juris-datenbank/",
+       "url": "https://okfn.de/blog/2013/06/die-erzwungene-oeffnung-der-juris-datenbank/",
        "title": "Die erzwungene Öffnung der juris-Datenbank",
        "section": "blog",
        "date": "2013-06-05 00:00:00 +0000 UTC",
@@ -5808,7 +5808,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/05/open-data-tage-in-aachen/",
+       "url": "https://okfn.de/blog/2013/05/open-data-tage-in-aachen/",
        "title": "Open Data Tage in Aachen",
        "section": "blog",
        "date": "2013-05-28 00:00:00 +0000 UTC",
@@ -5824,7 +5824,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/05/offene-lizenzen-fuer-daten-und-dokumente-der-deutschen-verwaltung/",
+       "url": "https://okfn.de/blog/2013/05/offene-lizenzen-fuer-daten-und-dokumente-der-deutschen-verwaltung/",
        "title": "Offene Lizenzen für Daten und Dokumente der Deutschen Verwaltung",
        "section": "blog",
        "date": "2013-05-27 00:00:00 +0000 UTC",
@@ -5840,7 +5840,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/05/open-knowledge-foundation-und-open-data-auf-der-republica-2013/",
+       "url": "https://okfn.de/blog/2013/05/open-knowledge-foundation-und-open-data-auf-der-republica-2013/",
        "title": "Alle Videos der Open Knowledge Foundation auf der re:publica 2013",
        "section": "blog",
        "date": "2013-05-15 00:00:00 +0000 UTC",
@@ -5856,7 +5856,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/05/newsletter-okf-de-april-2013/",
+       "url": "https://okfn.de/blog/2013/05/newsletter-okf-de-april-2013/",
        "title": "Newsletter OKF DE April 2013",
        "section": "blog",
        "date": "2013-05-14 00:00:00 +0000 UTC",
@@ -5872,7 +5872,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/05/open-data-auf-der-republica-2013/",
+       "url": "https://okfn.de/blog/2013/05/open-data-auf-der-republica-2013/",
        "title": "Open Data auf der re:publica 2013",
        "section": "blog",
        "date": "2013-05-13 00:00:00 +0000 UTC",
@@ -5888,7 +5888,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/05/berlin-open-data-day-2013/",
+       "url": "https://okfn.de/blog/2013/05/berlin-open-data-day-2013/",
        "title": "Berlin Open Data Day 2013",
        "section": "blog",
        "date": "2013-05-02 00:00:00 +0000 UTC",
@@ -5904,7 +5904,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/04/berliner-haushaltsvisualisierung/",
+       "url": "https://okfn.de/blog/2013/04/berliner-haushaltsvisualisierung/",
        "title": "Berliner Haushaltsvisualisierung",
        "section": "blog",
        "date": "2013-04-29 00:00:00 +0000 UTC",
@@ -5920,7 +5920,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/04/praktiken-ziele-und-selbstbild-der-open-knowledge-foundation/",
+       "url": "https://okfn.de/blog/2013/04/praktiken-ziele-und-selbstbild-der-open-knowledge-foundation/",
        "title": "Praktiken, Ziele und Selbstbild der Open Knowledge Foundation",
        "section": "blog",
        "date": "2013-04-15 00:00:00 +0000 UTC",
@@ -5936,7 +5936,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/04/okf-de-maerz-2013/",
+       "url": "https://okfn.de/blog/2013/04/okf-de-maerz-2013/",
        "title": "OKF DE Tätigkeitsbericht März 2013",
        "section": "blog",
        "date": "2013-04-14 00:00:00 +0000 UTC",
@@ -5952,7 +5952,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/04/save-the-date-konferenz-zugang-gestalten-28-29-november-2013/",
+       "url": "https://okfn.de/blog/2013/04/save-the-date-konferenz-zugang-gestalten-28-29-november-2013/",
        "title": "Save the date: Konferenz Zugang gestalten! 28./29. November 2013",
        "section": "blog",
        "date": "2013-04-12 00:00:00 +0000 UTC",
@@ -5968,7 +5968,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/04/studie-zur-offenheit-der-parlamente-in-deutschland-osterreich-schweiz/",
+       "url": "https://okfn.de/blog/2013/04/studie-zur-offenheit-der-parlamente-in-deutschland-osterreich-schweiz/",
        "title": "Studie zur Offenheit der Parlamente in Deutschland, Österreich und der Schweiz",
        "section": "blog",
        "date": "2013-04-08 00:00:00 +0000 UTC",
@@ -5984,7 +5984,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/04/apps-and-the-city-prasentation-daten-workshop/",
+       "url": "https://okfn.de/blog/2013/04/apps-and-the-city-prasentation-daten-workshop/",
        "title": "Apps and the City: App Präsentation \u0026 Daten Workshop",
        "section": "blog",
        "date": "2013-04-04 00:00:00 +0000 UTC",
@@ -6000,7 +6000,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/04/workshop-zu-offenen-daten-in-essen/",
+       "url": "https://okfn.de/blog/2013/04/workshop-zu-offenen-daten-in-essen/",
        "title": "Workshop zu offenen Daten in Essen",
        "section": "blog",
        "date": "2013-04-01 00:00:00 +0000 UTC",
@@ -6016,7 +6016,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/03/erklaerung-zur-parlamentarischen-offenheit/",
+       "url": "https://okfn.de/blog/2013/03/erklaerung-zur-parlamentarischen-offenheit/",
        "title": "Erklärung zur Parlamentarischen Offenheit",
        "section": "blog",
        "date": "2013-03-25 00:00:00 +0000 UTC",
@@ -6032,7 +6032,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/03/hackidemia-is-coming-back-to-berlin-1st-april/",
+       "url": "https://okfn.de/blog/2013/03/hackidemia-is-coming-back-to-berlin-1st-april/",
        "title": "Hackidemia: Workshops für Kids, Berlin 1. April",
        "section": "blog",
        "date": "2013-03-25 00:00:00 +0000 UTC",
@@ -6048,7 +6048,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/03/praktikum-bei-der-okf-de/",
+       "url": "https://okfn.de/blog/2013/03/praktikum-bei-der-okf-de/",
        "title": "Praktikum bei der OKF DE",
        "section": "blog",
        "date": "2013-03-18 00:00:00 +0000 UTC",
@@ -6064,7 +6064,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/03/transparenz-portal-kfw-entwicklungsbank/",
+       "url": "https://okfn.de/blog/2013/03/transparenz-portal-kfw-entwicklungsbank/",
        "title": "Transparenz Portal KfW-Entwicklungsbank",
        "section": "blog",
        "date": "2013-03-07 00:00:00 +0000 UTC",
@@ -6080,7 +6080,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/03/okf-de-februar-2013/",
+       "url": "https://okfn.de/blog/2013/03/okf-de-februar-2013/",
        "title": "OKF DE Tätigkeitsbericht Februar 2013",
        "section": "blog",
        "date": "2013-03-05 00:00:00 +0000 UTC",
@@ -6096,7 +6096,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/das-war-der-int-open-data-day-2013/",
+       "url": "https://okfn.de/blog/2013/02/das-war-der-int-open-data-day-2013/",
        "title": "Das war der Int. Open Data Day 2013",
        "section": "blog",
        "date": "2013-02-27 00:00:00 +0000 UTC",
@@ -6112,7 +6112,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/creative-commons-p2pu-und-wikimedia-laden-ein-zum-school-of-open-workshop/",
+       "url": "https://okfn.de/blog/2013/02/creative-commons-p2pu-und-wikimedia-laden-ein-zum-school-of-open-workshop/",
        "title": "Creative Commons, P2PU und Wikimedia laden ein zum School of Open-Workshop!",
        "section": "blog",
        "date": "2013-02-26 00:00:00 +0000 UTC",
@@ -6128,7 +6128,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/pics-open-data-day-2013-zeit-online/",
+       "url": "https://okfn.de/blog/2013/02/pics-open-data-day-2013-zeit-online/",
        "title": "Pics: Open Data Day 2013 @ Zeit ONLINE",
        "section": "blog",
        "date": "2013-02-23 00:00:00 +0000 UTC",
@@ -6144,7 +6144,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/einladung-international-open-data-hackday-2013-berlin/",
+       "url": "https://okfn.de/blog/2013/02/einladung-international-open-data-hackday-2013-berlin/",
        "title": "Einladung: International Open Data Hackathon 2013 - Berlin",
        "section": "blog",
        "date": "2013-02-19 00:00:00 +0000 UTC",
@@ -6160,7 +6160,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/von-open-data-zu-govdata-warum-deutschland-die-initiative-open-government-partnerhship-braucht/",
+       "url": "https://okfn.de/blog/2013/02/von-open-data-zu-govdata-warum-deutschland-die-initiative-open-government-partnerhship-braucht/",
        "title": "Von Open Data zu GovData: Warum Deutschland die Initiative Open Government Partnerhship braucht",
        "section": "blog",
        "date": "2013-02-19 00:00:00 +0000 UTC",
@@ -6176,7 +6176,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/open-humanities-awards-2013/",
+       "url": "https://okfn.de/blog/2013/02/open-humanities-awards-2013/",
        "title": "Open Humanities Awards 2013",
        "section": "blog",
        "date": "2013-02-18 00:00:00 +0000 UTC",
@@ -6192,7 +6192,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/okf-de-sucht-verstaerkung/",
+       "url": "https://okfn.de/blog/2013/02/okf-de-sucht-verstaerkung/",
        "title": "OKF DE sucht Verstärkung!",
        "section": "blog",
        "date": "2013-02-16 00:00:00 +0000 UTC",
@@ -6208,7 +6208,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/leipziger-initiative-fur-offene-daten/",
+       "url": "https://okfn.de/blog/2013/02/leipziger-initiative-fur-offene-daten/",
        "title": "Leipziger Initiative für Offene Daten",
        "section": "blog",
        "date": "2013-02-10 00:00:00 +0000 UTC",
@@ -6224,7 +6224,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/gemeinsame-erklaerung-govdata-d/",
+       "url": "https://okfn.de/blog/2013/02/gemeinsame-erklaerung-govdata-d/",
        "title": "Gemeinsame Erklärung zum geplanten Datenportal für Deutschland",
        "section": "blog",
        "date": "2013-02-08 00:00:00 +0000 UTC",
@@ -6240,7 +6240,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/einladung-wie-transparent-ist-die-deutsche-entwicklungszusammenarbeit/",
+       "url": "https://okfn.de/blog/2013/02/einladung-wie-transparent-ist-die-deutsche-entwicklungszusammenarbeit/",
        "title": "Einladung: Wie transparent ist die deutsche Entwicklungszusammenarbeit?",
        "section": "blog",
        "date": "2013-02-06 00:00:00 +0000 UTC",
@@ -6256,7 +6256,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/marian-steinbach-zur-open-government-data-plattform-deutschland/",
+       "url": "https://okfn.de/blog/2013/02/marian-steinbach-zur-open-government-data-plattform-deutschland/",
        "title": "M. Steinbach zur Open Government Data Plattform Deutschland",
        "section": "blog",
        "date": "2013-02-06 00:00:00 +0000 UTC",
@@ -6272,7 +6272,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/hive-berlin-ein-lernnetzwerk-fuer-die-stadt/",
+       "url": "https://okfn.de/blog/2013/02/hive-berlin-ein-lernnetzwerk-fuer-die-stadt/",
        "title": "Hive Berlin: Ein Lernnetzwerk für die Stadt",
        "section": "blog",
        "date": "2013-02-05 00:00:00 +0000 UTC",
@@ -6288,7 +6288,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/okfde-januar-2013/",
+       "url": "https://okfn.de/blog/2013/02/okfde-januar-2013/",
        "title": "Tätigkeitsbericht OKF DE Januar 2013",
        "section": "blog",
        "date": "2013-02-05 00:00:00 +0000 UTC",
@@ -6304,7 +6304,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/02/hintergrund-offene-entwicklungshilfe-de/",
+       "url": "https://okfn.de/blog/2013/02/hintergrund-offene-entwicklungshilfe-de/",
        "title": "Hintergrund offene-entwicklungshilfe.de",
        "section": "blog",
        "date": "2013-02-04 00:00:00 +0000 UTC",
@@ -6320,7 +6320,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/call-for-papers-open-government-data-d-a-ch-li-konferenz/",
+       "url": "https://okfn.de/blog/2013/01/call-for-papers-open-government-data-d-a-ch-li-konferenz/",
        "title": "Call for Papers: D-A-CH-LI-Konferenz",
        "section": "blog",
        "date": "2013-01-23 00:00:00 +0000 UTC",
@@ -6336,7 +6336,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/offene-daten-gegen-armut/",
+       "url": "https://okfn.de/blog/2013/01/offene-daten-gegen-armut/",
        "title": "Offene Daten gegen Armut?",
        "section": "blog",
        "date": "2013-01-15 00:00:00 +0000 UTC",
@@ -6352,7 +6352,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/einladung-zum-2-community-workshop-zur-open-government-plattform-deutschland/",
+       "url": "https://okfn.de/blog/2013/01/einladung-zum-2-community-workshop-zur-open-government-plattform-deutschland/",
        "title": "2. Community Workshop zur Open Government Plattform Deutschland",
        "section": "blog",
        "date": "2013-01-14 00:00:00 +0000 UTC",
@@ -6368,7 +6368,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/einladung-zur-epsiplatform-konferenz-22-feb-2013-in-warschau/",
+       "url": "https://okfn.de/blog/2013/01/einladung-zur-epsiplatform-konferenz-22-feb-2013-in-warschau/",
        "title": "Einladung zur ePSIplatform Konferenz, 22. Feb. 2013",
        "section": "blog",
        "date": "2013-01-14 00:00:00 +0000 UTC",
@@ -6384,7 +6384,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/bundesgit-hackday-im-okfn-office/",
+       "url": "https://okfn.de/blog/2013/01/bundesgit-hackday-im-okfn-office/",
        "title": "BundesGit Hackday im OKFN Office",
        "section": "blog",
        "date": "2013-01-08 00:00:00 +0000 UTC",
@@ -6400,7 +6400,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/neues-von-frag-den-staat/",
+       "url": "https://okfn.de/blog/2013/01/neues-von-frag-den-staat/",
        "title": "Neues von Frag den Staat",
        "section": "blog",
        "date": "2013-01-07 00:00:00 +0000 UTC",
@@ -6416,7 +6416,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/raum-schiff-erde-2013/",
+       "url": "https://okfn.de/blog/2013/01/raum-schiff-erde-2013/",
        "title": "Raum Schiff Erde 2013",
        "section": "blog",
        "date": "2013-01-07 00:00:00 +0000 UTC",
@@ -6432,7 +6432,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/bundes-git-german-laws-on-github/",
+       "url": "https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/",
        "title": "Bundes-Git – German Laws on GitHub",
        "section": "blog",
        "date": "2013-01-04 00:00:00 +0000 UTC",
@@ -6448,7 +6448,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/ideenborse-offene-daten-in-leipzig/",
+       "url": "https://okfn.de/blog/2013/01/ideenborse-offene-daten-in-leipzig/",
        "title": "Ideenbörse “Offene Daten” in Leipzig",
        "section": "blog",
        "date": "2013-01-02 00:00:00 +0000 UTC",
@@ -6464,7 +6464,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2013/01/republica-2013-call-for-papers/",
+       "url": "https://okfn.de/blog/2013/01/republica-2013-call-for-papers/",
        "title": "re:publica 2013: Call for Papers",
        "section": "blog",
        "date": "2013-01-02 00:00:00 +0000 UTC",
@@ -6480,7 +6480,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/12/apps-and-the-city-ruckblick/",
+       "url": "https://okfn.de/blog/2012/12/apps-and-the-city-ruckblick/",
        "title": "Apps and the City Rückblick",
        "section": "blog",
        "date": "2012-12-21 00:00:00 +0000 UTC",
@@ -6496,7 +6496,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/12/start-deutsche-digitale-bibliothek/",
+       "url": "https://okfn.de/blog/2012/12/start-deutsche-digitale-bibliothek/",
        "title": "Start Deutsche Digitale Bibliothek",
        "section": "blog",
        "date": "2012-12-17 00:00:00 +0000 UTC",
@@ -6512,7 +6512,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/12/die-stadt-land-code-stipendiaten-stehen-fest/",
+       "url": "https://okfn.de/blog/2012/12/die-stadt-land-code-stipendiaten-stehen-fest/",
        "title": "Die Stadt Land \u003cCode\u003e Stipendiaten stehen fest!",
        "section": "blog",
        "date": "2012-12-14 00:00:00 +0000 UTC",
@@ -6528,7 +6528,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/12/spenden-fur-die-open-knowledge-foundation/",
+       "url": "https://okfn.de/blog/2012/12/spenden-fur-die-open-knowledge-foundation/",
        "title": "Spenden für die Open Knowledge Foundation",
        "section": "blog",
        "date": "2012-12-03 00:00:00 +0000 UTC",
@@ -6544,7 +6544,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/erfolgreicher-apps-and-the-city-hackday/",
+       "url": "https://okfn.de/blog/2012/11/erfolgreicher-apps-and-the-city-hackday/",
        "title": "Erfolgreicher Apps and the City-Hackday",
        "section": "blog",
        "date": "2012-11-30 00:00:00 +0000 UTC",
@@ -6560,7 +6560,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/7-reasons-against-open-data/",
+       "url": "https://okfn.de/blog/2012/11/7-reasons-against-open-data/",
        "title": "It´s a fad! 7 Reasons against Open Data",
        "section": "blog",
        "date": "2012-11-30 00:00:00 +0000 UTC",
@@ -6576,7 +6576,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/call-for-participation-digital-openness-index/",
+       "url": "https://okfn.de/blog/2012/11/call-for-participation-digital-openness-index/",
        "title": "Call for Participation: Digital Openness Index",
        "section": "blog",
        "date": "2012-11-26 00:00:00 +0000 UTC",
@@ -6592,7 +6592,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/einladung-zum-nahverkehrs-hackday-in-berlin/",
+       "url": "https://okfn.de/blog/2012/11/einladung-zum-nahverkehrs-hackday-in-berlin/",
        "title": "Einladung zum Nahverkehrs-Hackday in Berlin",
        "section": "blog",
        "date": "2012-11-26 00:00:00 +0000 UTC",
@@ -6608,7 +6608,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/enquete-beteiligung/",
+       "url": "https://okfn.de/blog/2012/11/enquete-beteiligung/",
        "title": "Enquete-Beteiligung",
        "section": "blog",
        "date": "2012-11-26 00:00:00 +0000 UTC",
@@ -6624,7 +6624,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/fotos-vom-stadt-land-code-camp/",
+       "url": "https://okfn.de/blog/2012/11/fotos-vom-stadt-land-code-camp/",
        "title": "Fotos vom Stadt Land Code-Camp",
        "section": "blog",
        "date": "2012-11-26 00:00:00 +0000 UTC",
@@ -6640,7 +6640,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/1st-international-open-data-dialogue/",
+       "url": "https://okfn.de/blog/2012/11/1st-international-open-data-dialogue/",
        "title": "1st International Open Data Dialogue",
        "section": "blog",
        "date": "2012-11-21 00:00:00 +0000 UTC",
@@ -6656,7 +6656,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/okf-hat-neues-buro/",
+       "url": "https://okfn.de/blog/2012/11/okf-hat-neues-buro/",
        "title": "Die OKF hat ein neues Büro!",
        "section": "blog",
        "date": "2012-11-21 00:00:00 +0000 UTC",
@@ -6672,7 +6672,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/open-data-day/",
+       "url": "https://okfn.de/blog/2012/11/open-data-day/",
        "title": "Open Data Day",
        "section": "blog",
        "date": "2012-11-21 00:00:00 +0000 UTC",
@@ -6688,7 +6688,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/11/gastbeitrag-gibt-es-ein-open-movement/",
+       "url": "https://okfn.de/blog/2012/11/gastbeitrag-gibt-es-ein-open-movement/",
        "title": "Gastbeitrag: Gibt es ein \"Open Movement\"?",
        "section": "blog",
        "date": "2012-11-11 00:00:00 +0000 UTC",
@@ -6704,7 +6704,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/10/freier-zugang-zu-staatlich-finanzierter-wissenschaft/",
+       "url": "https://okfn.de/blog/2012/10/freier-zugang-zu-staatlich-finanzierter-wissenschaft/",
        "title": "Freier Zugang zu staatlich finanzierter Wissenschaft",
        "section": "blog",
        "date": "2012-10-23 00:00:00 +0000 UTC",
@@ -6720,7 +6720,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/09/konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/",
+       "url": "https://okfn.de/blog/2012/09/konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/",
        "title": "Konferenz Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe",
        "section": "blog",
        "date": "2012-09-30 00:00:00 +0000 UTC",
@@ -6736,7 +6736,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/09/oercamp-freie-lehr-lernmittel/",
+       "url": "https://okfn.de/blog/2012/09/oercamp-freie-lehr-lernmittel/",
        "title": "OER(Camp) - freie Lehr-Lernmittel",
        "section": "blog",
        "date": "2012-09-19 00:00:00 +0000 UTC",
@@ -6752,7 +6752,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/09/open-data-nahverkehr-berlin-brandenburg-update-zum-status-quo-und-den-entwicklungen/",
+       "url": "https://okfn.de/blog/2012/09/open-data-nahverkehr-berlin-brandenburg-update-zum-status-quo-und-den-entwicklungen/",
        "title": "Open Data Nahverkehr Berlin/ Brandenburg: Update zum Status Quo und den Entwicklungen",
        "section": "blog",
        "date": "2012-09-06 00:00:00 +0000 UTC",
@@ -6768,7 +6768,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/08/open-data-anhorung-im-unterausschuss-neue-medien/",
+       "url": "https://okfn.de/blog/2012/08/open-data-anhorung-im-unterausschuss-neue-medien/",
        "title": "Open Data Anhörung im Unterausschuss Neue Medien",
        "section": "blog",
        "date": "2012-08-29 00:00:00 +0000 UTC",
@@ -6784,7 +6784,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/08/oercamp-14-16-september-2012-uni-bremen/",
+       "url": "https://okfn.de/blog/2012/08/oercamp-14-16-september-2012-uni-bremen/",
        "title": "#OERcamp - 14.–16. September 2012, Uni Bremen",
        "section": "blog",
        "date": "2012-08-25 00:00:00 +0000 UTC",
@@ -6800,7 +6800,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/08/ifg-portal-fragdenstaat-de-startet-in-berlin-und-brandenburg/",
+       "url": "https://okfn.de/blog/2012/08/ifg-portal-fragdenstaat-de-startet-in-berlin-und-brandenburg/",
        "title": "IFG-Portal “FragDenStaat.de” startet in Berlin und Brandenburg",
        "section": "blog",
        "date": "2012-08-22 00:00:00 +0000 UTC",
@@ -6816,7 +6816,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/08/zugang-gestalten/",
+       "url": "https://okfn.de/blog/2012/08/zugang-gestalten/",
        "title": "Zugang gestalten!",
        "section": "blog",
        "date": "2012-08-20 00:00:00 +0000 UTC",
@@ -6832,7 +6832,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/07/bericht-opendata-ch-2012-konferenz/",
+       "url": "https://okfn.de/blog/2012/07/bericht-opendata-ch-2012-konferenz/",
        "title": "Bericht von der OpenData.CH 2012 Konferenz",
        "section": "blog",
        "date": "2012-07-21 00:00:00 +0000 UTC",
@@ -6848,7 +6848,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/07/open-commons-kongress-am-28-august-in-linz/",
+       "url": "https://okfn.de/blog/2012/07/open-commons-kongress-am-28-august-in-linz/",
        "title": "Open Commons Kongress am 28. August in Linz",
        "section": "blog",
        "date": "2012-07-15 00:00:00 +0000 UTC",
@@ -6864,7 +6864,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/07/erstes-treffen-des-arbeitskreises-open-data-nahverkehr-in-berlin/",
+       "url": "https://okfn.de/blog/2012/07/erstes-treffen-des-arbeitskreises-open-data-nahverkehr-in-berlin/",
        "title": "Erstes Treffen des Arbeitskreises \"Open Data Nahverkehr\" in Berlin",
        "section": "blog",
        "date": "2012-07-05 00:00:00 +0000 UTC",
@@ -6880,7 +6880,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/06/tranzparenz-in-deutschland-die-chronik-des-geschlossenen-haushalts/",
+       "url": "https://okfn.de/blog/2012/06/tranzparenz-in-deutschland-die-chronik-des-geschlossenen-haushalts/",
        "title": "Transparenz in Deutschland - die Chronik des geschlossenen Haushalts",
        "section": "blog",
        "date": "2012-06-15 00:00:00 +0000 UTC",
@@ -6896,7 +6896,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/06/transparenzgesetz-hamburg-wird-vorreiter/",
+       "url": "https://okfn.de/blog/2012/06/transparenzgesetz-hamburg-wird-vorreiter/",
        "title": "Transparenzgesetz – Hamburg wird Vorreiter!",
        "section": "blog",
        "date": "2012-06-15 00:00:00 +0000 UTC",
@@ -6912,7 +6912,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/06/eckpunktepapier-offenes-regierungs-und-verwaltungshandeln/",
+       "url": "https://okfn.de/blog/2012/06/eckpunktepapier-offenes-regierungs-und-verwaltungshandeln/",
        "title": "Eckpunktepapier für Offenes Regierungs- und Verwaltungshandeln",
        "section": "blog",
        "date": "2012-06-05 00:00:00 +0000 UTC",
@@ -6928,7 +6928,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/05/jetzt-noch-anmelden-zum-berliner-open-data-day-2012/",
+       "url": "https://okfn.de/blog/2012/05/jetzt-noch-anmelden-zum-berliner-open-data-day-2012/",
        "title": "Jetzt anmelden zum Berliner Open Data Day 2012",
        "section": "blog",
        "date": "2012-05-31 00:00:00 +0000 UTC",
@@ -6944,7 +6944,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/05/okf-in-berlin-meetup-diesen-samstag/",
+       "url": "https://okfn.de/blog/2012/05/okf-in-berlin-meetup-diesen-samstag/",
        "title": "OKF in Berlin: Meetup diesen Samstag!",
        "section": "blog",
        "date": "2012-05-30 00:00:00 +0000 UTC",
@@ -6960,7 +6960,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/05/open-aid-projekt-ist-jetzt-teil-der-open-knowledge-foundation/",
+       "url": "https://okfn.de/blog/2012/05/open-aid-projekt-ist-jetzt-teil-der-open-knowledge-foundation/",
        "title": "Open Aid Projekt ist jetzt teil der Open Knowledge Foundation",
        "section": "blog",
        "date": "2012-05-18 00:00:00 +0000 UTC",
@@ -6976,7 +6976,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/05/wikipedia-academy-2012-research-and-free-knowledge/",
+       "url": "https://okfn.de/blog/2012/05/wikipedia-academy-2012-research-and-free-knowledge/",
        "title": "Wikipedia Academy 2012: Research and Free Knowledge",
        "section": "blog",
        "date": "2012-05-14 00:00:00 +0000 UTC",
@@ -6992,7 +6992,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/05/hack4europe-am-5-und-6-juni-2012-in-der-staatsbibliothek-zu-berlin/",
+       "url": "https://okfn.de/blog/2012/05/hack4europe-am-5-und-6-juni-2012-in-der-staatsbibliothek-zu-berlin/",
        "title": "Hack4Europe! am 5. und 6. Juni 2012 in der Staatsbibliothek zu Berlin",
        "section": "blog",
        "date": "2012-05-11 00:00:00 +0000 UTC",
@@ -7008,7 +7008,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/05/offenesparlament/",
+       "url": "https://okfn.de/blog/2012/05/offenesparlament/",
        "title": "OffenesParlament - was passiert im Bundestag?",
        "section": "blog",
        "date": "2012-05-11 00:00:00 +0000 UTC",
@@ -7024,7 +7024,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/05/communia-projekt-veroeffentlicht-abschlussbericht-und-buch/",
+       "url": "https://okfn.de/blog/2012/05/communia-projekt-veroeffentlicht-abschlussbericht-und-buch/",
        "title": "COMMUNIA Projekt veröffentlicht Abschlussbericht und Buch",
        "section": "blog",
        "date": "2012-05-10 00:00:00 +0000 UTC",
@@ -7040,7 +7040,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/05/veroffentlichungshinweis-open-initiatives-offenheit-in-der-digitalen-welt-und-wissenschaft/",
+       "url": "https://okfn.de/blog/2012/05/veroffentlichungshinweis-open-initiatives-offenheit-in-der-digitalen-welt-und-wissenschaft/",
        "title": "Veröffentlichungshinweis: Open Initiatives - Offenheit in der digitalen Welt und Wissenschaft",
        "section": "blog",
        "date": "2012-05-03 00:00:00 +0000 UTC",
@@ -7056,7 +7056,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/04/hack4europe-2012-berlin/",
+       "url": "https://okfn.de/blog/2012/04/hack4europe-2012-berlin/",
        "title": "Hack4Europe! 2012 Berlin",
        "section": "blog",
        "date": "2012-04-26 00:00:00 +0000 UTC",
@@ -7072,7 +7072,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/04/lets-meet-up-again/",
+       "url": "https://okfn.de/blog/2012/04/lets-meet-up-again/",
        "title": "Let's Meet Up again!",
        "section": "blog",
        "date": "2012-04-26 00:00:00 +0000 UTC",
@@ -7088,7 +7088,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/04/mehr-transparenz-kooperation-kfw-bankengruppe/",
+       "url": "https://okfn.de/blog/2012/04/mehr-transparenz-kooperation-kfw-bankengruppe/",
        "title": "Mehr Transparenz: Kooperation KfW-Bankengruppe",
        "section": "blog",
        "date": "2012-04-24 00:00:00 +0000 UTC",
@@ -7104,7 +7104,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/04/open-glam-workshop-in-berlin/",
+       "url": "https://okfn.de/blog/2012/04/open-glam-workshop-in-berlin/",
        "title": "Open GLAM Workshop in Berlin",
        "section": "blog",
        "date": "2012-04-04 00:00:00 +0000 UTC",
@@ -7120,7 +7120,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/04/wikidata-freie-daten-fur-freie-nutzung/",
+       "url": "https://okfn.de/blog/2012/04/wikidata-freie-daten-fur-freie-nutzung/",
        "title": "Wikidata - freie Daten für freie Nutzung",
        "section": "blog",
        "date": "2012-04-02 00:00:00 +0000 UTC",
@@ -7136,7 +7136,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/03/anhorung-zu-strukturwandel-politischer-kommunikation/",
+       "url": "https://okfn.de/blog/2012/03/anhorung-zu-strukturwandel-politischer-kommunikation/",
        "title": "Anhörung zu Strukturwandel politischer Kommunikation",
        "section": "blog",
        "date": "2012-03-23 00:00:00 +0000 UTC",
@@ -7152,7 +7152,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/03/open-data-city-camp-in-ulm/",
+       "url": "https://okfn.de/blog/2012/03/open-data-city-camp-in-ulm/",
        "title": "Open Data City Camp in Ulm",
        "section": "blog",
        "date": "2012-03-15 00:00:00 +0000 UTC",
@@ -7168,7 +7168,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/03/open-berlin-meetup/",
+       "url": "https://okfn.de/blog/2012/03/open-berlin-meetup/",
        "title": "Open Berlin Meetup",
        "section": "blog",
        "date": "2012-03-07 00:00:00 +0000 UTC",
@@ -7184,7 +7184,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/02/studie-zur-berliner-open-data-strategie-veroeffentlicht/",
+       "url": "https://okfn.de/blog/2012/02/studie-zur-berliner-open-data-strategie-veroeffentlicht/",
        "title": "Studie zur Berliner Open Data Strategie veröffentlicht",
        "section": "blog",
        "date": "2012-02-17 00:00:00 +0000 UTC",
@@ -7200,7 +7200,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/02/bpb-online-dossier-zu-open-data/",
+       "url": "https://okfn.de/blog/2012/02/bpb-online-dossier-zu-open-data/",
        "title": "BpB: Online-Dossier zu Open Data",
        "section": "blog",
        "date": "2012-02-16 00:00:00 +0000 UTC",
@@ -7216,7 +7216,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/02/eine-standardlizenz-fur-open-data-in-der-eu/",
+       "url": "https://okfn.de/blog/2012/02/eine-standardlizenz-fur-open-data-in-der-eu/",
        "title": "Eine Standardlizenz für Open Data in der EU?",
        "section": "blog",
        "date": "2012-02-15 00:00:00 +0000 UTC",
@@ -7232,7 +7232,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/02/open-data-im-computerspielmuseum/",
+       "url": "https://okfn.de/blog/2012/02/open-data-im-computerspielmuseum/",
        "title": "Open Data im Computerspielemuseum",
        "section": "blog",
        "date": "2012-02-13 00:00:00 +0000 UTC",
@@ -7248,7 +7248,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/02/open-knowledge-meetup-berlin/",
+       "url": "https://okfn.de/blog/2012/02/open-knowledge-meetup-berlin/",
        "title": "Open Knowledge Meetup Berlin",
        "section": "blog",
        "date": "2012-02-07 00:00:00 +0000 UTC",
@@ -7264,7 +7264,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/02/pressemitteilung-apps-fuer-deutschland-sehr-gute-beteiligung-am-ersten-nationalen-programmierwettbewerb/",
+       "url": "https://okfn.de/blog/2012/02/pressemitteilung-apps-fuer-deutschland-sehr-gute-beteiligung-am-ersten-nationalen-programmierwettbewerb/",
        "title": "Pressemitteilung: Apps für Deutschland – Sehr gute Beteiligung am ersten nationalen Programmierwettbewerb",
        "section": "blog",
        "date": "2012-02-03 00:00:00 +0000 UTC",
@@ -7280,7 +7280,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/01/erstes-open-berlin-treffen/",
+       "url": "https://okfn.de/blog/2012/01/erstes-open-berlin-treffen/",
        "title": "Erstes Open Berlin Treffen",
        "section": "blog",
        "date": "2012-01-16 00:00:00 +0000 UTC",
@@ -7296,7 +7296,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/01/informationsfreiheit-in-rheinland-pfalz/",
+       "url": "https://okfn.de/blog/2012/01/informationsfreiheit-in-rheinland-pfalz/",
        "title": "Informationsfreiheit in Rheinland-Pfalz",
        "section": "blog",
        "date": "2012-01-12 00:00:00 +0000 UTC",
@@ -7312,7 +7312,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/01/medienforum-berlin/",
+       "url": "https://okfn.de/blog/2012/01/medienforum-berlin/",
        "title": "Medienforum.Berlin",
        "section": "blog",
        "date": "2012-01-05 00:00:00 +0000 UTC",
@@ -7328,7 +7328,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/01/regelmasige-treffen-fur-open-knowledge-interessierte-in-berlin/",
+       "url": "https://okfn.de/blog/2012/01/regelmasige-treffen-fur-open-knowledge-interessierte-in-berlin/",
        "title": "Regelmäßige Treffen für Open Knowledge Interessierte in Berlin",
        "section": "blog",
        "date": "2012-01-05 00:00:00 +0000 UTC",
@@ -7344,7 +7344,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2012/01/lapsi-zweite-offentliche-konferenz/",
+       "url": "https://okfn.de/blog/2012/01/lapsi-zweite-offentliche-konferenz/",
        "title": "LAPSI zweite öffentliche Konferenz",
        "section": "blog",
        "date": "2012-01-04 00:00:00 +0000 UTC",
@@ -7360,7 +7360,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/12/frag-den-staat-beim-28c3/",
+       "url": "https://okfn.de/blog/2011/12/frag-den-staat-beim-28c3/",
        "title": "Frag den Staat beim 28C3",
        "section": "blog",
        "date": "2011-12-30 00:00:00 +0000 UTC",
@@ -7376,7 +7376,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/12/strategische-anregungen-zur-oeffnung-von-haushaltswesen-und-haushaltsdaten/",
+       "url": "https://okfn.de/blog/2011/12/strategische-anregungen-zur-oeffnung-von-haushaltswesen-und-haushaltsdaten/",
        "title": "Strategische Anregungen zur Öffnung von Haushaltswesen und Haushaltsdaten",
        "section": "blog",
        "date": "2011-12-19 00:00:00 +0000 UTC",
@@ -7392,7 +7392,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/12/ogd-camp-reloaded/",
+       "url": "https://okfn.de/blog/2011/12/ogd-camp-reloaded/",
        "title": "OGD Camp reloaded",
        "section": "blog",
        "date": "2011-12-15 00:00:00 +0000 UTC",
@@ -7408,7 +7408,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/12/die-open-data-strategie-der-europaeischen-kommission/",
+       "url": "https://okfn.de/blog/2011/12/die-open-data-strategie-der-europaeischen-kommission/",
        "title": "Die Open Data Strategie der Europäischen Kommission",
        "section": "blog",
        "date": "2011-12-12 00:00:00 +0000 UTC",
@@ -7424,7 +7424,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/12/open-praktikum-bei-der-open-knowledge-foundation/",
+       "url": "https://okfn.de/blog/2011/12/open-praktikum-bei-der-open-knowledge-foundation/",
        "title": "Praktikum bei der Open Knowledge Foundation",
        "section": "blog",
        "date": "2011-12-09 00:00:00 +0000 UTC",
@@ -7440,7 +7440,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/12/topic-report-8-re-use-of-parliamentary-data/",
+       "url": "https://okfn.de/blog/2011/12/topic-report-8-re-use-of-parliamentary-data/",
        "title": "Topic Report 8: Re-use of Parliamentary Data",
        "section": "blog",
        "date": "2011-12-09 00:00:00 +0000 UTC",
@@ -7456,7 +7456,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/12/sie-wollen-ihre-daten-offnen-wir-sagen-wie/",
+       "url": "https://okfn.de/blog/2011/12/sie-wollen-ihre-daten-offnen-wir-sagen-wie/",
        "title": "Sie wollen Ihre Daten öffnen? Wir sagen wie!",
        "section": "blog",
        "date": "2011-12-02 00:00:00 +0000 UTC",
@@ -7472,7 +7472,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/pressemitteilung-urheberrecht-fuer-das-21-jahrhundert-schaffen/",
+       "url": "https://okfn.de/blog/2011/11/pressemitteilung-urheberrecht-fuer-das-21-jahrhundert-schaffen/",
        "title": "Pressemitteilung: Urheberrecht für das 21. Jahrhundert schaffen!",
        "section": "blog",
        "date": "2011-11-24 00:00:00 +0000 UTC",
@@ -7488,7 +7488,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/wir-wollen-wissen-welche-daten-ihr-braucht/",
+       "url": "https://okfn.de/blog/2011/11/wir-wollen-wissen-welche-daten-ihr-braucht/",
        "title": "Wir wollen wissen, welche Daten ihr braucht!",
        "section": "blog",
        "date": "2011-11-24 00:00:00 +0000 UTC",
@@ -7504,7 +7504,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/offene-geodaten-berlin-wir-fangen-dann-schon-mal-an/",
+       "url": "https://okfn.de/blog/2011/11/offene-geodaten-berlin-wir-fangen-dann-schon-mal-an/",
        "title": "Offene Geodaten Berlin: Wir fangen dann schon mal an…",
        "section": "blog",
        "date": "2011-11-21 00:00:00 +0000 UTC",
@@ -7520,7 +7520,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/zitate-zum-apps4de-wettbewerb/",
+       "url": "https://okfn.de/blog/2011/11/zitate-zum-apps4de-wettbewerb/",
        "title": "Ein paar schöne Zitate zum Apps4DE Wettbewerb",
        "section": "blog",
        "date": "2011-11-19 00:00:00 +0000 UTC",
@@ -7536,7 +7536,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/knowledege-base-update-was-bedeutet-eigentlich-offen/",
+       "url": "https://okfn.de/blog/2011/11/knowledege-base-update-was-bedeutet-eigentlich-offen/",
        "title": "Knowledege Base Update: Was bedeutet eigentlich \"offen\"?",
        "section": "blog",
        "date": "2011-11-18 00:00:00 +0000 UTC",
@@ -7552,7 +7552,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/ndr-medienmagazin-zapp-uber-datenjournalismus/",
+       "url": "https://okfn.de/blog/2011/11/ndr-medienmagazin-zapp-uber-datenjournalismus/",
        "title": "NDR Medienmagazin ZAPP über Datenjournalismus",
        "section": "blog",
        "date": "2011-11-18 00:00:00 +0000 UTC",
@@ -7568,7 +7568,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/apps4de-opendata-hackday-in-bremen/",
+       "url": "https://okfn.de/blog/2011/11/apps4de-opendata-hackday-in-bremen/",
        "title": "#Apps4De Opendata Hackday in Bremen",
        "section": "blog",
        "date": "2011-11-17 00:00:00 +0000 UTC",
@@ -7584,7 +7584,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/interview-mit-adrian-pohl-bibliotheken-sollten-ihre-daten-oeffnen/",
+       "url": "https://okfn.de/blog/2011/11/interview-mit-adrian-pohl-bibliotheken-sollten-ihre-daten-oeffnen/",
        "title": "Interview mit Adrian Pohl: Bibliotheken sollten ihre Daten öffnen",
        "section": "blog",
        "date": "2011-11-11 00:00:00 +0000 UTC",
@@ -7600,7 +7600,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/open-knowledge-base-oder-warum-eigentlich-open-data/",
+       "url": "https://okfn.de/blog/2011/11/open-knowledge-base-oder-warum-eigentlich-open-data/",
        "title": "Open Knowledge - base oder 'Warum eigentlich Open Data'",
        "section": "blog",
        "date": "2011-11-11 00:00:00 +0000 UTC",
@@ -7616,7 +7616,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/start-des-apps-fuer-deutschland-wettbewerbs/",
+       "url": "https://okfn.de/blog/2011/11/start-des-apps-fuer-deutschland-wettbewerbs/",
        "title": "Start des \"Apps für Deutschland\" -Wettbewerbs",
        "section": "blog",
        "date": "2011-11-09 00:00:00 +0000 UTC",
@@ -7632,7 +7632,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/rechtlicher-leitfaden-zur-freigabe-von-katalogdaten-veroffentlicht/",
+       "url": "https://okfn.de/blog/2011/11/rechtlicher-leitfaden-zur-freigabe-von-katalogdaten-veroffentlicht/",
        "title": "Rechtlicher Leitfaden zur Freigabe von Katalogdaten veröffentlicht",
        "section": "blog",
        "date": "2011-11-04 00:00:00 +0000 UTC",
@@ -7648,7 +7648,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/ins-netz-gegangen-neue-wege-zum-kulturellen-erbe/",
+       "url": "https://okfn.de/blog/2011/11/ins-netz-gegangen-neue-wege-zum-kulturellen-erbe/",
        "title": "Ins Netz gegangen – Neue Wege zum kulturellen Erbe",
        "section": "blog",
        "date": "2011-11-03 00:00:00 +0000 UTC",
@@ -7664,7 +7664,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/11/p2pu-meetup-berlin/",
+       "url": "https://okfn.de/blog/2011/11/p2pu-meetup-berlin/",
        "title": "P2PU Meetup Berlin",
        "section": "blog",
        "date": "2011-11-03 00:00:00 +0000 UTC",
@@ -7680,7 +7680,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/10/open-aid-data-in-berlin/",
+       "url": "https://okfn.de/blog/2011/10/open-aid-data-in-berlin/",
        "title": "Open Aid Data in Berlin",
        "section": "blog",
        "date": "2011-10-25 00:00:00 +0000 UTC",
@@ -7696,7 +7696,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/10/ruckblick-open-aid-data-hackday/",
+       "url": "https://okfn.de/blog/2011/10/ruckblick-open-aid-data-hackday/",
        "title": "Rückblick Open Aid Data Hackday",
        "section": "blog",
        "date": "2011-10-17 00:00:00 +0000 UTC",
@@ -7712,7 +7712,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/09/open-government-data-camp/",
+       "url": "https://okfn.de/blog/2011/09/open-government-data-camp/",
        "title": "Open Government Data Camp",
        "section": "blog",
        "date": "2011-09-29 00:00:00 +0000 UTC",
@@ -7728,7 +7728,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/09/open-data-truffelschweine/",
+       "url": "https://okfn.de/blog/2011/09/open-data-truffelschweine/",
        "title": "\"Open Data Trüffelschweine\"",
        "section": "blog",
        "date": "2011-09-26 00:00:00 +0000 UTC",
@@ -7744,7 +7744,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/09/daten-berlin-de-berlin-macht-sich-auf-zur-open-data-hauptstadt/",
+       "url": "https://okfn.de/blog/2011/09/daten-berlin-de-berlin-macht-sich-auf-zur-open-data-hauptstadt/",
        "title": "daten.berlin.de: Berlin macht sich auf zur Open Data-Hauptstadt",
        "section": "blog",
        "date": "2011-09-15 00:00:00 +0000 UTC",
@@ -7760,7 +7760,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/09/odc-by-de-publishe/",
+       "url": "https://okfn.de/blog/2011/09/odc-by-de-publishe/",
        "title": "Deutsche Übersetzung der 'Open Data Commons Attributions Lizenz (ODC-By)' veröffentlicht",
        "section": "blog",
        "date": "2011-09-12 00:00:00 +0000 UTC",
@@ -7776,7 +7776,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/09/wissenschaft-revolutionieren-die-neue-aera-der-vernetzten-wissenschaft/",
+       "url": "https://okfn.de/blog/2011/09/wissenschaft-revolutionieren-die-neue-aera-der-vernetzten-wissenschaft/",
        "title": "Wissenschaft revolutionieren: die neue Ära der vernetzten Wissenschaft",
        "section": "blog",
        "date": "2011-09-03 00:00:00 +0000 UTC",
@@ -7792,7 +7792,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/08/netz-fur-alle/",
+       "url": "https://okfn.de/blog/2011/08/netz-fur-alle/",
        "title": "Konferenz Netz für Alle",
        "section": "blog",
        "date": "2011-08-30 00:00:00 +0000 UTC",
@@ -7808,7 +7808,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/08/anmeldung-open-access-tage/",
+       "url": "https://okfn.de/blog/2011/08/anmeldung-open-access-tage/",
        "title": "Anmeldung Open-Access-Tage",
        "section": "blog",
        "date": "2011-08-27 00:00:00 +0000 UTC",
@@ -7824,7 +7824,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/08/registration-for-open-government-data-camp-2011-is-now-open/",
+       "url": "https://okfn.de/blog/2011/08/registration-for-open-government-data-camp-2011-is-now-open/",
        "title": "Registration for Open Government Data Camp 2011 is now open!",
        "section": "blog",
        "date": "2011-08-27 00:00:00 +0000 UTC",
@@ -7840,7 +7840,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/08/open-data-hackday-fur-eine-transparente-entwicklungshilfe/",
+       "url": "https://okfn.de/blog/2011/08/open-data-hackday-fur-eine-transparente-entwicklungshilfe/",
        "title": "Open Data Hackday für eine transparente Entwicklungshilfe",
        "section": "blog",
        "date": "2011-08-25 00:00:00 +0000 UTC",
@@ -7856,7 +7856,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/08/freies-wissen-fur-berlin/",
+       "url": "https://okfn.de/blog/2011/08/freies-wissen-fur-berlin/",
        "title": "Freies Wissen für Berlin",
        "section": "blog",
        "date": "2011-08-16 00:00:00 +0000 UTC",
@@ -7872,7 +7872,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/08/fragdenstaat-neues-internetportal-erleichtert-zugang-zu-informationen/",
+       "url": "https://okfn.de/blog/2011/08/fragdenstaat-neues-internetportal-erleichtert-zugang-zu-informationen/",
        "title": "„Frag den Staat“ erleichtert Zugang zu Informationen aus Ministerien und Behörden",
        "section": "blog",
        "date": "2011-08-01 00:00:00 +0000 UTC",
@@ -7888,7 +7888,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/07/welcome-to-our-wikimedian-in-residence-on-open-science/",
+       "url": "https://okfn.de/blog/2011/07/welcome-to-our-wikimedian-in-residence-on-open-science/",
        "title": "Welcome to our Wikimedian in Residence on Open Science",
        "section": "blog",
        "date": "2011-07-22 00:00:00 +0000 UTC",
@@ -7904,7 +7904,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/07/versuch-es-mit-worten-gebt-die-unternehmensdaten-frei/",
+       "url": "https://okfn.de/blog/2011/07/versuch-es-mit-worten-gebt-die-unternehmensdaten-frei/",
        "title": "Versuch es mit Worten: Gebt die Unternehmensdaten frei!",
        "section": "blog",
        "date": "2011-07-20 00:00:00 +0000 UTC",
@@ -7920,7 +7920,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/07/wikimedia-wahlprufsteine-fur-berlin/",
+       "url": "https://okfn.de/blog/2011/07/wikimedia-wahlprufsteine-fur-berlin/",
        "title": "Wikimedia: Wahlprüfsteine für Berlin",
        "section": "blog",
        "date": "2011-07-18 00:00:00 +0000 UTC",
@@ -7936,7 +7936,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/07/apps-fuer-deutschland/",
+       "url": "https://okfn.de/blog/2011/07/apps-fuer-deutschland/",
        "title": "Apps für Deutschland",
        "section": "blog",
        "date": "2011-07-15 00:00:00 +0000 UTC",
@@ -7952,7 +7952,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/07/open-aid-data-konferenz/",
+       "url": "https://okfn.de/blog/2011/07/open-aid-data-konferenz/",
        "title": "Open Aid Data Konferenz",
        "section": "blog",
        "date": "2011-07-15 00:00:00 +0000 UTC",
@@ -7968,7 +7968,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/07/okcon-rueckblick/",
+       "url": "https://okfn.de/blog/2011/07/okcon-rueckblick/",
        "title": "OKCon Rückblick",
        "section": "blog",
        "date": "2011-07-14 00:00:00 +0000 UTC",
@@ -7984,7 +7984,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/06/okcon-2011-mehr-offenheit-wagen/",
+       "url": "https://okfn.de/blog/2011/06/okcon-2011-mehr-offenheit-wagen/",
        "title": "OKCon 2011 – Mehr Offenheit wagen!",
        "section": "blog",
        "date": "2011-06-18 00:00:00 +0000 UTC",
@@ -8000,7 +8000,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/06/offenerhaushalt-geht-in-die-zweite-runde/",
+       "url": "https://okfn.de/blog/2011/06/offenerhaushalt-geht-in-die-zweite-runde/",
        "title": "OffenerHaushalt geht in die zweite Runde!",
        "section": "blog",
        "date": "2011-06-07 00:00:00 +0000 UTC",
@@ -8016,7 +8016,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/04/geobusiness-lizenz-open-data-und-die-sieben-zwerge/",
+       "url": "https://okfn.de/blog/2011/04/geobusiness-lizenz-open-data-und-die-sieben-zwerge/",
        "title": "GeoBusiness Lizenz: Open Data und die sieben Zwerge",
        "section": "blog",
        "date": "2011-04-23 00:00:00 +0000 UTC",
@@ -8032,7 +8032,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/04/okf-de-update-januar-april-2011/",
+       "url": "https://okfn.de/blog/2011/04/okf-de-update-januar-april-2011/",
        "title": "OKF DE Update Januar, Februar, März, April  2011",
        "section": "blog",
        "date": "2011-04-22 00:00:00 +0000 UTC",
@@ -8048,7 +8048,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2011/02/okfn-de-als-gemeinnuetzige-organisation-gegruendet/",
+       "url": "https://okfn.de/blog/2011/02/okfn-de-als-gemeinnuetzige-organisation-gegruendet/",
        "title": "OKFN DE als gemeinnützige Organisation gegründet",
        "section": "blog",
        "date": "2011-02-27 00:00:00 +0000 UTC",
@@ -8064,7 +8064,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2010/08/open-government-data-camp-2010/",
+       "url": "https://okfn.de/blog/2010/08/open-government-data-camp-2010/",
        "title": "Open Government Data Camp 2010",
        "section": "blog",
        "date": "2010-08-28 00:00:00 +0000 UTC",
@@ -8080,7 +8080,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2010/05/okfn-deutschland-gegruendet/",
+       "url": "https://okfn.de/blog/2010/05/okfn-deutschland-gegruendet/",
        "title": "OKF Deutschland gegründet",
        "section": "blog",
        "date": "2010-05-08 00:00:00 +0000 UTC",
@@ -8096,7 +8096,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2010/05/gruendung-okfn-deutschland/",
+       "url": "https://okfn.de/blog/2010/05/gruendung-okfn-deutschland/",
        "title": "Gründung des deutschen Zweiges der Open Knowledge Foundation (OKFN)",
        "section": "blog",
        "date": "2010-05-01 00:00:00 +0000 UTC",
@@ -8112,7 +8112,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2010/02/einladung-zum-lswt10/",
+       "url": "https://okfn.de/blog/2010/02/einladung-zum-lswt10/",
        "title": "Einladung zum LSWT10",
        "section": "blog",
        "date": "2010-02-07 00:00:00 +0000 UTC",
@@ -8128,7 +8128,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/2010/02/gruendung-der-okf-deutschland/",
+       "url": "https://okfn.de/blog/2010/02/gruendung-der-okf-deutschland/",
        "title": "Gründung der OKF Deutschland",
        "section": "blog",
        "date": "2010-02-07 00:00:00 +0000 UTC",
@@ -8144,7 +8144,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/zuganggestalten/",
+       "url": "https://okfn.de/projekte/zuganggestalten/",
        "title": "Zugang gestalten",
        "section": "projekte",
        "date": "1970-01-01 00:33:34 +0000 UTC",
@@ -8170,7 +8170,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/2030-watch/",
+       "url": "https://okfn.de/projekte/2030-watch/",
        "title": "2030watch",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8202,7 +8202,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/appsandthecity/",
+       "url": "https://okfn.de/projekte/appsandthecity/",
        "title": "Apps and the city",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8220,7 +8220,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/appsforeurope/",
+       "url": "https://okfn.de/projekte/appsforeurope/",
        "title": "Apps for Europe",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8244,7 +8244,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/big/",
+       "url": "https://okfn.de/projekte/big/",
        "title": "BIG",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8282,7 +8282,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/",
+       "url": "https://okfn.de/blog/",
        "title": "Blog",
        "section": "blog",
        "date": "2019-02-06 00:00:00 +0000 UTC",
@@ -8310,7 +8310,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/bundesgit/",
+       "url": "https://okfn.de/projekte/bundesgit/",
        "title": "Bundesgit",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8338,7 +8338,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/categories/",
+       "url": "https://okfn.de/categories/",
        "title": "Categories",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8362,7 +8362,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/categories/civic-tech/",
+       "url": "https://okfn.de/categories/civic-tech/",
        "title": "Civic Tech",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8396,7 +8396,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/codingdavinci/",
+       "url": "https://okfn.de/projekte/codingdavinci/",
        "title": "Coding da Vinci",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8420,7 +8420,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/categories/community/",
+       "url": "https://okfn.de/categories/community/",
        "title": "Community",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8444,7 +8444,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/eiti/",
+       "url": "https://okfn.de/projekte/eiti/",
        "title": "D-EITI",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8462,7 +8462,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/dariah/",
+       "url": "https://okfn.de/projekte/dariah/",
        "title": "DARIAH-DE",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8488,7 +8488,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/datenmachenschule/",
+       "url": "https://okfn.de/projekte/datenmachenschule/",
        "title": "Daten machen Schule",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8512,7 +8512,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/datenschule/",
+       "url": "https://okfn.de/projekte/datenschule/",
        "title": "Datenschule",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8554,7 +8554,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/digiwhist/",
+       "url": "https://okfn.de/projekte/digiwhist/",
        "title": "Digiwhist",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8574,7 +8574,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/categories/education/",
+       "url": "https://okfn.de/categories/education/",
        "title": "Education",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8602,7 +8602,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/energyhack/",
+       "url": "https://okfn.de/projekte/energyhack/",
        "title": "Energyhack",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8630,7 +8630,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/europeanacloud/",
+       "url": "https://okfn.de/projekte/europeanacloud/",
        "title": "Europeana Cloud",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8654,7 +8654,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/familienlabore/",
+       "url": "https://okfn.de/projekte/familienlabore/",
        "title": "Familienlabore",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8672,7 +8672,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/farmsubsidy/",
+       "url": "https://okfn.de/projekte/farmsubsidy/",
        "title": "FarmSubsidy",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8696,7 +8696,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/finanzierung/",
+       "url": "https://okfn.de/finanzierung/",
        "title": "Finanzierung",
        "section": "finanzierung",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8718,7 +8718,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/frankfurtgestalten/",
+       "url": "https://okfn.de/projekte/frankfurtgestalten/",
        "title": "Frankfurt gestalten",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8796,7 +8796,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/categories/informationsfreiheit/",
+       "url": "https://okfn.de/categories/informationsfreiheit/",
        "title": "Informationsfreiheit",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8828,7 +8828,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/jobs/",
+       "url": "https://okfn.de/jobs/",
        "title": "Jobs",
        "section": "jobs",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8924,7 +8924,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/odine/",
+       "url": "https://okfn.de/projekte/odine/",
        "title": "ODINE",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8942,7 +8942,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/blog/1/01/odine-open-data-incubator-for-europe-erfolgreich-abgeschlossen/",
+       "url": "https://okfn.de/blog/1/01/odine-open-data-incubator-for-europe-erfolgreich-abgeschlossen/",
        "title": "ODINE - Open Data Incubator for Europe erfolgreich abgeschlossen!",
        "section": "blog",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8958,7 +8958,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/oparl/",
+       "url": "https://okfn.de/projekte/oparl/",
        "title": "OParl",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -8986,7 +8986,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/offenedaten/",
+       "url": "https://okfn.de/projekte/offenedaten/",
        "title": "Offene Daten",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9012,7 +9012,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/offenegesetze/",
+       "url": "https://okfn.de/projekte/offenegesetze/",
        "title": "OffeneGesetze",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9034,7 +9034,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/offenerhaushalt/",
+       "url": "https://okfn.de/projekte/offenerhaushalt/",
        "title": "Offener Haushalt",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9088,7 +9088,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/openbudgets/",
+       "url": "https://okfn.de/projekte/openbudgets/",
        "title": "Open Budgets",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9112,7 +9112,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/categories/open-data/",
+       "url": "https://okfn.de/categories/open-data/",
        "title": "Open Data",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9156,7 +9156,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/categories/open-government/",
+       "url": "https://okfn.de/categories/open-government/",
        "title": "Open Government",
        "section": "categories",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9194,7 +9194,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/openschufa/",
+       "url": "https://okfn.de/projekte/openschufa/",
        "title": "OpenSchufa",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9250,7 +9250,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/politikbeiuns/",
+       "url": "https://okfn.de/projekte/politikbeiuns/",
        "title": "Politik Bei Uns",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9278,7 +9278,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/profil/",
+       "url": "https://okfn.de/profil/",
        "title": "Profil",
        "section": "profil",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9294,7 +9294,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/",
+       "url": "https://okfn.de/projekte/",
        "title": "Projekte",
        "section": "projekte",
        "date": "1970-01-01 00:33:34 +0000 UTC",
@@ -9326,7 +9326,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/refugeephrasebook/",
+       "url": "https://okfn.de/projekte/refugeephrasebook/",
        "title": "Refugeephrasebook",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9380,7 +9380,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/stadtlandcode/",
+       "url": "https://okfn.de/projekte/stadtlandcode/",
        "title": "Stadt Land Code",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9414,7 +9414,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/team/",
+       "url": "https://okfn.de/team/",
        "title": "Team",
        "section": "team",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9434,7 +9434,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/themen/",
+       "url": "https://okfn.de/themen/",
        "title": "Themen",
        "section": "themen",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9464,7 +9464,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/transparenzranking/",
+       "url": "https://okfn.de/projekte/transparenzranking/",
        "title": "Transparenzranking",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9488,7 +9488,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/turing-bus/",
+       "url": "https://okfn.de/projekte/turing-bus/",
        "title": "Turing-Bus",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9538,7 +9538,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/volksentscheid/",
+       "url": "https://okfn.de/projekte/volksentscheid/",
        "title": "Volksentscheid Transparenz Berlin",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9558,7 +9558,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/wahldatenhelfer/",
+       "url": "https://okfn.de/projekte/wahldatenhelfer/",
        "title": "Wahl.Daten.Helfer.",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9612,7 +9612,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/edulabs/",
+       "url": "https://okfn.de/projekte/edulabs/",
        "title": "edulabs",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9630,7 +9630,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/httpsjetzt/",
+       "url": "https://okfn.de/projekte/httpsjetzt/",
        "title": "https.jetzt",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9648,7 +9648,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/kleineanfragen/",
+       "url": "https://okfn.de/projekte/kleineanfragen/",
        "title": "kleineAnfragen",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
@@ -9666,7 +9666,7 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/sehrgutachten/",
+       "url": "https://okfn.de/projekte/sehrgutachten/",
        "title": "sehrGutachten",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",

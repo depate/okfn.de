@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Knowledge Foundation DE</title>
+    <link rel="self" href="https://okfn.de/en/finanzierung/atom.xml"/>
+    <description>Financing on OKF DE</description>
+    
+    
+    
+        <atom:link href="https://okfn.de/en/finanzierung/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development of total revenue</title>
+      <link>https://okfn.de/en/finanzierung/entwicklung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/finanzierung/entwicklung/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Revenues 2017</title>
+      <link>https://okfn.de/en/finanzierung/einnahmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/finanzierung/einnahmen/</guid>
+      <description>The majority (&amp;gt;81%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. onations correspond to approximately 8% of our income. We generated almost 5% through services, sponsoring currently accounts for 4.6% of our funds.
+Übersicht Öffentliche Geldgeber Unternehmen Eigenerwirtschaftete Gelder Spenden       Projects financed by individual donations or based on voluntary work  Our projects are often initiated by voluntary work and driven by passionate individuals.</description>
+    </item>
+    
+    <item>
+      <title>Expenses 2017</title>
+      <link>https://okfn.de/en/finanzierung/ausgaben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/finanzierung/ausgaben/</guid>
+      <description>Most costs are linked to the implementation of projects and the organization of events. We try to keep fixed costs (non project-related expenditure) low. Rent, ancillary costs for the Berlin office and server expenses represent the majority of such costs.
+ We currently employ around 18.5 full-time equivalent staff.</description>
+    </item>
+    
+  </channel>
+</rss>

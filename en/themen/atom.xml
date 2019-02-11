@@ -1,18 +1,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Topics on OKF DE</title>
-  <link rel="self" href="https://beta.okfn.de/en/themen/"/>
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="https://okfn.de/en/themen/atom.xml"/>
   <updated>0001-01-01T00:00:00+0000</updated>
   <author>
-    <name>YOUR NAME HERE</name>
-    <email>YOUR EMAIL ADDRESS</email>
-    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
   </author>
-  <id>https://beta.okfn.de/en/themen/</id>
+  <id>https://okfn.de</id>
   
   <entry>
     <title>Open Data</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/themen/open_data/"/>
-    <id>https://beta.okfn.de/en/themen/open_data/</id>
+    <link rel="alternate" href="https://okfn.de/en/themen/open_data/"/>
+    <id>https://okfn.de/en/themen/open_data/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>&lt;p&gt;Open data is data that can be freely used, re-used and re-distributed by anyone - at most restricted by the obligation to name sources and &amp;ldquo;share-alike&amp;rdquo;. This does not apply to personal data.&lt;/p&gt;</summary>
@@ -20,8 +20,8 @@
   
   <entry>
     <title>Civic Tech</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/themen/civic_tech/"/>
-    <id>https://beta.okfn.de/en/themen/civic_tech/</id>
+    <link rel="alternate" href="https://okfn.de/en/themen/civic_tech/"/>
+    <id>https://okfn.de/en/themen/civic_tech/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>&lt;p&gt;Civic Tech brings together digital innovations with governments and administrations to create new and better opportunities for citizens. Civic Tech applications, tools and services are in many cases powered by Open Data.&lt;/p&gt;</summary>
@@ -29,8 +29,8 @@
   
   <entry>
     <title>Open Government</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/themen/offenes_regierungshandeln/"/>
-    <id>https://beta.okfn.de/en/themen/offenes_regierungshandeln/</id>
+    <link rel="alternate" href="https://okfn.de/en/themen/offenes_regierungshandeln/"/>
+    <id>https://okfn.de/en/themen/offenes_regierungshandeln/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>&lt;p&gt;The concept of &amp;lsquo;Open Government&amp;rsquo; means to open the actions of governments and administrations at national and regional level to civil society and the economy.&lt;/p&gt;</summary>
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Open Education</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/themen/bildung/"/>
-    <id>https://beta.okfn.de/en/themen/bildung/</id>
+    <link rel="alternate" href="https://okfn.de/en/themen/bildung/"/>
+    <id>https://okfn.de/en/themen/bildung/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>&lt;p&gt;Open education is an umbrella term for school-based and extracurricular initiatives that understand education to be participatory, open and relevant to current issues and trends. Education is promoted as a common good and focus is placed on self-directed and competence-oriented learning.&lt;/p&gt;</summary>
@@ -47,8 +47,8 @@
   
   <entry>
     <title>Freedom of Information</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/themen/informationsfreiheit/"/>
-    <id>https://beta.okfn.de/en/themen/informationsfreiheit/</id>
+    <link rel="alternate" href="https://okfn.de/en/themen/informationsfreiheit/"/>
+    <id>https://okfn.de/en/themen/informationsfreiheit/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>&lt;p&gt;Freedom of information (FOI) is the right of free access to official information. It is one of the most important fundamental rights in the knowledge society, which results from Article 5 of the German Basic Law on Freedom of Opinion and Information Grundgesetz zur Meinungs- und Informationsfreiheit.&lt;/p&gt;</summary>
