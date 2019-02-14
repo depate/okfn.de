@@ -255,6 +255,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2019/02/offene-daten-fuer-alle/</loc>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/02/handelsregister/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
   </url>
@@ -2900,7 +2905,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4108,7 +4113,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4589,7 +4594,7 @@
   
   <url>
     <loc>https://okfn.de/tags/opendata/</loc>
-    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4684,7 +4689,7 @@
   
   <url>
     <loc>https://okfn.de/tags/policy/</loc>
-    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4794,7 +4799,7 @@
   
   <url>
     <loc>https://okfn.de/tags/psi/</loc>
-    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

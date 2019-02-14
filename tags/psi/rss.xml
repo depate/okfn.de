@@ -6,10 +6,22 @@
     <description>Recent content in Psi on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://okfn.de/tags/psi/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Offene Daten für Alle</title>
+      <link>https://okfn.de/blog/2019/02/offene-daten-fuer-alle/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/02/offene-daten-fuer-alle/</guid>
+      <description>Demnächst wird in Brüssel über die Open Data Verordnung (ehemals PSI Richtlinie) abgestimmt, Bericht siehe hier, aktuell wird in Deutschland über &amp;ldquo;Daten für alle&amp;rdquo; gesprochen und wir sind zur heutigen Veranstaltung eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss.
+tl;dr:
+Ein kurzer Kommentar u.a. zu grundlegenderen offenen Punkte in diesem Zusammenhang:
+1. Allgemein: (offene) Daten für alle. Wer Daten für alle fordert, sollte selbst auch die eigenen Daten liefern.</description>
+    </item>
     
     <item>
       <title>PSI public sector information</title>

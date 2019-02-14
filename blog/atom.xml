@@ -1,13 +1,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-02-06T00:00:00+0000</updated>
+  <updated>2019-02-14T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Offene Daten für Alle</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/02/offene-daten-fuer-alle/"/>
+    <id>https://okfn.de/blog/2019/02/offene-daten-fuer-alle/</id>
+    <published>2019-02-14T00:00:00+0000</published>
+    <updated>2019-02-14T00:00:00+0000</updated>
+    <summary>Demnächst wird in Brüssel über die Open Data Verordnung (ehemals PSI Richtlinie) abgestimmt, Bericht siehe hier, aktuell wird in Deutschland über &amp;ldquo;Daten für alle&amp;rdquo; gesprochen und wir sind zur heutigen Veranstaltung eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss.
+tl;dr:
+Ein kurzer Kommentar u.a. zu grundlegenderen offenen Punkte in diesem Zusammenhang:
+1. Allgemein: (offene) Daten für alle. Wer Daten für alle fordert, sollte selbst auch die eigenen Daten liefern.</summary>
+  </entry>
   
   <entry>
     <title>Das Handelsregister: Endlich offene Daten!</title>
@@ -150,18 +162,6 @@ In the last 10 months this project generated 100,000 individual data requests in
     <published>2018-10-31T00:00:00+0000</published>
     <updated>2018-10-31T16:00:00+0000</updated>
     <summary>Der Prototype Fund ist ein Förderprogramm für Public Interest Tech, das als erstes in Deutschland selbstständige Softwareentwickler*innen, Hacker*innen und Kreative (auch als Teams) dabei unterstützt, ihre Open-Source-Ideen vom Konzept bis zur ersten Demo umzusetzen. Seit 2016 arbeiten wir (Adriana, Elisa, Fiona, Julia und Katharina) daran, bestehende Strukturen und Narrative im Bereich der Innovationsförderung aufzubrechen und mehr sinnvolle digitale Lösungen für die Gesellschaft möglich zu machen. Jetzt suchen wir dabei Verstärkung! Du arbeitest eigenständig und hast Lust, dich weiterzuentwickeln und Neues zu lernen?</summary>
-  </entry>
-  
-  <entry>
-    <title>OpenSCHUFA: Verbrauchergerechtes Scoring</title>
-    <link rel="alternate" href="https://okfn.de/blog/2018/10/faires-scoring/"/>
-    <id>https://okfn.de/blog/2018/10/faires-scoring/</id>
-    <published>2018-10-31T00:00:00+0000</published>
-    <updated>2018-10-31T00:00:00+0000</updated>
-    <summary>Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. Thema: Faires Scoring. Wir berichten live vor Ort. #fairesscoring #openschufa
-Das wichtigste in Kürze Programm der Veranstaltung Übersichtsseite zu „Verbrauchergerechtes Scoring“ (Sachverständigenrat) Technische und rechtliche Betrachtungen algorithmischer Entscheidungsverfahren (Gesellschaft für Informatik e. V.)
-Handlungsempfehlungen Handlungsempfehlungen des Rats (S. 142-151)
- Scoring für den Verbraucher verständlich machen Scoring-Wissen und Kompetenz fördern Diskriminierung prüfen und offenlegen telematikfreie Option sicherstellen Score-Qualität gewährleisten Datenqualität sichern Aufsicht verbessern Super-Scores  Aus den Handlungsempfehlungen:</summary>
   </entry>
   
 </feed>
