@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-02-14T00:00:00+0000</updated>
+  <updated>2019-02-23T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Open Government in Deutschland: mehr zivilgesellschaftliche Beteiligung</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/02/open-government-mehr-beteiligung/"/>
+    <id>https://okfn.de/blog/2019/02/open-government-mehr-beteiligung/</id>
+    <published>2019-02-23T00:00:00+0000</published>
+    <updated>2019-02-23T00:00:00+0000</updated>
+    <summary>In unseren westlichen Gesellschaften sinkt das Vertrauen in die Politik. Dabei spielt insbesondere auch die Intransparenz politischer Prozesse eine Rolle. Ein faktenbasierter öffentlicher Diskurs ist in Deutschland unter anderem häufig deswegen nicht möglich, weil Informationen zurückgehalten werden. Über Horst Seehofers sogenannten »Masterplan« wurde zum Beispiel monatelang diskutiert, ohne dass das Dokument je öffentlich war. Dabei hat die Bundesregierung mit dem Open Government Ansatz schon einen möglichen Lösungsansatz entdeckt, sie muss die Umsetzung in Deutschland aber auch flächendeckend verfolgen.</summary>
+  </entry>
   
   <entry>
     <title>Offene Daten für Alle</title>
@@ -155,15 +164,6 @@ Das sind die wichtigsten Erkenntnisse:  Schlechte Scores auch ohne Negativmerkma
     <updated>2018-11-28T00:00:00+0000</updated>
     <summary>Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline have evaluated the anonymous data that we have collected with the help of our &amp;ldquo;mydata&amp;rdquo; project OpenSchufa since this spring.
 In the last 10 months this project generated 100,000 individual data requests in Germany. Out of these, more than 30,000 were directed at Schufa and resulted in more than 3,000 data donations to us.</summary>
-  </entry>
-  
-  <entry>
-    <title>Eine Chance für Open Hardware: das Recht auf Reparatur</title>
-    <link rel="alternate" href="https://okfn.de/blog/2018/11/eine-chance-fuer-open-hardware-das-recht-auf-reparatur/"/>
-    <id>https://okfn.de/blog/2018/11/eine-chance-fuer-open-hardware-das-recht-auf-reparatur/</id>
-    <published>2018-11-06T00:00:00+0000</published>
-    <updated>2018-11-06T16:00:00+0000</updated>
-    <summary>In einer Zeit, in der große Teile der technischen Apparate Daten verarbeiten, hat die Forderung nach transparenter Technik einen hohen Stellenwert: Wie erfasst das Smartphone seine Umgebung, welche Daten werden erhoben und wohin gelangen sie? Open Source, das Offenlegen des technischen Aufbaus und die Verwendung von freien Lizenzen, ist hier das bekannte Schlagwort. Während Open Source für den Bereich der Software ein verbreitetes Thema ist und freie Software weite Teile der Softwareentwicklung bereichert, steckt Open Source Hardware noch in den Kinderschuhen.</summary>
   </entry>
   
 </feed>

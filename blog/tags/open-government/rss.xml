@@ -6,10 +6,19 @@
     <description>Recent content in Open Government on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://okfn.de/blog/tags/open-government/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Government in Deutschland: mehr zivilgesellschaftliche Beteiligung</title>
+      <link>https://okfn.de/blog/2019/02/open-government-mehr-beteiligung/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/02/open-government-mehr-beteiligung/</guid>
+      <description>In unseren westlichen Gesellschaften sinkt das Vertrauen in die Politik. Dabei spielt insbesondere auch die Intransparenz politischer Prozesse eine Rolle. Ein faktenbasierter öffentlicher Diskurs ist in Deutschland unter anderem häufig deswegen nicht möglich, weil Informationen zurückgehalten werden. Über Horst Seehofers sogenannten »Masterplan« wurde zum Beispiel monatelang diskutiert, ohne dass das Dokument je öffentlich war. Dabei hat die Bundesregierung mit dem Open Government Ansatz schon einen möglichen Lösungsansatz entdeckt, sie muss die Umsetzung in Deutschland aber auch flächendeckend verfolgen.</description>
+    </item>
     
     <item>
       <title>Rückblick: Open Government Global Summit 2018</title>
