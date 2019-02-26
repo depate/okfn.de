@@ -6,10 +6,20 @@
     <description>Recent content in Open Data on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://okfn.de/blog/tags/open-data/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Der Open Data Day 2019</title>
+      <link>https://okfn.de/blog/2019/02/open-data-day/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/02/open-data-day/</guid>
+      <description>Am Samstag, 2. März 2019, findet weltweit der Open Data Day statt. Weltweit wird dieser von Aktivist*innen auf der ganzen Welt genutzt, um auf die Bedeutung offener Daten hinzuweisen. Auch in diesem Jahr organisieren zahlreiche Ehrenamtliche in den Open Knowledge Labs unseres Netzwerks Code for Germany Veranstaltungen rund um offene Daten.
+Sie wollen mit möglichst vielen Menschen offenes Wissen teilen und mit hilfe offener Daten gemeinsam etwas gestalten. Willst du allein, mit deinen Freunden oder mit deiner Familie bei einem der teilnehmenden OK Labs vorbeischauen und dort zum Beispiel Feinstaubsensoren bauen, lernen Chatbots zu programmieren oder dich mit den Daten des Handelsregisters beschäftigen?</description>
+    </item>
     
     <item>
       <title>Rückblick Energyhack 2018: &#34; Energyhack^2 - Energie für eine effiziente Stadt &#34; !</title>
