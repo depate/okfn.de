@@ -9092,6 +9092,24 @@
  
  
  
+   ,
+     {
+       "url": "https://okfn.de/projekte/offeneregister/",
+       "title": "OffeneRegister",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/offeneregister.jpg",
+       
+       "content": ["Das","Handelsregister","ist","das","zentrale","öffentliche","Verzeichnis,","in","dem","Unternehmen,","Stiftungen","und","Vereine","sich","registrieren","müssen.","Es","enthält","u.a.","Daten","zum","Sitz,","Rechtsform","und","vertretungsberechtigten","Personen.","Die","Daten","aus","dem","Handelsregister","sind","zentral","für","das","Vertrauen","nicht","nur","in","das","Handelssystem,","sondern","auch","in","die","Demokratie.","Trotzdem","sind","sie","von","staatlicher","Stelle","nicht","frei","zugänglich.","Gemeinsam","mit","OpenCorporates","veröffentlichen","wir","erstmals","das","Handelsregister","als","Open","Data.","Foto:","Hamburg.","Speicherstadt","von","Max","Stolbinsky","under","CC","BY","2.0"]
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  

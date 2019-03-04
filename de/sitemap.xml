@@ -4238,6 +4238,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/projekte/offeneregister/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/offeneregister/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/offeneregister/"
+                />
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/tags/offenegesetze/</loc>
     <lastmod>2018-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>

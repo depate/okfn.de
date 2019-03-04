@@ -820,6 +820,24 @@
  
    ,
      {
+       "url": "https://okfn.de/en/projekte/offeneregister/",
+       "title": "OffeneRegister",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/offeneregister.jpg",
+       
+       "content": ["The","corporate","registry","is","the","public","repository","of","companies,","foundations","and","associations","in","Germany.","It","contains","data","about","legal","status,","address","and","officers","of","an","entity.","This","data","is","important","for","the","trust","in","business","and","the","people","involved.","But","this","data","is","not","made","openly","accessible","by","the","government.","Together","with","OpenCorporates","we","publish","the","German","corporate","registry","as","Open","Data","for","the","first","time.","Picture:","Hamburg.","Speicherstadt","von","Max","Stolbinsky","under","CC","BY","2.0"]
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
        "url": "https://okfn.de/en/projekte/offenerhaushalt/",
        "title": "Offener Haushalt",
        "section": "projekte",
