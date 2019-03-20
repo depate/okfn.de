@@ -255,6 +255,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2019/03/zensurheberrecht/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/02/open-data-day/</loc>
     <lastmod>2019-02-25T00:00:00+00:00</lastmod>
   </url>
@@ -277,11 +282,6 @@
   <url>
     <loc>https://okfn.de/blog/2019/02/finally-open-company-data/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/2019/02/zensurheberrecht/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2930,7 +2930,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3057,6 +3057,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/civic-tech/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/civic-tech/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3069,12 +3075,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/civic-tech/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/civic-tech/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3159,6 +3159,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/community/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/community/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3171,12 +3177,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/community/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/community/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3807,6 +3807,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/informationsfreiheit/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/informationsfreiheit/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3819,12 +3825,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/informationsfreiheit/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/informationsfreiheit/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4149,7 +4149,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4435,6 +4435,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-data/</loc>
+    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/open-data/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4447,12 +4453,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/open-data/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-data/</loc>
-    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4536,6 +4536,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-government/</loc>
+    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/open-government/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4548,12 +4554,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/open-government/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-government/</loc>
-    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5154,7 +5154,7 @@
   
   <url>
     <loc>https://okfn.de/blog/tags/transparenz/</loc>
-    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
