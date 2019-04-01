@@ -6,10 +6,20 @@
     <description>Recent content in Open Data on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://okfn.de/blog/tags/open-data/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Offene Daten für die digitale Jugendbeteiligung</title>
+      <link>https://okfn.de/blog/2019/04/offene-daten-fuer-die-digitale-jugendbeteiligung/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/04/offene-daten-fuer-die-digitale-jugendbeteiligung/</guid>
+      <description>Von Auskünften über die Lärmbelästigung an Straßen und Barrierefreiheit von Bahnübergängen bis hin zu Einnahmen und Ausgaben einer Gemeinde: Offene Daten helfen uns nicht nur dabei, unsere Umwelt und gesellschaftliche Prozesse besser zu verstehen, sondern ermöglichen auch eine aktive Beteiligung und politische Teilhabe. Wir zeigen, welche Potentiale offene Daten für die digitale Jugendbeteiligung haben und teilen unser Wissen, das wir in den vergangenen Monaten dazu gesammelt haben.
+Was sind eigentlich offene Daten?</description>
+    </item>
     
     <item>
       <title>Der Open Data Day 2019</title>
