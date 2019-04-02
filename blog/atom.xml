@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-04-01T00:00:00+0000</updated>
+  <updated>2019-04-02T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Zensurheberrecht: Landgericht Köln zwingt FragDenStaat, staatliches Glyphosat-Gutachten zu löschen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/04/zensurheberrecht-einstweilige-verfuegung/"/>
+    <id>https://okfn.de/blog/2019/04/zensurheberrecht-einstweilige-verfuegung/</id>
+    <published>2019-04-02T00:00:00+0000</published>
+    <updated>2019-04-02T00:00:00+0000</updated>
+    <summary>Das Landgericht Köln hat FragDenStaat per einstweiliger Verfügung verboten, ein Glyphosat-Gutachten des Bundesinstituts für Risikobewertung zu veröffentlichen. Das staatliche Institut von Landwirtschaftsministerin Julia Klöckner hatte FragDenStaat vorher bereits abgemahnt.
+Das Glyphosat-Gutachten ist staatlich finanziert und von Beamten erstellt worden. Dass das Urheberrecht als Zensurheberrecht missbraucht wird, ist ein Angriff auf die Pressefreiheit! Wenn es nötig ist, ziehen wir mit dem Fall bis vor den Europäischen Gerichtshof.
+Jetzt mit einem Klick auch das Gutachten anfragen!</summary>
+  </entry>
   
   <entry>
     <title>Beteiligt euch jetzt: Online Konsultation Open Government</title>
@@ -152,17 +163,6 @@ Seit Jahren wird jeder vierte kontrollierte Betrieb beanstandet, größtenteils 
     <updated>2018-12-24T00:00:00+0000</updated>
     <summary>Update, 12/24/2018: In response to OffeneGesetze, the German Ministry of Justice has announced that it will create a digital legislative process in the coming years. The ministry is creating a platform on which federal law gazettes &amp;ldquo;can also be freely printed, searched and re-used&amp;rdquo;. There should be unrestricted access, the Justice Minister Katarina Barley said.
 The Federal Law Gazettes are the central documents of German democracy. To pass a law, it has to be published in the Law Gazette.</summary>
-  </entry>
-  
-  <entry>
-    <title>OffeneGesetze: Zentrale Dokumente der Demokratie erstmals frei zugänglich (Update)</title>
-    <link rel="alternate" href="https://okfn.de/blog/2018/12/offenegesetze/"/>
-    <id>https://okfn.de/blog/2018/12/offenegesetze/</id>
-    <published>2018-12-10T00:00:00+0000</published>
-    <updated>2018-12-24T00:00:00+0000</updated>
-    <summary>Update, 24.12.2018: Das Justizministerium hat als Reaktion auf OffeneGesetze bekanntgegeben, künftig ein digitales Gesetzgebungsverfahren zu schaffen. Das Ministerium schaffe eine Plattform, auf der Bundesgesetzblätter &amp;ldquo;auch frei ausgedruckt, durchsucht und weiterverwendet werden können.&amp;rdquo; Es solle einen uneingeschränkten Zugang geben.
-Die Bundesgesetzblätter sind die zentralen Dokumente der deutschen Demokratie. Unter OffeneGesetze.de sind sie jetzt erstmals frei zugänglich. Auf unserem neuen Portal stellen wir die Dokumente kostenfrei und zur freien Weiterverwendung bereit.
-Bisher sind Bundesgesetzblätter nur über die Website bgbl.</summary>
   </entry>
   
 </feed>
