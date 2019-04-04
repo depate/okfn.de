@@ -255,6 +255,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2019/04/daten-f%C3%BCr-alle-aber-wie/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/04/copyright-censorship-update/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -2960,7 +2965,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3284,6 +3289,12 @@
   <url>
     <loc>https://okfn.de/blog/tags/data-philanthropy/</loc>
     <lastmod>2013-07-23T14:11:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/data-philantropy/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4179,7 +4190,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4833,6 +4844,12 @@
   <url>
     <loc>https://okfn.de/blog/tags/pressemitteilung/</loc>
     <lastmod>2017-01-26T07:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/privacy/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

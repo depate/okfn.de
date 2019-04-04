@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-04-02T00:00:00+0000</updated>
+  <updated>2019-04-05T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Daten für alle - aber wie?</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/04/daten-f%C3%BCr-alle-aber-wie/"/>
+    <id>https://okfn.de/blog/2019/04/daten-f%C3%BCr-alle-aber-wie/</id>
+    <published>2019-04-05T00:00:00+0000</published>
+    <updated>2019-04-04T00:00:00+0000</updated>
+    <summary>Mit ihrem Daten-für-alle-Vorschlag, also einer gesetzlichen Pflicht zum Teilen von Daten, die insbesondere für die Tech-Riesen gelten soll, hat die SPD eine wichtige und längst überfällige Debatte über den Wert von Unternehmensdaten angestoßen. Diese beschränkt sich bislang jedoch wahlweise auf die Sinnhaftigkeit einer allgemeinen gesetzlichen Verpflichtung, die technische Machbarkeit einer vollständigen Anonymisierung zum Schutz persönlicher Daten oder die rechtlichen Einschränkungen zur Datenweitergabe durch die europäische Datenschutzgrundverordnung.
+Und auch wenn durchaus zurecht bezweifelt wird, dass eine Pflicht zum Daten teilen geeignet ist, die Monopolstellung von Google und Co zu brechen, so bietet der SPD-Vorstoß die willkommene Möglichkeit einer breiten gesellschaftlichen Debatte über digitale Daten als öffentliches Gut.</summary>
+  </entry>
   
   <entry>
     <title>Copyright Censorship: Cologne Court orders us to take down Glyphosate Report (Update)</title>
@@ -151,18 +161,6 @@ Today, January 22 2019 the final trilogue between European Commission, Parliamen
     <summary>Yesterday we launched &amp;ldquo;Pot Secret&amp;rdquo; (&amp;ldquo;Topf Secret&amp;rdquo; in German) - a platform against secrecy at food authorities. Consumers can use this platform to obtain the results of food safety inspections in restaurants, bakeries, supermarkets and other food-processing businesses.
 Together with our partner foodwatch, we created a platform that enables all people to quickly and easily send pre-formulated freedom of information requests about businesses to the relevant authorities.
 &amp;ldquo;Pot Secret&amp;rdquo; is based on a map that displays all food-related businesses that can be found in OpenStreetMap.</summary>
-  </entry>
-  
-  <entry>
-    <title>Jetzt mitmachen: Topf Secret!</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/01/topf-secret/"/>
-    <id>https://okfn.de/blog/2019/01/topf-secret/</id>
-    <published>2019-01-14T00:00:00+0000</published>
-    <updated>2019-01-14T00:00:00+0000</updated>
-    <summary>Heute launchen wir gemeinsam mit foodwatch „Topf Secret“ – eine Plattform gegen Geheimniskrämerei bei Lebensmittelbehörden. Auf ihr können Verbraucher*innen Ergebnisse von Hygienekontrollen in Restaurants, Bäckereien, Supermärkten &amp;amp; Co. abfragen.
-Zur Plattform: Hier entlang →
-Die Plattform ermöglicht es allen Menschen, einfach und schnell vorformulierte Anfragen zur Hygiene von Lebensmittelbetrieben an die zuständigen Behörden zu schicken. Die halten bisher die allermeisten Ergebnisse von Hygienekontrollen geheim.
-Seit Jahren wird jeder vierte kontrollierte Betrieb beanstandet, größtenteils wegen Hygienemängeln.</summary>
   </entry>
   
 </feed>
