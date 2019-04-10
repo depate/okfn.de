@@ -255,6 +255,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2019/04/digitalisierung-jugendarbeit-erfahrungen-demokratielabore/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/04/daten-f%C3%BCr-alle-aber-wie/</loc>
     <lastmod>2019-04-04T00:00:00+00:00</lastmod>
   </url>
@@ -2965,7 +2970,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3405,7 +3410,7 @@
   
   <url>
     <loc>https://okfn.de/blog/tags/digitalisierung/</loc>
-    <lastmod>2015-08-17T13:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3945,7 +3950,7 @@
   
   <url>
     <loc>https://okfn.de/blog/tags/jugendarbeit/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4190,7 +4195,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-04-05T00:00:00+0000</updated>
+  <updated>2019-04-10T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Digitalisierung in der Jugendarbeit - unsere Erfahrungen mit den Demokratielaboren</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/04/digitalisierung-jugendarbeit-erfahrungen-demokratielabore/"/>
+    <id>https://okfn.de/blog/2019/04/digitalisierung-jugendarbeit-erfahrungen-demokratielabore/</id>
+    <published>2019-04-10T00:00:00+0000</published>
+    <updated>2019-04-10T00:00:00+0000</updated>
+    <summary>Die Digitalisierung ist insbesondere im schulischen und außerschulischen Bereich ein viel diskutiertes Thema - von der Infrastruktur bis hin zu digitalen Kompetenzen. Doch wie wirkt sich die Digitalisierung konkret auf die Jugendarbeit aus? Wo gibt es Bedarfe und Potentiale? Und welche Tools und Methoden funktionieren besonders gut? Im Rahmen der Demokratielabore konnten wir hierzu zahlreiche Erfahrungen sammeln, die wir mit euch teilen wollen.
+Als wir mit dem Projekt im Sommer 2017 gestartet sind, stellten wir schnell fest: Materialien und Konzepte mit dem Fokus auf digitale Tools sind in der außerschulischen Jugendarbeit sehr gefragt.</summary>
+  </entry>
   
   <entry>
     <title>Daten für alle - aber wie?</title>
@@ -150,17 +160,6 @@ Die Jugend hackt Labs erweitern das bisher bestehende Angebot an Formaten durch 
     <summary>It&amp;rsquo;s done. The Provisional Agreement for the PSI Directive soon to be known as Open Data Directive (directive on Open Data and the re-use of public sector information) is reached.
 Deutsche Version hier.
 Today, January 22 2019 the final trilogue between European Commission, Parliament, and Council came to the ratification of the updated PSI Directive. This law was last updated in 2013 and a lot has changed since then. Finally it will get the name it easier to explain: open data directive.</summary>
-  </entry>
-  
-  <entry>
-    <title>Pot Secret - Freeing thousands of Food Safety Reports</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/01/pot-secret/"/>
-    <id>https://okfn.de/blog/2019/01/pot-secret/</id>
-    <published>2019-01-15T00:00:00+0000</published>
-    <updated>2019-01-15T00:00:00+0000</updated>
-    <summary>Yesterday we launched &amp;ldquo;Pot Secret&amp;rdquo; (&amp;ldquo;Topf Secret&amp;rdquo; in German) - a platform against secrecy at food authorities. Consumers can use this platform to obtain the results of food safety inspections in restaurants, bakeries, supermarkets and other food-processing businesses.
-Together with our partner foodwatch, we created a platform that enables all people to quickly and easily send pre-formulated freedom of information requests about businesses to the relevant authorities.
-&amp;ldquo;Pot Secret&amp;rdquo; is based on a map that displays all food-related businesses that can be found in OpenStreetMap.</summary>
   </entry>
   
 </feed>
