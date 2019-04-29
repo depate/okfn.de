@@ -270,11 +270,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/en/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/en/projekte/2030-watch/</loc>
     <xhtml:link
                 rel="alternate"
