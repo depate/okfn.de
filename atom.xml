@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-04-10T00:00:00+0000</updated>
+  <updated>2019-05-02T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Ein Transparenzgesetz für Berlin: Volksbegehren startet im Juli</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/05/transparenzgesetz-berlin-startet/"/>
+    <id>https://okfn.de/blog/2019/05/transparenzgesetz-berlin-startet/</id>
+    <published>2019-05-02T00:00:00+0000</published>
+    <updated>2019-05-02T00:00:00+0000</updated>
+    <summary>Milliardenschwere Bauvorhaben, Geheimverträge mit der Wirtschaft und Einflussnahme von Lobbyist*innen: Ein Bündnis zivilgesellschaftlicher Organisationen will jetzt Licht ins Dunkel der Berliner Verwaltung bringen. Dafür hat es ein eigenes Transparenzgesetz auf den Weg gebracht, das das Recht auf Informationen des Staates in Zukunft weitreichend stärken soll.
+Das Bündnis Volksentscheid Transparenz, zu dem unter anderem die Open Knowledge Foundation Deutschland, Mehr Demokratie, der Chaos Computer Club und die Digitale Gesellschaft zählen, hat dem Senat im April einen Gesetzentwurf vorgelegt, nach dem Berliner Landes- und Bezirksbehörden proaktiv Informationen in einem zentralen Transparenzportal offenlegen müssen.</summary>
+  </entry>
   
   <entry>
     <title>Digitalisierung in der Jugendarbeit - unsere Erfahrungen mit den Demokratielaboren</title>
@@ -149,17 +159,6 @@ On the website, the data can be searched centrally, downloaded and reused via th
     <updated>2019-01-23T00:00:00+0000</updated>
     <summary>Wer wir sind Jugend hackt ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit “Code die Welt verbessern” wollen. Jugend hackt ist ein gemeinsames Programm des Open Knowledge Foundation Deutschland e.V. und mediale pfade.org - Verein für Medienbildung e.V. Für die Labregion Ulm kooperieren die beiden Vereine mit der Stadt Ulm und dem Verschwörhaus.
 Die Jugend hackt Labs erweitern das bisher bestehende Angebot an Formaten durch ein ganzjähriges Angebot.</summary>
-  </entry>
-  
-  <entry>
-    <title>Open Data directive, the directive formerly known as PSI public sector information</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/01/open-data-directive/"/>
-    <id>https://okfn.de/blog/2019/01/open-data-directive/</id>
-    <published>2019-01-22T00:00:00+0000</published>
-    <updated>2019-01-22T00:00:00+0000</updated>
-    <summary>It&amp;rsquo;s done. The Provisional Agreement for the PSI Directive soon to be known as Open Data Directive (directive on Open Data and the re-use of public sector information) is reached.
-Deutsche Version hier.
-Today, January 22 2019 the final trilogue between European Commission, Parliament, and Council came to the ratification of the updated PSI Directive. This law was last updated in 2013 and a lot has changed since then. Finally it will get the name it easier to explain: open data directive.</summary>
   </entry>
   
 </feed>
