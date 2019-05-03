@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-05-02T00:00:00+0000</updated>
+  <updated>2019-05-03T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Transparenzregister: Mit Open Data Geldwäsche bekämpfen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/05/transparenzregister-mit-open-data-geldwaesche-bekaempfen/"/>
+    <id>https://okfn.de/blog/2019/05/transparenzregister-mit-open-data-geldwaesche-bekaempfen/</id>
+    <published>2019-05-03T00:00:00+0000</published>
+    <updated>2019-05-03T00:00:00+0000</updated>
+    <summary>Donnerstag, 16. Mai 2019 | 14.00 – 16.00 Uhr Hotel nhow | Stralauer Allee 3 | 10245 Berlin-Friedrichshain Eine gemeinsame Veranstaltung von Transparency Deutschland und Open Knowledge Foundation Deutschland e.V. Seit 2017 gibt das Transparenzregister online Auskunft über die wahren Eigentümerinnen und Eigentümer von Unternehmen. Allerdings führen große Lücken bei den zu meldenden Daten sowie Einschränkungen im Zugang und der Nutzung der Datenbank dazu, dass das Register weit hinter seinen Möglichkeiten zurückbleibt.</summary>
+  </entry>
   
   <entry>
     <title>Ein Transparenzgesetz für Berlin: Volksbegehren startet im Juli</title>
@@ -149,16 +158,6 @@ Auf der Website können die Daten einfach zentral durchsucht, heruntergeladen so
     <updated>2019-02-06T00:00:00+0000</updated>
     <summary>Today, together with OpenCorporates, we make information from the German company register and its announcements accessible as open data on OffeneRegister.de. For the first time, data such as the registered office, legal form and authorised representatives of 5.1 million German companies, foundations and associations are openly and freely available on the Internet.
 On the website, the data can be searched centrally, downloaded and reused via the programming interface (API). Reprints from the commercial register, for which handelsregister.</summary>
-  </entry>
-  
-  <entry>
-    <title>Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/01/stellenausschreibung-regionale-koordination-jugend-hackt-lab-ulm/"/>
-    <id>https://okfn.de/blog/2019/01/stellenausschreibung-regionale-koordination-jugend-hackt-lab-ulm/</id>
-    <published>2019-01-23T00:00:00+0000</published>
-    <updated>2019-01-23T00:00:00+0000</updated>
-    <summary>Wer wir sind Jugend hackt ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit “Code die Welt verbessern” wollen. Jugend hackt ist ein gemeinsames Programm des Open Knowledge Foundation Deutschland e.V. und mediale pfade.org - Verein für Medienbildung e.V. Für die Labregion Ulm kooperieren die beiden Vereine mit der Stadt Ulm und dem Verschwörhaus.
-Die Jugend hackt Labs erweitern das bisher bestehende Angebot an Formaten durch ein ganzjähriges Angebot.</summary>
   </entry>
   
 </feed>
