@@ -6,10 +6,26 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OKFDE auf der #rp19</title>
+      <link>https://okfn.de/blog/2019/05/okfde-auf-der-rp19/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/05/okfde-auf-der-rp19/</guid>
+      <description>tl;dr kurze Übersicht Tag 1 Offen lernen - Gehäuse aufbrechen - Maximillian Voigt
+Wie Städte die Mobilität der Zukunft gestalten - Stefan Kaufmann
+Community-Treffen codefor
+OK Lab bei Wikimedia
+Tag 2 Aktivismus vs. Passivismus - Gebrüder Semsrott
+Transparenzregister: Mit Open Data Steuerflucht bekämpfen - Vanessa Wormer &amp;amp; Michael Peters
+Mit dem Turing-Bus durch die Kleinstadtgalaxie - Bela Seeger Andrea Knaut
+Tag 3 13:00 - 13:30 stage 8 Kommunikation zwischen Verwaltung &amp;amp; Tech-Community - Tori Boeck, Ulrich Binner, Adriana Groh</description>
+    </item>
     
     <item>
       <title>Transparenzregister: Mit Open Data Geldwäsche bekämpfen</title>

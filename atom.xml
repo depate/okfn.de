@@ -1,13 +1,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-05-03T00:00:00+0000</updated>
+  <updated>2019-05-06T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>OKFDE auf der #rp19</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/05/okfde-auf-der-rp19/"/>
+    <id>https://okfn.de/blog/2019/05/okfde-auf-der-rp19/</id>
+    <published>2019-05-06T00:00:00+0000</published>
+    <updated>2019-05-06T00:00:00+0000</updated>
+    <summary>tl;dr kurze Übersicht Tag 1 Offen lernen - Gehäuse aufbrechen - Maximillian Voigt
+Wie Städte die Mobilität der Zukunft gestalten - Stefan Kaufmann
+Community-Treffen codefor
+OK Lab bei Wikimedia
+Tag 2 Aktivismus vs. Passivismus - Gebrüder Semsrott
+Transparenzregister: Mit Open Data Steuerflucht bekämpfen - Vanessa Wormer &amp;amp; Michael Peters
+Mit dem Turing-Bus durch die Kleinstadtgalaxie - Bela Seeger Andrea Knaut
+Tag 3 13:00 - 13:30 stage 8 Kommunikation zwischen Verwaltung &amp;amp; Tech-Community - Tori Boeck, Ulrich Binner, Adriana Groh</summary>
+  </entry>
   
   <entry>
     <title>Transparenzregister: Mit Open Data Geldwäsche bekämpfen</title>
@@ -148,16 +164,6 @@ Ein kurzer Kommentar u.a. zu grundlegenderen offenen Punkte in diesem Zusammenha
     <updated>2019-02-06T00:00:00+0000</updated>
     <summary>Gemeinsam mit der Organisation OpenCorporates veröffentlichen wir heute auf OffeneRegister.de Informationen aus dem Handelsregister und den Handelsregisterbekanntmachungen als offene Daten. Damit sind Daten wie Sitz, Rechtsform und vertretungsberechtigte Personen von 5,1 Millionen deutschen Firmen, Stiftungen und Vereinen erstmals offen und frei im Internet verfügbar.
 Auf der Website können die Daten einfach zentral durchsucht, heruntergeladen sowie per Programmierschnittstelle (API) weiterverwendet werden. Abdrucke aus dem Handelsregister, für deren Offenlegung handelsregister.de Gebühren erhebt, sind nicht in den Daten enthalten.</summary>
-  </entry>
-  
-  <entry>
-    <title>Finally: Open Company Data!</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/02/finally-open-company-data/"/>
-    <id>https://okfn.de/blog/2019/02/finally-open-company-data/</id>
-    <published>2019-02-06T00:00:00+0000</published>
-    <updated>2019-02-06T00:00:00+0000</updated>
-    <summary>Today, together with OpenCorporates, we make information from the German company register and its announcements accessible as open data on OffeneRegister.de. For the first time, data such as the registered office, legal form and authorised representatives of 5.1 million German companies, foundations and associations are openly and freely available on the Internet.
-On the website, the data can be searched centrally, downloaded and reused via the programming interface (API). Reprints from the commercial register, for which handelsregister.</summary>
   </entry>
   
 </feed>
