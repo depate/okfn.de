@@ -54,6 +54,24 @@
  
    ,
      {
+       "url": "https://okfn.de/en/projekte/turing-bus/",
+       "title": "Turing-Bus",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/TuringBus_Projektuebersicht_bigTile.jpg",
+       
+       "content": ["The","Turing","Bus","is","a","mobile","educational","project","for","schools","and","youth","clubs","in","rural","areas.","The","bus","brings","representatives","of","Fablabs,","OK-Labs","and","Hackspaces","as","well","as","experts","in","digital","topics","to","often","underserved","places","of","youth","education","in","order","to","generate","an","exchange","of","knowledge","through","workshops,","discussion","formats,","screenings","and","more.","The","project","is","funded","in","the","Science","Year","of","the","BMBF.","The","bus","wants","to","explore,","discuss","and","critically","question","the","role","of","digitisation","and","technology","for","profession","and","society","with","workshops,","lectures","and","hands-on","sessions.","The","target","group","of","the","project","are","young","people","between","the","ages","of","15","and","20."]
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
        "url": "https://okfn.de/en/profil/potential/",
        "title": "We explore the democratic potential of technology",
        "section": "profil",
@@ -1064,24 +1082,6 @@
        "img": "projects/Transparenzranking_Projektuebersicht_smallTile.png",
        
        "content": ["According","to","Article","5","of","the","Grundgesetz,","every","person","has","the","right","to","obtain","free","information","from","generally","accessible","sources.","That","sounds","promising","at","first.","But","for","a","long","time","there","was","a","lack","of","generally","accessible","sources.","It","was","not","until","the","turn","of","the","millennium","that","many","German","states","took","a","big","step:","freedom","of","information","was","the","order","of","the","day.","Through","freedom","of","information","laws,","the","first","state","parliaments","in","Berlin","and","Brandenburg","obliged","local","administrations","and","state","authorities","to","renounce","the","previously","valid","official","secrecy.","The","aim","was","to","give","citizens","access","to","public","data","upon","request","-","regardless","of","whether","they","were","directly","affected","by","this","data.","This","includes","contracts,","notes,","written","correspondence,","video","and","audio","recordings","as","well","as","expert","opinions.","Because","knowledge","is","power.","For","the","first","time,","we","have","compared","freedom","of","information","and","transparency","laws","at","federal","and","state","level."]
-     }
- 
- 
- 
- 
- 
- 
- 
-   ,
-     {
-       "url": "https://okfn.de/en/projekte/turing-bus/",
-       "title": "Turing-Bus",
-       "section": "projekte",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "projects/TuringBus_Projektuebersicht_bigTile.jpg",
-       
-       "content": ["The","Turing","Bus","is","a","mobile","educational","project","for","schools","and","youth","clubs","in","rural","areas.","The","bus","brings","representatives","of","Fablabs,","OK-Labs","and","Hackspaces","as","well","as","experts","in","digital","topics","to","often","underserved","places","of","youth","education","in","order","to","generate","an","exchange","of","knowledge","through","workshops,","discussion","formats,","screenings","and","more.","The","project","is","funded","in","the","Science","Year","of","the","BMBF.","The","bus","wants","to","explore,","discuss","and","critically","question","the","role","of","digitisation","and","technology","for","profession","and","society","with","workshops,","lectures","and","hands-on","sessions.","The","target","group","of","the","project","are","young","people","between","the","ages","of","15","and","20."]
      }
  
  

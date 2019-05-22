@@ -20,6 +20,16 @@ Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen 
   </entry>
   
   <entry>
+    <title>Turing-Bus</title>
+    <link rel="alternate" href="https://okfn.de/projekte/turing-bus/"/>
+    <id>https://okfn.de/projekte/turing-bus/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Der Turing-Bus ist ein mobiles Bildungsangebot für Schulen und Jugendclubs im ländlichen Raum. Der Bus bringt Vertreter von Fablabs, OK-Labs und Hackspaces sowie Experten in digitalen Themengebieten an oft Angebots-unterversorgte Orte der Jugendbildung, um durch Workshops, Diskussionsformaten, Screenings und mehr einen Wissensaustausch zu generieren. Das Projekt wird im Wissenschaftsjahr des BMBF gefördert.
+Der Bus möchte die Rolle von Digitalisierung und Technologie für Beruf und Gesellschaft mit Workshops, Vorträgen und Hands-on-Sessions ergründen, diskutieren und kritisch hinterfragen.</summary>
+  </entry>
+  
+  <entry>
     <title>Code for Germany</title>
     <link rel="alternate" href="https://okfn.de/projekte/codeforde/"/>
     <id>https://okfn.de/projekte/codeforde/</id>
@@ -139,16 +149,6 @@ Ziel von Coding da Vinci war nicht nur das Etablieren und Vernetzen einer techni
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>Die globale „Initiative für Transparenz im rohstoffgewinnenden Sektor“ (Extractive Industries Transparency Initiative – EITI) setzt sich ein für mehr Finanztransparenz und Rechenschaftspflicht im Rohstoffsektor.
 Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 2002 im südafrikanischen Johannesburg und basiert auf einer engen Zusammenarbeit von Regierungen, Unternehmen und Zivilgesellschaften in mittlerweile über 50 Ländern. Diese legen Informationen über Steuerzahlungen, Lizenzen, Fördermengen und andere wichtige Daten rund um die Förderung von Öl-, Gas- und mineralischen Rohstoffen offen.</summary>
-  </entry>
-  
-  <entry>
-    <title>DARIAH-DE</title>
-    <link rel="alternate" href="https://okfn.de/projekte/dariah/"/>
-    <id>https://okfn.de/projekte/dariah/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>DARIAH-DE unterstützt mit digitalen Ressourcen und Methoden arbeitende Geistes- und KulturwissenschaftlerInnen in Forschung und Lehre. Dafür baut das Projekt eine digitale Forschungsinfrastruktur für Werkzeuge und Forschungsdaten auf und entwickelt Materialien für Lehre und Weiterbildung im Bereich der Digital Humanities (DH).
-Als Projektpartner unterstützen wir das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities). Ziel ist es, die zunehmend mit digitalen Ressourcen und Methoden arbeitenden Geistes- und Kulturwissenschaftler in Forschung und Lehre zu betreuen und so die Nutzung von digitalen Inhalten, Ressourcen, Werkzeugen und offenen Forschungsinfrastrukturen zu fördern.</summary>
   </entry>
   
 </feed>

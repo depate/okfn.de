@@ -20,6 +20,16 @@ The network is an association of civil society organisations and individuals tha
   </entry>
   
   <entry>
+    <title>Turing-Bus</title>
+    <link rel="alternate" href="https://okfn.de/en/projekte/turing-bus/"/>
+    <id>https://okfn.de/en/projekte/turing-bus/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>The Turing Bus is a mobile educational project for schools and youth clubs in rural areas. The bus brings representatives of Fablabs, OK-Labs and Hackspaces as well as experts in digital topics to often underserved places of youth education in order to generate an exchange of knowledge through workshops, discussion formats, screenings and more. The project is funded in the Science Year of the BMBF.
+The bus wants to explore, discuss and critically question the role of digitisation and technology for profession and society with workshops, lectures and hands-on sessions.</summary>
+  </entry>
+  
+  <entry>
     <title>Code for Germany</title>
     <link rel="alternate" href="https://okfn.de/en/projekte/codeforde/"/>
     <id>https://okfn.de/en/projekte/codeforde/</id>
@@ -138,16 +148,6 @@ While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht�
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>The global Extractive Industries Transparency Initiative (EITI) advocates greater financial transparency and accountability in the extractive sector.
 The initiative, which was founded in 2003 as part of the 2002 Sustainability Summit in Johannesburg, South Africa, is based on close cooperation between governments, companies and civil society in over 50 countries. They disclose information on tax payments, licenses, production volumes and other important data relating to the extraction of oil, gas and mineral resources.</summary>
-  </entry>
-  
-  <entry>
-    <title>DARIAH-DE</title>
-    <link rel="alternate" href="https://okfn.de/en/projekte/dariah/"/>
-    <id>https://okfn.de/en/projekte/dariah/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>DARIAH-DE supports digitally-enabled research and teaching in the arts and humanities. For this purpose, the project is developing a research infrastructure in support of service and research data as well as materials for research and teaching in the Digital Humanities. DARIAH-DE is the german national contribution to the European research infrastructure &amp;ldquo;DARIAH-EU - Digital Research Infrastructure for the Arts and Humanities&amp;rdquo; within the framework of ESFRI.
-As a project partner, we support DARIAH-DE with the communication and dissemination of the allignment, content, and results of the digital humanities.</summary>
   </entry>
   
 </feed>
