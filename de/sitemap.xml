@@ -213,16 +213,16 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/projekte/demokratielabore/</loc>
+    <loc>https://okfn.de/projekte/datenschule/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/projekte/demokratielabore/"
+                href="https://okfn.de/en/projekte/datenschule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/projekte/demokratielabore/"
+                href="https://okfn.de/projekte/datenschule/"
                 />
   </url>
   
@@ -3380,20 +3380,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/projekte/datenschule/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/datenschule/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/datenschule/"
-                />
-  </url>
-  
-  <url>
     <loc>https://okfn.de/blog/tags/datensummit/</loc>
     <lastmod>2017-05-11T15:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3409,6 +3395,20 @@
     <loc>https://okfn.de/blog/tags/demokratielabore/</loc>
     <lastmod>2017-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/projekte/demokratielabore/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/demokratielabore/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/demokratielabore/"
+                />
   </url>
   
   <url>
