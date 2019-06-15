@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/appsforeurope/</guid>
-      <description>Apps for Europe was a program intended to showcase the impact of open data in terms of its economic potential. Neelie Kroes, former Vice President of the European Commission and a strong supporter of Apps for Europe, quantifies the value of open data at several billion Euros. The Consortium behind Apps for Europe wants to facilitate the exploration of the value of open data by helping entrepreneurs to transform their ideas into successful businesses, that can gain foothold all over Europe.</description>
+      <description>Apps for Europe was a program intended to showcase the impact of open data in terms of its economic potential. Neelie Kroes, former Vice President of the European Commission and a strong supporter of Apps for Europe, quantifies the value of open data at several billion euros. The Consortium behind Apps for Europe wants to facilitate the exploration of the value of open data by helping entrepreneurs to transform their ideas into successful businesses that can gain foothold all over Europe.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/energyhack/</guid>
-      <description>Energyhack is a hackathon around open energy data. Our energy supply and the ways of generation are manifold. But how is energy distributed and how do we ensure that more information is exchanged between producers&amp;rsquo; devices and consumers? Developers, designers, researchers and innovative thought leaders in the energy industry develop ideas, design hardware and prototypes or program new apps in 24 hours. The data from the Open Data Portal Netzdaten-Berlin was available to the participants as a database.</description>
+      <description>Energyhack is a hackathon around open energy data. Our energy supply and the ways of its generation are manifold. But how is energy distributed and how do we ensure that more information can be exchanged between producers and consumers? Together with developers, designers, and researchers, thought leaders in the energy industry brainstorm ideas, design, and develop prototypes in 24 hours. The data from the Open Data Portal Netzdaten-Berlin was available to the participants as a database.</description>
     </item>
     
     <item>
@@ -34,8 +34,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/offenegesetze/</guid>
-      <description>The Federal Law Gazettes are the central documents of German democracy. At OffeneGesetze.de they are now freely accessible for the first time. On our new portal we make the documents available free of charge and for free further use.
-So far, Federal Law Gazettes are only available via the website bgbl.de of the Bundesanzeiger Verlag. The private publishing house requires subscription fees for basic functions, for example the searchability or printing of law gazettes.</description>
+      <description>The Federal Law Gazettes are the central documents of German democracy. At OffeneGesetze.de they are now freely accessible for the first time. On our new portal, we make these documents available free of charge and for unrestricted use.
+So far, Federal Law Gazettes were only available via the website bgbl.de of the Bundesanzeiger Verlag. The private publishing house requires subscription fees for basic functions, for example searching or printing of law gazettes.</description>
     </item>
     
     <item>
@@ -45,8 +45,8 @@ So far, Federal Law Gazettes are only available via the website bgbl.de of the B
       
       <guid>https://okfn.de/en/projekte/offeneregister/</guid>
       <description>The corporate registry is the public repository of companies, foundations and associations in Germany. It contains data about legal status, address and officers of an entity.
-This data is important for the trust in business and the people involved. But this data is not made openly accessible by the government.
-Together with OpenCorporates we publish the German corporate registry as Open Data for the first time.  Picture: Hamburg. Speicherstadt von Max Stolbinsky under CC BY 2.</description>
+This data is important for trust in business and the people involved. However, this data is not made openly accessible by the government.
+Together with OpenCorporates we published the German corporate registry as open data for the first time.  Picture: Hamburg. Speicherstadt von Max Stolbinsky under CC BY 2.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ Together with OpenCorporates we publish the German corporate registry as Open Da
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/offenerhaushalt/</guid>
-      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, the format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites.</description>
+      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, budget data format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites.</description>
     </item>
     
   </channel>

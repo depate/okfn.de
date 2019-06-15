@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/bundesgit/</guid>
-      <description>This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. Hereby, their historic development and adaptation is transparent and easily comprehensible.</description>
+      <description>This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. This makes their historic development and adaptation transparent and easily comprehensible.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/codeforde/</guid>
-      <description>Code For Germany is a network of groups of volunteer volunteers (Labs) who use their skills to positively shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics and use their skills to improve communication between them and to provide the necessary impetus so that as many people as possible can benefit from the possibilities of open and free digitisation.</description>
+      <description>Code For Germany is a network of groups of volunteers (labs) who use their skills to shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics, and use their skills to improve communication between them. This provides the necessary impetus so that as many people as possible can benefit from open and free digitisation.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/offenerhaushalt/</guid>
-      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, the format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites.</description>
+      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, budget data format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites.</description>
     </item>
     
     <item>
@@ -43,7 +43,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/prototypefund/</guid>
-      <description>With the Prototype Fund we support socially relevant software projects and increase their sustainable impact through open source as a matter of principle. In short: We support Public Interest Tech. We make digital-social innovation possible; with developer groups that bring a wide range of skills to bear in technology design and pass on their good ideas. With up to 47,500 euros per project and team, the funding fund supports software developers, hackers and creative people in implementing sketches for tools and applications in the areas of Civic Tech, data literacy, IT security and software infrastructure.</description>
+      <description>The Prototype Fund supports socially relevant software projects and increases their sustainable impact by open sourcing as a principle. In short: we support Public Interest Tech.
+We make digital-social innovation possible with developers that bring a wide range of skills in technology design. With up to 47,500 euros per project and team, the Prototype Fund supports software developers, hackers and creatives in building protptypes for tools and applications in the areas of civic tech, data literacy, IT security and software infrastructure.</description>
     </item>
     
     <item>
@@ -52,7 +53,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/httpsjetzt/</guid>
-      <description>https.jetzt! is a project to show how many government websites support HTTPS. Why is website encryption important? Any unencrypted transmission of data can be intercepted on the Internet and thus manipulated. Therefore, it is obvious that any transmission of sensitive data, such as orders in online shops, online banking or logins to websites with non-public content, should only be encrypted. For the user this means: If in doubt, for example when using online order forms, you should always check in the address bar whether an encrypted transmission is displayed there.</description>
+      <description>https.jetzt! shows how many government websites support encryption via HTTPS. Why is website encryption important?
+Any unencrypted transmission of data can be intercepted on the Internet and thus manipulated. Therefore, it is obvious that any transmission of sensitive data, such as orders in online shops, online banking, or logins to websites with non-public content should always be encrypted. For the user this means: when in doubt you should always check in your browser whether an encrypted transmission is displayed there.</description>
     </item>
     
     <item>
@@ -61,7 +63,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/kleineanfragen/</guid>
-      <description>The right to ask questions is an important right of MEPs - and a frequently used parliamentary control instrument. In the Bundestag alone, thousands of small questions are asked in each parliamentary term, which must be answered in writing by the government. If you add the questions asked in the parliaments of the Länder, a huge pool of useful information results which is scattered throughout the various online archives. On kleineanfragen.</description>
+      <description>The right to ask questions is an important right of MPs - and a frequently used parliamentary control instrument. In the German parliament alone, thousands of so-called &amp;ldquo;small questions&amp;rdquo; are asked in each parliamentary term, which must be answered in writing by the government. If you add the questions asked in the parliaments of the federal states, a huge pool of useful information results which is scattered throughout the various online archives.</description>
     </item>
     
   </channel>

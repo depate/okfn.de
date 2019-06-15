@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/appsandthecity/</guid>
-      <description>&amp;lsquo;Apps and the City&amp;rsquo; was a hackday on local traffic organized by OKF DE together with the local transport provider VBB, the Berlin government and the FH Potsdam. The VBB released GTFS data, opened up their API and provided some geo datasets about entrances to stations. During the event, coders, software experts, and designers used open transport data to create applications intended to improve public transport non-commercially.</description>
+      <description>&amp;ldquo;Apps and the City&amp;rdquo; was a hackday on local traffic organized by Open Knowledge Foundation Germany together with the local transport provider VBB, the Berlin government, and the FH Potsdam. The VBB released GTFS data, opened up their API and provided some geo datasets about entrances to stations. During the event, coders, software experts, and designers used open transport data to create applications intended to improve public transport non-commercially.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/codeforde/</guid>
-      <description>Code For Germany is a network of groups of volunteer volunteers (Labs) who use their skills to positively shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics and use their skills to improve communication between them and to provide the necessary impetus so that as many people as possible can benefit from the possibilities of open and free digitisation.</description>
+      <description>Code For Germany is a network of groups of volunteers (labs) who use their skills to shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics, and use their skills to improve communication between them. This provides the necessary impetus so that as many people as possible can benefit from open and free digitisation.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/energyhack/</guid>
-      <description>Energyhack is a hackathon around open energy data. Our energy supply and the ways of generation are manifold. But how is energy distributed and how do we ensure that more information is exchanged between producers&amp;rsquo; devices and consumers? Developers, designers, researchers and innovative thought leaders in the energy industry develop ideas, design hardware and prototypes or program new apps in 24 hours. The data from the Open Data Portal Netzdaten-Berlin was available to the participants as a database.</description>
+      <description>Energyhack is a hackathon around open energy data. Our energy supply and the ways of its generation are manifold. But how is energy distributed and how do we ensure that more information can be exchanged between producers and consumers? Together with developers, designers, and researchers, thought leaders in the energy industry brainstorm ideas, design, and develop prototypes in 24 hours. The data from the Open Data Portal Netzdaten-Berlin was available to the participants as a database.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/fragdenstaat/</guid>
-      <description>In a democracy, it is necessary for citizens to be able to inform themselves freely about government actions. With the Freedom of Information Act, every person, regardless of age or origin, has the right to request documents from the authorities. With the FragDenStaat online platform, we support citizens in exercising their right to access information from German authorities. Citizens no longer have to work their way through the legal jungle of the federal states and the federal government to make a request.</description>
+      <description>In a democracy, it is necessary for citizens to be able to inform themselves freely about government actions. With the Freedom of Information Act, every person, regardless of age or origin, has the right to request documents from the authorities. The FragDenStaat online platform supports citizens in exercising their right to access information from German authorities. Citizens no longer have to work their way through the legal jungle of the federal states and the federal government to make a request.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       
       <guid>https://okfn.de/en/projekte/jugendhackt/</guid>
       <description>Jugend hackt is a program designed to support young coders.
-While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht’ (Science) have been established in Germany for decades, there are few intiatives directed towards young talent in the field of software development. To fill this gap, Open Knowledge Foundation Deutschland e.V., together with a media education agency, Mediale Pfade e.V., organized the first Jugend hackt event in 2013. Since then, it has become a successful and well-established hackathon for young coders from all over Germany.</description>
+While such competitions as ‘Jugend musiziert’ (music) and ‘Jugend forscht’ (science) have been established in Germany for decades, there are few intiatives directed towards young talent in the field of software development. To fill this gap, Open Knowledge Foundation Deutschland, together with a media education agency, Mediale Pfade, organized the first Jugend hackt event in 2013. Since then, it has become a successful and well-established hackathon for young coders from all over Germany.</description>
     </item>
     
     <item>
@@ -62,7 +62,8 @@ While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/prototypefund/</guid>
-      <description>With the Prototype Fund we support socially relevant software projects and increase their sustainable impact through open source as a matter of principle. In short: We support Public Interest Tech. We make digital-social innovation possible; with developer groups that bring a wide range of skills to bear in technology design and pass on their good ideas. With up to 47,500 euros per project and team, the funding fund supports software developers, hackers and creative people in implementing sketches for tools and applications in the areas of Civic Tech, data literacy, IT security and software infrastructure.</description>
+      <description>The Prototype Fund supports socially relevant software projects and increases their sustainable impact by open sourcing as a principle. In short: we support Public Interest Tech.
+We make digital-social innovation possible with developers that bring a wide range of skills in technology design. With up to 47,500 euros per project and team, the Prototype Fund supports software developers, hackers and creatives in building protptypes for tools and applications in the areas of civic tech, data literacy, IT security and software infrastructure.</description>
     </item>
     
     <item>
@@ -71,7 +72,7 @@ While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/edulabs/</guid>
-      <description>edulabs sees itself as a supra-regional incubator in which people use their didactic, technical and creative skills to develop innovative and re-usable educational materials. The project works on three levels: Concept development, provision and advertising of free educational materials as well as community building and support. Throughout Germany edulabs organizes meetings of interdisciplinary teams where free educational materials (OER) and digitally supported methods are evaluated, created, documented and improved. The lab community is supported editorially, didactically, technically, as well as with the organization of Events.</description>
+      <description>edulabs sees itself as a supra-regional incubator in which people use their didactic, technical, and creative skills to develop innovative and re-usable educational materials. The project works on three levels: concept development, provision and advertising of open educational resources as well as community building and support. Throughout Germany, edulabs organizes meetings of interdisciplinary teams where open educational resources and digitally supported methods are evaluated, created, documented, and improved. The lab community is supported editorially, didactically, technically, as well as with the organization of events.</description>
     </item>
     
   </channel>

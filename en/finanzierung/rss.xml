@@ -3,7 +3,7 @@
   <channel>
     <title>Open Knowledge Foundation DE</title>
     <link rel="self" href="https://okfn.de/en/finanzierung/atom.xml"/>
-    <description>Financing on OKF DE</description>
+    <description>Funding on OKF DE</description>
     
     
     
@@ -25,8 +25,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/finanzierung/einnahmen/</guid>
-      <description>The majority (&amp;gt;81%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. onations correspond to approximately 8% of our income. We generated almost 5% through services, sponsoring currently accounts for 4.6% of our funds.
-Overview Public funders Companies Services Donations   *Organisation does not want to be named publicly, but you can personally inquire their name.    Projects financed by individual donations or based on voluntary work  Our projects are often initiated by voluntary work and driven by passionate individuals.</description>
+      <description>The majority (81%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. Donations correspond to approximately 8% of our income. We generated almost 5% through services provded; sponsoring currently accounts for 4.6% of our funds.
+Overview Public funders Companies Services Donations   *Organisation does not want to be named publicly, but may be disclosed upon inquiry    Projects financed by individual donations or based on voluntary work  Our projects emerge from a solution-oriented as well well idealistic approach, and are often driven by volunteer activities.</description>
     </item>
     
     <item>
@@ -35,9 +35,9 @@ Overview Public funders Companies Services Donations   *Organisation does not wa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/finanzierung/ausgaben/</guid>
-      <description>Most costs are linked to the implementation of projects and the organization of events. We try to keep fixed costs (non project-related expenditure) low. Rent, ancillary costs for the Berlin office and server expenses represent the majority of such costs.
+      <description>Most of our spendings are linked to the implementation of projects and the organization of events. We try to keep fixed costs (non project-related expenditure) low. Rent, ancillary costs for the Berlin office and server expenses represent the majority of such costs.
  ** for example infrastructure, book keeping, insurances
-We currently employ around 18.5 full-time equivalent staff.</description>
+We currently employ the equivalent of around 18.5 full-time staff.</description>
     </item>
     
   </channel>
