@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-05-23T00:00:00+0000</updated>
+  <updated>2019-06-18T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Neue Stelle bei FragDenStaat: Wir suchen Projektmanager*in! (75-100%, ab August 2019)</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/06/projektmanagerin-fragdenstaat/"/>
+    <id>https://okfn.de/blog/2019/06/projektmanagerin-fragdenstaat/</id>
+    <published>2019-06-18T00:00:00+0000</published>
+    <updated>2019-06-18T00:00:00+0000</updated>
+    <summary>Wer wir sind FragDenStaat ist das Portal für Informationsfreiheit in Deutschland. Seit 2011 ermöglicht es allen Menschen, einfach und transparent Informationen von Behörden zu befreien – mit technischen Tools, Kampagnen, Klagen und journalistischer Berichterstattung.
+Informationsfreiheit ist uns ein Herzensanliegen. FragDenStaat ist ursprünglich als ehrenamtliches Projekt gestartet und wird inzwischen von einem kleinen Team getragen. Damit erreichen wir deutlich mehr Menschen als früher. Unsere Entwicklung hat aber gerade erst angefangen: Wir haben viel Raum für neue Ideen, experimentieren gerne und suchen dafür Verstärkung!</summary>
+  </entry>
   
   <entry>
     <title>In eigener Sache: Wechsel der Geschäftsführung bei der Open Knowledge Foundation Deutschland</title>
@@ -148,16 +158,6 @@ Was sind eigentlich offene Daten?</summary>
     <updated>2019-03-20T00:00:00+0000</updated>
     <summary>The German government has threatened us in order to depublish a government report on the risks of glyphosate. The responsible Federal Institute for Risk Assessment (BfR), which reports to the Ministry of Agriculture of Julia Klöckner (CDU), accuses us of copyright infringement and demands that we sign a cease-and-desist declaration.
 Arne Semsrott, project lead of FragDenStaat: &amp;ldquo;It is shameful to see the Ministry of Agriculture abusing copyright to suppress unwelcome reporting.</summary>
-  </entry>
-  
-  <entry>
-    <title>Zensurheberrecht: Bundesregierung mahnt uns ab, wir wehren uns</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/03/zensurheberrecht/"/>
-    <id>https://okfn.de/blog/2019/03/zensurheberrecht/</id>
-    <published>2019-03-20T00:00:00+0000</published>
-    <updated>2019-03-20T00:00:00+0000</updated>
-    <summary>Die Bundesregierung hat FragDenStaat für die Veröffentlichung eines staatlichen Gutachtens zu den Risiken von Glyphosat abgemahnt. Das zuständige Bundesinstitut für Risikobewertung (BfR), das dem Landwirtschaftsministerium von Julia Klöckner (CDU) untersteht, wirft uns eine Urheberrechtsverletzung vor und fordert von uns die Unterzeichnung einer Unterlassungserklärung.
-Arne Semsrott, Projektleiter von FragDenStaat: &amp;ldquo;Es ist beschämend zu sehen, dass das Landwirtschaftsministerium das Urheberrecht missbraucht, um unliebsame Berichterstattung zu unterdrücken. Wir lassen uns aber nicht einschüchtern.</summary>
   </entry>
   
 </feed>
