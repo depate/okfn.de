@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-06-18T00:00:00+0000</updated>
+  <updated>2019-06-25T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Wir suchen ein*e Geschäftsführer*in, Bewerbungsfrist 28.07</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/06/ausschreibung-geschaeftsfuehrung/"/>
+    <id>https://okfn.de/blog/2019/06/ausschreibung-geschaeftsfuehrung/</id>
+    <published>2019-06-25T00:00:00+0000</published>
+    <updated>2019-06-24T00:00:00+0000</updated>
+    <summary>Die Open Knowledge Foundation Deutschland (OKF) setzt sich seit 2011 erfolgreich für dezentrale Teilhabe, offenes Wissen, digitales zivilgesellschaftliches Engagement und offene Innovation ein. Um die Wirksamkeit der OKF zu stärken und die Organisation in enger Zusammenarbeit mit Team und Board weiterzuentwickeln, suchen wir zum nächstmöglichen Zeitpunkt eine neue Geschäftsführung (in Vollzeit).
+Die Position ist angelegt als gestaltende und koordinierende Rolle mit Schwerpunkten in der finanziellen Führung, Teamleitung, Umsetzung &amp;amp; Steuerung von Maßnahmen der Organisationsentwicklung sowie der eigenverantwortlichen Erledigung des Tagesgeschäfts.</summary>
+  </entry>
   
   <entry>
     <title>Neue Stelle bei FragDenStaat: Wir suchen Projektmanager*in! (75-100%, ab August 2019)</title>
@@ -148,16 +158,6 @@ Bis zum 26. April ist es einen Monat lang möglich, hierzu online Ideen einzurei
     <updated>2019-04-01T00:00:00+0000</updated>
     <summary>Von Auskünften über die Lärmbelästigung an Straßen und Barrierefreiheit von Bahnübergängen bis hin zu Einnahmen und Ausgaben einer Gemeinde: Offene Daten helfen uns nicht nur dabei, unsere Umwelt und gesellschaftliche Prozesse besser zu verstehen, sondern ermöglichen auch eine aktive Beteiligung und politische Teilhabe. Wir zeigen, welche Potentiale offene Daten für die digitale Jugendbeteiligung haben und teilen unser Wissen, das wir in den vergangenen Monaten dazu gesammelt haben.
 Was sind eigentlich offene Daten?</summary>
-  </entry>
-  
-  <entry>
-    <title>Copyright Censorship: We Got a Cease-and-Desist by the Government </title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/03/copyright-censorship/"/>
-    <id>https://okfn.de/blog/2019/03/copyright-censorship/</id>
-    <published>2019-03-20T00:00:00+0000</published>
-    <updated>2019-03-20T00:00:00+0000</updated>
-    <summary>The German government has threatened us in order to depublish a government report on the risks of glyphosate. The responsible Federal Institute for Risk Assessment (BfR), which reports to the Ministry of Agriculture of Julia Klöckner (CDU), accuses us of copyright infringement and demands that we sign a cease-and-desist declaration.
-Arne Semsrott, project lead of FragDenStaat: &amp;ldquo;It is shameful to see the Ministry of Agriculture abusing copyright to suppress unwelcome reporting.</summary>
   </entry>
   
 </feed>
