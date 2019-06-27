@@ -269,6 +269,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2019/06/privatsphaere-oder-oeffentliches-interesse/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/06/ausschreibung-geschaeftsfuehrung/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
   </url>
@@ -3024,7 +3029,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3386,6 +3391,12 @@
   <url>
     <loc>https://okfn.de/blog/tags/datenschule/</loc>
     <lastmod>2017-04-18T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/datenschutz/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4249,7 +4260,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4536,7 +4547,7 @@
   
   <url>
     <loc>https://okfn.de/blog/tags/open-data/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4637,7 +4648,7 @@
   
   <url>
     <loc>https://okfn.de/blog/tags/open-government/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5266,7 +5277,7 @@
   
   <url>
     <loc>https://okfn.de/blog/tags/transparenz/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5318,7 +5329,7 @@
   
   <url>
     <loc>https://okfn.de/blog/tags/transparenzregister/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

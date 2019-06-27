@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-06-25T00:00:00+0000</updated>
+  <updated>2019-06-27T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Privatsphäre oder öffentliches Interesse?</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/06/privatsphaere-oder-oeffentliches-interesse/"/>
+    <id>https://okfn.de/blog/2019/06/privatsphaere-oder-oeffentliches-interesse/</id>
+    <published>2019-06-27T00:00:00+0000</published>
+    <updated>2019-06-27T00:00:00+0000</updated>
+    <summary>Ein Plädoyer für öffentliche Informationen zu wirtschaftlichen Eigentümern Dies ist eine Übersetzung des Privacy Reports von OpenOwnership, The BTeam und Engine Room. Kurzversion (engl.), Report (engl.).
+Zivilgesellschaftliche Organisationen, Unternehmen und Regierungen auf der ganzen Welt erkennen zunehmend die Notwendigkeit größerer Transparenz über die Eigentümer von Unternehmen als nützliches Mittel zur Eindämmung illegaler Finanzströme an. Während es wichtige Impulse für rechtliche Rahmenbedingungen gibt, die mehr Eigentümertransparenz fordern, steht der Trend zur Erfassung und Veröffentlichung von Informationen über wirtschaftliche Eigentümer - insbesondere deren Verfügbarkeit in öffentlichen Registern - im Mittelpunkt der Kritik.</summary>
+  </entry>
   
   <entry>
     <title>Wir suchen eine*n Geschäftsführer*in, Bewerbungsfrist 28.07.</title>
@@ -148,16 +158,6 @@ Jetzt mit einem Klick auch das Gutachten anfragen!</summary>
     <updated>2019-04-01T00:00:00+0000</updated>
     <summary>Die Online Konsultation der Bundesregierung zum 2. Nationalen Aktionsplan im Rahmen der Open Government Partnership ist offiziell gestartet. Hier können Bürgerinnen und Bürger Vorschläge einreichen, welche die Bundesregierung und Verwaltung offener, transparenter und partizipativer gestalten und damit die Umsetzung von Open Government in Deutschland voranbringen.
 Bis zum 26. April ist es einen Monat lang möglich, hierzu online Ideen einzureichen, mit Argumenten unterfüttern und diese zu bewerten. Die Ergebnisse der Konsultation dienen der Bundesregierung anschließend zur internen Beratung bei des im Sommer zu verabschiedenden Aktionsplans Open Government.</summary>
-  </entry>
-  
-  <entry>
-    <title>Offene Daten für die digitale Jugendbeteiligung</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/04/offene-daten-fuer-die-digitale-jugendbeteiligung/"/>
-    <id>https://okfn.de/blog/2019/04/offene-daten-fuer-die-digitale-jugendbeteiligung/</id>
-    <published>2019-04-01T00:00:00+0000</published>
-    <updated>2019-04-01T00:00:00+0000</updated>
-    <summary>Von Auskünften über die Lärmbelästigung an Straßen und Barrierefreiheit von Bahnübergängen bis hin zu Einnahmen und Ausgaben einer Gemeinde: Offene Daten helfen uns nicht nur dabei, unsere Umwelt und gesellschaftliche Prozesse besser zu verstehen, sondern ermöglichen auch eine aktive Beteiligung und politische Teilhabe. Wir zeigen, welche Potentiale offene Daten für die digitale Jugendbeteiligung haben und teilen unser Wissen, das wir in den vergangenen Monaten dazu gesammelt haben.
-Was sind eigentlich offene Daten?</summary>
   </entry>
   
 </feed>
