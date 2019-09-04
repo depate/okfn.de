@@ -6,10 +6,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bundesregierung macht kleine Fortschritte auf großer Baustelle</title>
+      <link>https://okfn.de/blog/2019/09/bundesregierung-macht-kleine-fortschritte-auf-gro%C3%9Fer-baustelle/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/09/bundesregierung-macht-kleine-fortschritte-auf-gro%C3%9Fer-baustelle/</guid>
+      <description>Berlin 04.09.2019 - Unter dem Vorsitz von Bundeskanzlerin Angela Merkel hat das Bundeskabinett heute den 2. Nationalen Aktionsplan Open Government (2019-21) beschlossen. Der Bund bekennt sich bis 2021 zu neun Verpflichtungen, um ein offenes Regierungs- und Verwaltungshandeln mit Transparenz, offenen Daten und Bürgerbeteiligung dauerhaft zu verankern. Hinzu kommen fünf Verpflichtungen von Seiten der Länder Nordrhein-Westfalen, Sachsen und Schleswig-Holstein. Bereits am Wochenende kündigte die Kanzlerin den 2. Nationalen Aktionsplan an. Diese hochrangige politische Verortung des Themas begrüßen wir ausdrücklich.</description>
+    </item>
     
     <item>
       <title>Verstärke das Programmleitungsteam von Jugend hackt (80-100%, Bewerbungsschluss 10.10.2019)</title>
