@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-09-04T00:00:00+0000</updated>
+  <updated>2019-09-28T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Tag der Informationsfreiheit: Geschwärzte Kunst</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/09/tag-der-informationsfreiheit-kunst/"/>
+    <id>https://okfn.de/blog/2019/09/tag-der-informationsfreiheit-kunst/</id>
+    <published>2019-09-28T00:00:00+0000</published>
+    <updated>2019-09-28T00:00:00+0000</updated>
+    <summary>Der 28. September ist der internationale Tag der Informationsfreiheit. Wir feiern den Tag wie jedes Jahr mit einer neuen Kunstedition – diesmal mit drei Klassikern.
+Das deutsche Urheberrecht ist schlecht und kompliziert und veraltet. Es ist so schlecht und kompliziert und veraltet, dass es im digitalen Zeitalter häufig nicht mehr diejenigen schützt, für die es einmal gedacht war - nämlich Künstler*innen - sondern ihnen das Leben schwer macht. Ohne ein Recht auf Remix werden Publikationen häufig zu einem Balanceakt zwischen Legalität und Kreativität.</summary>
+  </entry>
   
   <entry>
     <title>Bundesregierung macht kleine Fortschritte auf großer Baustelle</title>
@@ -145,16 +155,6 @@ Tag 1  Offen lernen - Gehäuse aufbrechen - Maximillian Voigt Wie Städte die Mo
     <updated>2019-05-02T00:00:00+0000</updated>
     <summary>Milliardenschwere Bauvorhaben, Geheimverträge mit der Wirtschaft und Einflussnahme von Lobbyist*innen: Ein Bündnis zivilgesellschaftlicher Organisationen will jetzt Licht ins Dunkel der Berliner Verwaltung bringen. Dafür hat es ein eigenes Transparenzgesetz auf den Weg gebracht, das das Recht auf Informationen des Staates in Zukunft weitreichend stärken soll.
 Das Bündnis Volksentscheid Transparenz, zu dem unter anderem die Open Knowledge Foundation Deutschland, Mehr Demokratie, der Chaos Computer Club und die Digitale Gesellschaft zählen, hat dem Senat im April einen Gesetzentwurf vorgelegt, nach dem Berliner Landes- und Bezirksbehörden proaktiv Informationen in einem zentralen Transparenzportal offenlegen müssen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Digitalisierung in der Jugendarbeit - unsere Erfahrungen mit den Demokratielaboren</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/04/digitalisierung-jugendarbeit-erfahrungen-demokratielabore/"/>
-    <id>https://okfn.de/blog/2019/04/digitalisierung-jugendarbeit-erfahrungen-demokratielabore/</id>
-    <published>2019-04-10T00:00:00+0000</published>
-    <updated>2019-04-10T00:00:00+0000</updated>
-    <summary>Die Digitalisierung ist insbesondere im schulischen und außerschulischen Bereich ein viel diskutiertes Thema - von der Infrastruktur bis hin zu digitalen Kompetenzen. Doch wie wirkt sich die Digitalisierung konkret auf die Jugendarbeit aus? Wo gibt es Bedarfe und Potentiale? Und welche Tools und Methoden funktionieren besonders gut? Im Rahmen der Demokratielabore konnten wir hierzu zahlreiche Erfahrungen sammeln, die wir mit euch teilen wollen.
-Als wir mit dem Projekt im Sommer 2017 gestartet sind, stellten wir schnell fest: Materialien und Konzepte mit dem Fokus auf digitale Tools sind in der außerschulischen Jugendarbeit sehr gefragt.</summary>
   </entry>
   
 </feed>

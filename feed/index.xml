@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tag der Informationsfreiheit: Geschwärzte Kunst</title>
+      <link>https://okfn.de/blog/2019/09/tag-der-informationsfreiheit-kunst/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/09/tag-der-informationsfreiheit-kunst/</guid>
+      <description>Der 28. September ist der internationale Tag der Informationsfreiheit. Wir feiern den Tag wie jedes Jahr mit einer neuen Kunstedition – diesmal mit drei Klassikern.
+Das deutsche Urheberrecht ist schlecht und kompliziert und veraltet. Es ist so schlecht und kompliziert und veraltet, dass es im digitalen Zeitalter häufig nicht mehr diejenigen schützt, für die es einmal gedacht war - nämlich Künstler*innen - sondern ihnen das Leben schwer macht. Ohne ein Recht auf Remix werden Publikationen häufig zu einem Balanceakt zwischen Legalität und Kreativität.</description>
+    </item>
     
     <item>
       <title>Bundesregierung macht kleine Fortschritte auf großer Baustelle</title>
