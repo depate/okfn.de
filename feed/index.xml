@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Parlamentarisches Frühstück zu Open Government</title>
+      <link>https://okfn.de/blog/2019/09/parlamentarisches-fr%C3%BChst%C3%BCck-open-government/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/09/parlamentarisches-fr%C3%BChst%C3%BCck-open-government/</guid>
+      <description>Mittwoch 16.10.2019, 8:00 - 9:15, Bundestag, Paul-Löbe-Haus (Raum 5.101 / 102) Als Schirmherrin lädt Saskia Esken (MdB, SPD) euch am 16. Oktober 2019 ab 8 Uhr zu einem parlamentarischen Frühstück über das Thema “Open Government” in Kooperation mit der Open Knowledge Foundation Deutschland ein.
+Um offenes Regierungshandeln weltweit zu fördern, wurde bereits 2011 die internationale Open Government Partnership (OGP) vom damaligen US-Präsidenten Barack Obama ins Leben gerufen. Deutschland nimmt seit 2016 daran teil.</description>
+    </item>
     
     <item>
       <title>Tag der Informationsfreiheit: Geschwärzte Kunst</title>

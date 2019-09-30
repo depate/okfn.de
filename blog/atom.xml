@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-09-28T00:00:00+0000</updated>
+  <updated>2019-09-30T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Parlamentarisches Frühstück zu Open Government</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/09/parlamentarisches-fr%C3%BChst%C3%BCck-open-government/"/>
+    <id>https://okfn.de/blog/2019/09/parlamentarisches-fr%C3%BChst%C3%BCck-open-government/</id>
+    <published>2019-09-30T00:00:00+0000</published>
+    <updated>2019-09-30T00:00:00+0000</updated>
+    <summary>Mittwoch 16.10.2019, 8:00 - 9:15, Bundestag, Paul-Löbe-Haus (Raum 5.101 / 102) Als Schirmherrin lädt Saskia Esken (MdB, SPD) euch am 16. Oktober 2019 ab 8 Uhr zu einem parlamentarischen Frühstück über das Thema “Open Government” in Kooperation mit der Open Knowledge Foundation Deutschland ein.
+Um offenes Regierungshandeln weltweit zu fördern, wurde bereits 2011 die internationale Open Government Partnership (OGP) vom damaligen US-Präsidenten Barack Obama ins Leben gerufen. Deutschland nimmt seit 2016 daran teil.</summary>
+  </entry>
   
   <entry>
     <title>Tag der Informationsfreiheit: Geschwärzte Kunst</title>
@@ -145,16 +155,6 @@ Tag 1  Offen lernen - Gehäuse aufbrechen - Maximillian Voigt Wie Städte die Mo
     <published>2019-05-03T00:00:00+0000</published>
     <updated>2019-05-03T00:00:00+0000</updated>
     <summary>Donnerstag, 16. Mai 2019 | 13:00 – 14:30 Uhr Hotel nhow | Stralauer Allee 3 | 10245 Berlin-Friedrichshain Eine gemeinsame Veranstaltung von Transparency Deutschland und Open Knowledge Foundation Deutschland e.V. Seit 2017 gibt das Transparenzregister online Auskunft über die wahren Eigentümerinnen und Eigentümer von Unternehmen. Allerdings führen große Lücken bei den zu meldenden Daten sowie Einschränkungen im Zugang und der Nutzung der Datenbank dazu, dass das Register weit hinter seinen Möglichkeiten zurückbleibt.</summary>
-  </entry>
-  
-  <entry>
-    <title>Ein Transparenzgesetz für Berlin: Volksbegehren startet im Juli</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/05/transparenzgesetz-berlin-startet/"/>
-    <id>https://okfn.de/blog/2019/05/transparenzgesetz-berlin-startet/</id>
-    <published>2019-05-02T00:00:00+0000</published>
-    <updated>2019-05-02T00:00:00+0000</updated>
-    <summary>Milliardenschwere Bauvorhaben, Geheimverträge mit der Wirtschaft und Einflussnahme von Lobbyist*innen: Ein Bündnis zivilgesellschaftlicher Organisationen will jetzt Licht ins Dunkel der Berliner Verwaltung bringen. Dafür hat es ein eigenes Transparenzgesetz auf den Weg gebracht, das das Recht auf Informationen des Staates in Zukunft weitreichend stärken soll.
-Das Bündnis Volksentscheid Transparenz, zu dem unter anderem die Open Knowledge Foundation Deutschland, Mehr Demokratie, der Chaos Computer Club und die Digitale Gesellschaft zählen, hat dem Senat im April einen Gesetzentwurf vorgelegt, nach dem Berliner Landes- und Bezirksbehörden proaktiv Informationen in einem zentralen Transparenzportal offenlegen müssen.</summary>
   </entry>
   
 </feed>
