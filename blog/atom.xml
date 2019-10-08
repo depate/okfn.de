@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-09-30T00:00:00+0000</updated>
+  <updated>2019-10-08T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Endspurt: Jetzt noch fürs Transparenzgesetz unterschreiben!</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/10/volksentscheid-endspurt/"/>
+    <id>https://okfn.de/blog/2019/10/volksentscheid-endspurt/</id>
+    <published>2019-10-08T00:00:00+0000</published>
+    <updated>2019-10-08T00:00:00+0000</updated>
+    <summary>Noch bis zum 31. Oktober sammeln wir Unterschriften für den Volksentscheid. Bitte ladet euch jetzt die Unterschriftenliste herunter, sammelt fünf Unterschriften und schickt sie uns!
+Derzeit haben wir rund 20.000 Unterschriften gesammelt. Das reicht allerdings nicht. Um sicher zu sein, dass wir das Ziel von 20.000 gültigen Unterschriften erreichen, müssen wir mindestens 25.000 Unterschriften sammeln - es kann nämlich immer sein, dass einzelne Unterschriften ungültig sind, beispielsweise weil Personen nicht in Berlin gemeldet sind.</summary>
+  </entry>
   
   <entry>
     <title>Parlamentarisches Frühstück zu Open Government</title>
@@ -146,15 +156,6 @@ Die Fragestellung: „Wie verändert sich aus Ihrer Sicht das Engagement von Jug
     <updated>2019-05-06T00:00:00+0000</updated>
     <summary>tl;dr: kurze Übersicht Mit 11 Beiträgen war die OKF in diesem Jahr vertreten. Vom traditionellen “State of the Open” über Erfahrungsberichte aus Projekten bis hin zu Diskussionen zu den Themen Aktivismus, Smart City, offene Technik-Bildung und nachhaltige Strukturen für “Public Interest Technologies” gibt es viel zu entdecken. Die Aufzeichnungen werden in den nächsten Tagen hochgeladen.
 Tag 1  Offen lernen - Gehäuse aufbrechen - Maximillian Voigt Wie Städte die Mobilität der Zukunft gestalten - Stefan Kaufmann  Tag 2  Aktivismus vs.</summary>
-  </entry>
-  
-  <entry>
-    <title>Transparenzregister: Mit Open Data Geldwäsche bekämpfen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/05/transparenzregister-mit-open-data-geldwaesche-bekaempfen/"/>
-    <id>https://okfn.de/blog/2019/05/transparenzregister-mit-open-data-geldwaesche-bekaempfen/</id>
-    <published>2019-05-03T00:00:00+0000</published>
-    <updated>2019-05-03T00:00:00+0000</updated>
-    <summary>Donnerstag, 16. Mai 2019 | 13:00 – 14:30 Uhr Hotel nhow | Stralauer Allee 3 | 10245 Berlin-Friedrichshain Eine gemeinsame Veranstaltung von Transparency Deutschland und Open Knowledge Foundation Deutschland e.V. Seit 2017 gibt das Transparenzregister online Auskunft über die wahren Eigentümerinnen und Eigentümer von Unternehmen. Allerdings führen große Lücken bei den zu meldenden Daten sowie Einschränkungen im Zugang und der Nutzung der Datenbank dazu, dass das Register weit hinter seinen Möglichkeiten zurückbleibt.</summary>
   </entry>
   
 </feed>

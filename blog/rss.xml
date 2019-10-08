@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Endspurt: Jetzt noch fürs Transparenzgesetz unterschreiben!</title>
+      <link>https://okfn.de/blog/2019/10/volksentscheid-endspurt/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/10/volksentscheid-endspurt/</guid>
+      <description>Noch bis zum 31. Oktober sammeln wir Unterschriften für den Volksentscheid. Bitte ladet euch jetzt die Unterschriftenliste herunter, sammelt fünf Unterschriften und schickt sie uns!
+Derzeit haben wir rund 20.000 Unterschriften gesammelt. Das reicht allerdings nicht. Um sicher zu sein, dass wir das Ziel von 20.000 gültigen Unterschriften erreichen, müssen wir mindestens 25.000 Unterschriften sammeln - es kann nämlich immer sein, dass einzelne Unterschriften ungültig sind, beispielsweise weil Personen nicht in Berlin gemeldet sind.</description>
+    </item>
     
     <item>
       <title>Parlamentarisches Frühstück zu Open Government</title>
