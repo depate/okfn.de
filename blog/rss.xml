@@ -6,10 +6,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Das ABC der Offenheit </title>
+      <link>https://okfn.de/blog/2019/11/abc-der-offenheit/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/11/abc-der-offenheit/</guid>
+      <description>Was ist OPEN? Diese und andere Fragen beantwortet das ABC der Offenheit, eine neu aufgelegte Broschüre von Wikimedia und Open Knowledge Foundation Deutschland. Open Data, Open Education, Open Government - Es gibt viele Bereiche, in denen Offenheit gefordert wird. Doch was bedeutet das eigentlich jeweils genau? Eine neu aufgelegte Broschüre von OKF und Wikimedia soll einen Einstieg in die Open-Welt bieten und die wichtigsten Fragen rund um freie Lizenzen klären.</description>
+    </item>
     
     <item>
       <title>Neuer Job bei Code for Germany: Wir suchen Communitybuilder*in! (80%, ab Januar 2020)</title>
