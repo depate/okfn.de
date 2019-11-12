@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is Germany ready for the OGP Steering Committee?</title>
+      <link>https://okfn.de/blog/2019/11/is-germany-ready-for-the-ogp-steering-committee/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/11/is-germany-ready-for-the-ogp-steering-committee/</guid>
+      <description>A critical review of the 2nd national action plan In October 2019 Germany is officially joining OGP’s steering committee, together with Indonesia. However, after the release of the second national action plan, the steering committee seems like premature praise. Or what us Germans would call it: Vorschusslorbeeren, which literally translates to receiving a roman laurel — before you’ve won the competition.
+The action plan was adopted by the federal cabinet on 4 September and first announced in a video statement made by Chancellor Angela Merkel the weekend before.</description>
+    </item>
     
     <item>
       <title>Das ABC der Offenheit</title>
