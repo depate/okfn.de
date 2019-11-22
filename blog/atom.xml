@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2019-11-12T00:00:00+0000</updated>
+  <updated>2019-11-22T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Umweltdatenschule: Ökostrom in DE - Verbraucher* haben es schwer</title>
+    <link rel="alternate" href="https://okfn.de/blog/2019/11/umweltdatenschule-oekostrom-in-deutschland/"/>
+    <id>https://okfn.de/blog/2019/11/umweltdatenschule-oekostrom-in-deutschland/</id>
+    <published>2019-11-22T00:00:00+0000</published>
+    <updated>2019-11-21T00:00:00+0000</updated>
+    <summary>Seit einigen Monaten beschäftigen wir uns im Rahmen des Projektes &amp;ldquo;Umweltdatenschule&amp;rdquo; mit Daten rund um das Thema Energie. Gemeinsam mit Robin Wood arbeiten wir an einer Neuauflage des Ökostromberichtes, der mit interaktiven Modulen ausgestattet werden soll. Aus diesem Grund schauen wir uns die Ökostromanbieter in Deutschland, ihre Geschäftsmodelle, Herkunftsnachweise und Investitionsbemühungen genauer an. Hier berichten wir von Erkenntnissen, die sich aus unserer Recherche ergeben.
+Fast 100% des Ökostroms aus dem Ausland Bei der tiefergehenden Analyse von acht Ökostromanbietern, die wir anhand der Kriterien von Robin Wood ausgewählt haben, fällt eine Sache auf: Nahezu 100% des von diesen Unternehmen vertriebenen Ökostroms stammt aus Wasserkraftwerken.</summary>
+  </entry>
   
   <entry>
     <title>Is Germany ready for the OGP Steering Committee?</title>
@@ -146,16 +156,6 @@ Handlungsfeld 1: Öffentliche Daten nutzbar machen Damit öffentliche Daten als 
     <updated>2019-06-28T00:00:00+0000</updated>
     <summary>In einem Offenen Brief zum Vergabeprozess des Projektes “Mobile Digitalwerkstatt” problematisieren wir gemeinsam mit zahlreichen Akteurinnen und Akteuren der Bildungspraxis kommerzielle Abhängigkeiten im Bildungsbereich. Anlässlich der umstrittenen Beauftragung von HABA Digital durch das FDP geführte Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen fordern wir:
  die Aufklärung des Vergabeprozesses im Falle „Mobile Digitalwerkstatt“, die Prüfung der Neuausschreibung des Auftrages der „Mobilen Digitalwerkstatt“, dass Erfahrung und Qualität des Angebotes ausschlaggebend für die Vergabe sind, dass profitorientierte Akteure Prinzipien freier Bildung folgen müssen, transparente Vergabeverfahren, faire Berücksichtigung auch kleinerer Initiativen, die Förderung einer nachhaltigen Zusammenarbeit auf Basis bestehender Strukturen sowie frei zugängliche Bildung und Schutz der Bildung vor lobbyistischen Einflüssen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Privatsphäre oder öffentliches Interesse?</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/06/privatsphaere-oder-oeffentliches-interesse/"/>
-    <id>https://okfn.de/blog/2019/06/privatsphaere-oder-oeffentliches-interesse/</id>
-    <published>2019-06-27T00:00:00+0000</published>
-    <updated>2019-06-27T00:00:00+0000</updated>
-    <summary>Ein Plädoyer für öffentliche Informationen zu wirtschaftlichen Eigentümern Im Zuge der anstehenden Umsetzung der 5. EU-Geldwäsche-Richtlinie setzen wir uns für ein offenes Transparenzregister ein. In unserem Policy-Papier veröffentlichen wir unsere Analyse und Forderungen. Zusätzlich publizieren wir den von uns organisierten gemeinsamen Brief an das Bundesministerium der Finanzen. Auf der re:publica 2019 haben wir das Thema in einem Vortrag beleuchtet.
-Es folgt eine Übersetzung der Zusammenfassung des Privacy Reports (engl.) von OpenOwnership, The BTeam und Engine Room.</summary>
   </entry>
   
 </feed>
